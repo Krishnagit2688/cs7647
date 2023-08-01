@@ -1,0 +1,99 @@
+:
+Thank you. The next question is from the line of Nilanjan Karfa from Nomura. Please go
+ahead.
+Nilanjan Karfa:
+Just want to dwell on that last question on the higher recoveries in the retail and business
+banking portfolio, obviously in the last year we had pretty high slippages, I think between
+fiscal 2020 and 2021, the retail slippages had more than doubled, so I find it quite curious
+that while it was challenging in collections this quarter, we had slippages and we also
+had collections, so would you elaborate what kind of slippages actually we had seen last
+year because I am guessing that all of the collections which had happened in this quarter
+were from the last year slippages and therefore colour of the recoveries that had actually
+happened in this quarter, so that is my first question.
+Rakesh Jha:
+Nilanjan, again just to say, if you look at the last year, bulk of the NPL additions happened
+in the March quarter. If you look at the slide 31 of the investor presentation, out of Rs.
+128 billion of the gross NPA additions in FY2021, close to Rs. 100 billion was in Q4-2021
+on an actual basis, not on proforma basis. The stock of NPLs did go up quite substantially
+in the last financial year and as I said we were expecting recoveries to be pretty high this
+year and for Q1 sitting in February or early March we would have thought of an even
+higher number than what we eventually had in the quarter. The collections, for example,
+in the first couple of weeks of April was still relatively okay. June as we mentioned, things
+started to get better specially from the second week onwards and again the benefit of
+Page 20 of 38ICICI Bank Ltd
+July 24, 2021
+the retail portfolio is that it is a very granular portfolio. These are home loans, car loans,
+personal loans, credit cards. So, there will always be additions and deletions that will
+happen in this portfolio. Again, I don’t want to put out a number on this, but if things
+remain, the third wave is not at all as intense as what we saw in the second wave and it
+is much milder, then we would definitely expect to see better recoveries in the second
+half of the year as well.
+Nilanjan Karfa:
+May be I will need a little more color, but to cut to the chase, given that we are saying
+that second half, I think the Q2 itself, I think you are calling out to be slightly better in
+terms of lower additions, let us keep aside third wave for a while and you are saying the
+second half will be a lot better in terms of additions and collections equally, would you
+want to call out that gross additions will be lower than last year? I think last year, we have
+seen something around Rs. 160 billion, would that be the case, do you want to hazard a
+guess and secondly, would you still want to manage 25% provision to PPOP ratio?
+Rakesh Jha:
+On the gross additions, it is difficult to say. The fact is that in the first quarter, the
+additions on a gross basis were Rs. 72 billion. Will the additions fall off as sharply or
+remain at the same levels as last year, that looks difficult. But again the way we look at it
+and specially on the retail portfolio is that we have to take into consideration the deletions
+and recoveries that happen as well. In the retail portfolio you will see additions and
+deletions all the while. So even if the gross additions were to be higher than last year, I
+think if you look at the recovery number, that would also be meaningfully higher than
+last year. So, we expect some improvement in the September quarter and then
+meaningful improvement into the second half of the year. It is difficult to hazard any
+specific number on that and again all of this is also subject to how the pandemic plays
+out from here and there are so many other factors as well. This is the best estimate that
+we can have right now.
+Anup Bagchi:
+Rakesh, I thought I will just give a colour on the consumer behaviour because I think
+there is an angle of consumer behaviour here. We had seen last time also that the
+Page 21 of 38ICICI Bank Ltd
+July 24, 2021
+moment there is uncertainty and there is a bit of anxiety, generally, the trend is to hoard
+cash and get into emergency funds. So, emergency fund this time around also we saw
+that there was a shift and obviously the bounces and the overdue position worsened in
+April and May. This is on the asset side. We also saw on the liability side, people taking
+out cash from ATMs and keeping it at home, so we also saw withdrawal and you will see
+across the banking system in general that the retail FD growth rates have been lower this
+quarter. Actually, we have to see this liability and asset movement with the consumer
+behaviour and in the first two months and first fortnight of June also, the anxiety hasn’t
+fully gone, it is in the second fortnight of June that some bit of confidence started to
+come back and once the confidence started to come back, there is an unwind of the
+emergency funds that people want to keep. Emergency funds, they keep by way of
+delaying repayments and also if they have got balances in their liabilities account,
+keeping it in cash because this time around for hospitalization and buying of medicines,
+etc., actual cash was required. We saw that consumer behaviour as well, which is why
+you will see that in upgrades etc., it will also move a bit with the sentiment, which is why
+we saw higher upgrades in Q1, bulk of it also came in June. April and May bounce rates
+and overdues had worsened, in June it had improved substantially, July also the trends
+are better. I thought I will just overlay the consumer behaviour and what a consumer is
+thinking and its impact on the asset side as well as on the liability side.
+Nilanjan Karfa:
+Anup, just a follow up on this, I mean given the kind of customers let us say these are,
+obviously I don’t have a lot of color, do you have to actually go out and collect or these
+are like more digital savvy and all?
+Anup Bagchi:
+No, actually a very good question, so we have to look at it product by product., So in
+jewel loans for example, because the customer’s jewelry is there with us as collateral,
+people walk in and pay most of it, we don’t go out and collect. So that got impacted
+more in the first quarter and then, of course the issue of auction was there. On the others,
+most of our collections, 90% plus, now we are collecting digitally. We are not sort of
+sending people and doing all of it. We are collecting digitally and over a period of time
+for us, most of our collections are through digital modes and this has been increasing
+Page 22 of 38ICICI Bank Ltd
+July 24, 2021
+over a period of time. For non-account holders there are auto debits through NACH. Bulk
+of it is all digital collection, so our dependence on actually people going out and
+collecting does get impacted, to some extent, I will not say it doesn’t, but our
+dependence on that, let us say, compared to one or two years back, is now much lesser.
+So, to that extent, we are okay. We are more driven by the consumer behaviour and the
+anxiety levels in the market, so if we were to sort of plot an anxiety meter versus
+movement on the overdue as well as on the liability side, you will see that they are fairly
+co-related. So I would say that is a much bigger driver than sending people and
+collecting. Our dependence is much less and we would continue to make it less and less
+dependent on that.

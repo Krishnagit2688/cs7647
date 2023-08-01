@@ -1,0 +1,47 @@
+:
+Thank you. The next question is from the line of Abhishek Murarka from IIFL Capital.
+Please go ahead.
+Page 21 of 31ICICI Bank Ltd
+April 24, 2021
+Abhishek Murarka:
+I have one question on the payments disclosure that you have made. So, in debit cards,
+the value and volume both have fallen and in the last quarter you had mentioned that
+some inactive cards are being culled. But this quarter the drop in the number of cards is
+actually quite sharp and same with the volume. The second observation is that in UPI
+P2M even those volumes and values have fallen, and I would have thought that if UPI is
+actually cannibalizing some of the card payments, at least volumes would have increased
+there. So, can you just sort of elaborate on what should be happening on the payment
+instrument and the payment volume side?
+Anup Bagchi:
+On the number of debit cards, we are sort of flushing the inactive cards out of the system,
+which is why you will see that the number of cards would have fallen. As far as share is
+concerned, the debit card market share has not moved. However, if you look at different
+payment systems, UPI certainly will over a period of time, put pressure on debit cards
+because the proposition of UPI is almost as strong as a debit card proposition. So, that
+is what is going to happen. Between credit cards and other modes of payment we don't
+think that the cannibalization will be that fast. So, we'll have to look at all payments system
+and our bet is that we have to keep betting on all payment systems and things which are
+growing. We have to ensure that we partner, make it open architecture like what we have
+done. We are sort of very clear that that is the way to go. As you know payments
+standalone may or may not make you money, for us, it will never make money on a
+standalone basis fully. But for us, the moment we get more and more digital footprint we
+are able to put it in the underwriting because it is a behavioral data and the velocity of
+the data is more important than the static data. Earlier it used to be static data only on
+demographics, age, etc. It's not that static data is not important, but it is important to keep
+capturing data with high velocity and the behavioral characteristics that helps us
+underwrite better. So, we can use the data to underwrite and we are using that data to
+underwrite. Now we are seeing in FASTag, very good quality data comes in with
+payments. On the debit card payments, no loss in market share, but UPI will cannibalize,
+and we feel that it will cannibalize every part to some extent.
+Page 22 of 31ICICI Bank Ltd
+April 24, 2021
+Abhishek Murarka:
+So, just a very quick follow up. On the UPI P2M and on the previous slide you have given
+that through Eazypay your transaction values have increased by 4x. But in terms of the
+value and volume both have fallen, just sort of appears to go in different directions. Any
+reason for this?
+Anup Bagchi:
+Eazypay essentially is on the merchant side, where there is a large amount of merchant
+transactions which happen, almost 2.2 lakh crores a month. On the debit card side, we
+have to add up all the payment system and then look at the throughput where it is
+healthily increasing, Abhishek.

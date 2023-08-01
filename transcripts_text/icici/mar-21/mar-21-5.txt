@@ -1,0 +1,73 @@
+:
+Thank you. Next question is from the line of Rohan Mandora from Equirus. Please go
+ahead.
+Rohan Mandora:
+If you can share segment wise collection trends seen in April in the retail portfolio. Also
+a second related question was within the vehicle disbursements that we are doing by
+value, what percentage of that portfolio would have credit decision-making without any
+manual intervention, and within that which products will have a higher share? Basically
+it is all machine learning and AI-driven credit decision making?
+Page 19 of 31ICICI Bank Ltd
+April 24, 2021
+Rakesh Jha:
+In terms of the retail collection, I think April is just way too early to comment on, even as
+we see those trends, it is just too early. It is logical to expect that all lenders would have
+seen some impact of the second wave on the collections and for us it would be no
+different. But like I said, I think we have to wait for a month or two to really gauge how
+this plays out and how things evolve. Again from last year, our experience was it is better
+not to jump to conclusions very soon. We will have to wait and see. On the portfolio,
+Anup talked about on how we have been focused in terms of our underwriting. So we
+are confident that it should play out well.
+Anup Bagchi:
+On the underwriting part, first is that unsecured lending is to better pre-approved
+customers and through straight through processing. On the business banking and other
+parts, in addition to complete straight through processing, score cards really help. We
+have seen that as the ticket sizes come down and as the portfolio which has large
+numbers coming in, score cards give a much better output than human intervention in
+credit decisioning with its own flavors of overriding the credit. So, we have seen time
+and again that scorecard gives you better credit decisioning but you have to keep
+updating the scorecard with the inputs and the learning that you get from this credit. So
+basically you have to keep refreshing the scorecards, but it takes away the bias in credit
+decisioning when you have very large number of cases. On the unsecured side, the
+beauty is that you can do full straight through processing. For example, on the credit card
+and personal loan side with the video KYC coming in, it is like complete straight through
+processing. And when you do it to your own customers, it is even better. We have solid
+underwriting abilities and credit delivery processes. Artificial intelligence, machine
+learning is used to figure out patterns and most importantly in getting the feedback of
+the early warning signal back into credit underwriting processes. The biggest learning
+essentially comes from cases which become overdue because they are from a pre-
+delinquency management and the cases which will become overdue because they
+actually give a lot of feedback about updating scorecard, credit models to ensure that we
+are going exactly where we would want to go. I would not say that for a larger loan, but
+for retail essentially the ROA comes from NIM plus fees, less cost of acquisition, less
+operating expenses, less cost of collection, less credit cost and that is where it flows. We
+Page 20 of 31ICICI Bank Ltd
+April 24, 2021
+can actually do intervention basis micro market, the customer segment on the yields and
+fees. Internally also there is a lot of scope on cost of acquisition if we lend to our internal
+customers, reducing the operating expenses which can be done through digital models
+and making it straight through and decongesting our processes completely and
+collection costs by making sure that we do pre-delinquency management and
+predominantly most of our collections is now digital. It is not physical at all. Thus when
+we select the profile, the client segment and the product properly, we also manage the
+credit cost. So, all the seven variables we look at it as one, we don't look at individual
+variables in isolation. We don't think that's the right way of looking at a business in retail
+because we have opportunities everywhere. However, as we move up that is on the
+business loans and SMEs, because the number of cases are small, it is not that much
+amenable to artificial intelligence and machine learning, but you do get on sectors. There
+the artificial intelligence and machine learning essentially comes in early warning signals,
+credit summation, which is the inflows and outflows. So, there's a lot of work that we do
+on the inflows and outflows and ensure whether there is volatility or whether there is
+stability, whether it is increasing, decreasing etc., The credit decisioning essentially
+happens on the scorecard which again gets used when we get input from all these
+variables back into the model. In case of mortgage, is more difficult because
+unfortunately the collateral part of the mortgage is not standardized, the title searches
+are not so much online. Where we have a very large collateral, the value of the collateral
+that today is not very amenable to full digitization. But the good thing is that even the
+land titles, etc., are becoming digital as we move on. We have seen for example, in auto
+VAHAN coming in and there are a lot of stuff which is getting more digital and so our
+ability to check fraud and other things is improving by the day. We feel that going
+forward, we are convinced that digital using artificial intelligence and machine learning,
+using everything which is available digitally but putting it altogether and synthesizing it
+is the way to go. It reduces internal cost, congestion in the processes and helps us in our
+ability to pick up good customers at a faster speed.

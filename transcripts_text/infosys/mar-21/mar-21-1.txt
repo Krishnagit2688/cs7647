@@ -1,0 +1,684 @@
+2Rishi Basu
+A very good evening and thank you for joining Infosys’ fourth quarter financial results. I am Rishi
+and on behalf of Infosys, I would like to welcome you to our press conference today. Before we
+commence, I want to take a moment to mention a few guidelines. Our friends from media, you will
+be on mute by default throughout the press conference. You will be requested to unmute yourself
+when we announce you for your questions and we request one question from each journalist so
+that we can accommodate everyone over the next hour. In case you are disconnected, please
+rejoin using the same link that was sent to you by our teams. With that let me invite our Chief
+Executive Officer, Mr. Salil Parekh for his opening remarks. Over to you Salil!
+Salil Parekh
+Thanks Rishi. Good afternoon everyone, and welcome. Thank you for joining us for this session. I
+trust you and your families are well and safe. We had an exceptional year and an exceptional
+quarter. Our YoY constant currency growth was at 9.6% for Q4 and for the full year our growth
+was 5% in constant currency.
+Our digital business grew by 34% YoY in Q4 and now representing 51.5% of our overall revenue.
+Our large deal wins were at $14 bn for the full year, a growth of 57% over the previous financial
+year and they were at $2.1 bn for Q4. Within the full year large deals, 66% were net new helping
+us to set up a very strong foundation for the next financial year.
+With these exceptional results, we had industry-leading growth in FY21. We continue to gain
+market share and I am grateful for the trust our clients have put in Infosys as we partner with them
+for their digital transformation programs.
+Our growth was broad based, with several of our industry segments showing strong growth YoY
+and it stems from a market-leading capabilities, digital, cloud, cybersecurity and in data analytics
+which allow us now to work with our clients’ most aspirational digital transformation activities.
+Our operating margin for FY21 improved by 320-basis points to reach 24.5% for the full year. For
+the quarter as well it was 24.5%. I am extremely proud of our employees and their enormous
+commitment especially during this past year but in general across the years. We will launch our
+second compensation review in a phased manner starting in July 2021. Our employees and our
+entire leadership team worked cohesively and for the benefit of our clients. This approach which
+External Document © 2021 Infosys Limited
+3we call One Infosys has really enabled us to have a very strong FY21 and allowed us to look
+ahead with success.
+Now looking ahead we see continued strong demand from our clients, especially in digital, in
+cloud, in data and we have a strong foundation of large deals. With that our constant currency full
+year revenue guidance for FY22 is growth between 12% and 14%. For operating margin, our
+superior performance in FY21 was in part because of the improvement in several strategic cost
+levers and in part because of cost avoidance and deferment. With normalcy returning gradually
+across the world, we anticipate some of those costs to return. With that our operating margin
+guidance for FY22 is between 22% and 24%.
+In keeping with our capital allocation policy, we propose an increase to the total dividend per share
+by 54% over the previous year for a full year dividend at Rs.27. In addition, we propose a buyback
+of equity shares of up to Rs. 9200 Crores, which is approximately $1.2 bn. We will use the open
+market method for this buyback. Thank you very much. With that let me pause and let us open it
+up for questions.
+Rishi Basu
+Thank you Salil. We now open the floor for questions. With Salil, we have Mr. Pravin Rao, Chief
+Operating Officer, Infosys and Mr. Nilanjan Roy, Chief Financial Officer, Infosys.
+With this, we open with the first question. And the first question is from Sharad Dubey, CNBC
+Awaaz who joins us on video. Sharad please unmute yourself and ask your question.
+Sharad Dubey
+I have a question for Salil Sir. The constant currency growth for fourth quarter itself came at almost
+2% and expectations were almost 3% to 3.5%. So, what can be the reasons that attributed for this
+and what goes ahead in the outlook. And the other query I have is for Pravin Sir, the attritions
+which has increased by almost 5%, came in at almost 15% for Q4. So, do you expect the numbers
+in attrition to increase in FY2022 and what does the outlook look like?
+Salil Parekh
+Let me start with the revenue. I think for the quarter as you mentioned the revenue growth was at
+2%. We had a very strong volume growth at 4.5%. We had a mixed move from onsite to offshore
+which caused some of the change and some of third party costs, which normally come in, did not
+External Document © 2021 Infosys Limited
+4come in, in Q4. However, our full year growth guidance remains very strong at 12% to 14% for the
+FY22 and we continue to see a very good demand in what we are seeing from our clients today.
+Pravin Rao
+On the attrition front, it has increased from 10% to 15.2%. This is an annualized attrition of IT
+Services. This is something that we had anticipated and it is a reflection of the strong demand that
+we are seeing in the market. Having said that, we are increasing our efforts to retain our talent. We
+had the first round of compensation increase effective January. We have announced one more
+round of normal cycle with effective date July and in between any other interventions that are
+required to retain some of the best talent, we will continue to do that. Over the past year also we
+have engaged our people, we provided a strong value proposition in terms of engagement and
+enablement. There is a lot of focus on continuous learning, lot of important projects that people get
+to work on, there is a lot of career advancement opportunity and so on. In the past year also during
+COVID, we have really done extremely well in terms of engaging with people, engaging their
+families, providing a lot of support. We had more than 900 plus interventions and so on and we
+have received very positive feedback. So, we are very confident that with these measures we
+should be able to navigate through this. The attritions are likely to remain at this level for the next
+one or two quarters given the demand, but we are very confident of managing through this and
+meeting our client commitments.
+Rishi Basu
+The next question is from Sajeet Manghat from BloombergQuint.
+Sajeet Manghat
+Good evening gentleman. Season’s greetings to you all. My first question is to Pravin with respect
+to the guidance which has been given especially the margins part of it. You entered the year
+24.5% operating margins, and your guidance is in the range of 22% to 24%. What is the kind of
+headwind that you are seeing in terms of guidance or in terms of margin that you have been
+conservative in giving guidance. I mean, your upper end is also not matching the full-year
+guidance, which you did for this financial year. Second one is with respect to the deal wins $2.1 bn
+in Q4 but it seems that your run rate has slowed down towards the end of Q4, is it because some
+of the deals have been pushed to the next financial year and if you can give some color on the
+financial services business segment as a whole as well?
+External Document © 2021 Infosys Limited
+5Pravin Rao
+I will start with the large deals and financial services and then I will pass it onto Nilanjan or Salil to
+respond on the margin guidance. On the large deals, we had a 23 large deal wins this quarter at
+$2.1 bn and for the year is $14.1 bn which is a record in Infosys’ history; and even for the Q4 52%
+of large deal wins was net new and for the year it is 66% and in fact the net new for the year $9.4
+bn is higher than all the large deal TCV that we did in whole of FY20. Obviously, this large deal,
+there is some volatility in terms of large deal wins, many of the deals take three to six months for
+closure. There are times when we are able to close many deals in the given quarter. There are
+times when it gets pushed up but given that we have about $14 bn with 66% net new, we have a
+very strong foundation getting into the next year FY22. So, we are comfortable with where we are.
+In terms of Financial Services, we had record growth, industry leading growth in the past few
+quarters that continues in this quarter as well. For the year, we had 25 large deal wins in this
+space and in this quarter itself 6 of the wins were in Financial Services. So we are well positioned
+for this sector to continue this strong performance in FY22 as well. In terms of demand areas, we
+are seeing of course a lot of transformational programs around mortgage transformation, lending
+services, front to back digitization, customer experience, modernization, call center technologies
+and operations, transformation and so on. So we are optimistic about this segment.
+Nilanjan Roy
+If you see our margins you have to go back to FY20 and we ended FY20 with 21.3% margin and
+we have ended FY21 with 24.5% so that is a 3.2% margin growth and that kind of growth we have
+not seen in the recent past. Like we have told you, over the last few quarters as well that the
+margin improvement of 320-basis points has come about with two or three reasons, one has been
+the cost deferments that Salil mentioned because last year of course, we delayed the entire pay
+cycle, number one. We also had cut back on our promotion cycles. In addition, we have turned
+aggressive cost-cutting, and things like travel had naturally stopped, on marketing etc., and we
+also did a lot of work on our strategic cost levers around pyramid and onsite and offshore
+automation. All these three helped us during the year to come to the 24.5%. These cost tailwinds
+which was about the deferral costs would come back in the FY22. So, the first pay hike which was
+in January has been announced that is making a headwind and as Salil just mentioned we are
+also looking at the second payment from 1st July. As the year progresses in the second half and as
+vaccine starts rolling out, things like travel etc., will open and some of these costs at the tail end
+will come up. So, we think 22% to 24% is a comfortable rate. It is important to keep in mind as well
+that the pre-pandemic events in FY20, our guidance was 21% to 23%. So now in that sense we
+are now 1% higher in terms of 22% to 24% so we remain quite comfortable with that.
+External Document © 2021 Infosys Limited
+6Rishi Basu
+Thank you Sajeet. The next question is from Kushal Gupta from Zee Business.
+Kushal Gupta
+I have two questions, one is with regards to the digital revenue share, last quarter, in Q3 we saw
+that it crossed more than 50%, so going forward by the end of FY22 what is the deal trajectory we
+are expecting for digital contracts? How much share could we end up with in FY22? Secondly
+would be on the regional front, for example, North America and Europe how are we seeing the
+business shaping up there? Is there a second wave, are we done away with that and the kind of
+considerations or how is the client spending going to be for FY22 from your IT client’s perspective?
+Salil Parekh
+Let me start with the digital one and then come to geography and Pravin can add something on
+geography as well. On digital, we are seeing tremendous growth, we have 34% growth in this Q4
+and we see all of our clients are at different stages of their digital transformation activities. What is
+good for us is clients are trusting Infosys to work with them in many different parts of the digital
+transformation, for example in cloud, data and analytics, cybersecurity and many other areas.
+Given the trajectory of growth we have seen recently and given the demand and pipeline we
+believe this sort of growth will continue, we do not have a specific number for the end of the year
+percentage that digital will be but we feel comfortable that we are gaining market share and
+growing quite fast in digital.
+In terms of geography, the demand in US clients, European clients are strong. What we are seeing
+is with the vaccine rollouts, the US has already started to see some resumption of normalcy over
+the next 3 to 4 months and Europe also has progressed quite a lot and they will come maybe just
+a little bit after that. UK is also in good shape from that perspective with their lockdown starting to
+ease as we saw yesterday and we think that that will also come into good shape with all of the
+stimulus that each of those governments have provided, something similar for us in Asia Pacific
+business, especially as it relates to Australia, New Zealand and Singapore. So overall the demand
+environment is starting to improve in most of these places.
+Rishi Basu
+Thank you. The next question is from Mugdha Variyar from CNBC TV18.
+External Document © 2021 Infosys Limited
+7Mugdha Variyar
+Hi everyone. Good to see you again. Hope you are doing well. Salil, I want to first ask you about
+the factors that you have considered for the FY22 guidance, which sectors is it going to come
+from? Are you looking at new areas. We had TCS say yesterday that they are looking at disrupting
+the consulting business. Are you looking at increasing your addressable market as well? Any new
+areas that you could look at and on deal wins, could you explain why there was a sharp decline in
+the deal wins from the last quarter? Is this the run rate that we can expect going forward in the
+coming quarters as well? Pravin, of course, there has been a sharp spike in attrition, you talked
+about the fact that because of this demand, but we did see that TCS has reported an all-time low
+attrition for the quarter, so what can Infosys do differently and in FY22 what are the wage hike that
+we can expect, are you going to be hiring more, what are the hiring plans for FY22? And Nilanjan
+are you factoring wage hikes and more hiring in the margin pressure as well?
+Salil Parekh
+Let me start with the guidance on revenue. I think 12% to 14% growth is an extremely strong
+guidance and indication that we see very good demand and we also see that this is coming across
+a strong foundation from what was achieved in the previous financial year. The demand is coming
+in a broad based way. We are seeing almost all of our industries providing good outlook for
+demand. So it is not in any one space or the other and the disruption question that you asked, our
+focus is really on the digital transformation that our clients are driving and one of the biggest
+components of that is cloud. As you will recall, we launched our Infosys Cobalt cloud capability last
+year and that is one of the strongest areas that are tracking with the clients for the growth and of
+course there are other components of digital which looks at experience, which relates to how our
+clients are looking to use the technology in digital and then data and analytics and cybersecurity.
+So those are the areas that we are seeing and with the level of confidence we have, we are saying
+the growth guidance will be 12% to 14%. In terms of what we have seen on the deal wins, as
+Pravin was sharing, large deal wins are typically somewhat volatile in a given quarter, but for a
+given year they are quite a good indicator. This last financial year, we had $14 bn of large deal
+wins. The previous financial year we had $9 bn. So it is a huge step up on an annual basis and we
+see the demand in this financial year to be quite strong and we will continue to do well with large
+deal wins. With that let me pass it on to Pravin.
+Pravin Rao
+Hi Mugdha. We historically have an average attrition of 13% to 15%. What we are seeing now at
+15% is probably at the high end of average that we are seeing. It is similar to what we saw about
+External Document © 2021 Infosys Limited
+8four quarters back. Obviously it is higher than what we saw in the previous quarter. As mentioned
+earlier, there are many interventions that we are doing to retain the best of our employees. We
+have a very compelling value proposition and with compensation interventions, with promotions
+and with many other initiatives that we have in place we are very confident to sustain around this
+level going forward and without compromising on any client requirements. In terms of hiring, this
+year we have added about close to 21,000 fresher’s from campus, both in India and overseas and
+in coming year we are looking at over 25,000 again both India and overseas.
+Nilanjan Roy
+Mugdha, on margins, absolutely we have factored the guidance, second pay hike from July and
+also we have talked about certain headwinds in the latter part of the year with travel, opening up of
+other overhead costs where we had squeezed a bit from last year and those costs both have been
+factored in the margins, but we remain quite comfortable in the 22% to 24% range.
+Rishi
+Thank you. The next question is from Poonam Saney from ET Now. Poonam can you unmute
+yourself and ask your question.
+Poonam Saney
+Thank you so much for this opportunity. Salil, my question to you is, if I am looking at the kind of
+estimates that most of the analysts are working with, especially in terms of buyback, the buyback
+expectation was 11,000 to 15,000 odd Crores which is on an average 12,000 Crores of sales,
+expectation and you have announced a buyback of 9,200 Crores so what is the expectations from
+an analyst perspective? Any reasons for the same and can you give some colour on the same? I
+also want to understand what is the progress in terms of Daimler deal by the revenue growth as
+well as the margins guidance is fairly in line with expectations. I wanted to understand how the
+Daimler deal would start contributing to the revenue as well as in terms of profitability and if we
+could also get more colour in terms of the margin trajectory. We would see some of the costs
+returning, so how would those costs shape up and impact the margin trajectory?
+Salil Parekh
+Thanks. Let me start with the buyback. Nilanjan might have some point to add to that and then
+Pravin will take Daimler question and Nilanjan for the margin. On the buyback, our approach has
+been to work with our capital return policy and our capital return policy has been quite clearly
+External Document © 2021 Infosys Limited
+9stated a couple of years ago, that we plan to return 85% cash back to shareholders and there are
+two components to this. One which relates to the dividends, one which relates to possible
+buyback. So, keeping all those factors in mind, the board decided that this was the amount that
+made sense. We have a clear view in terms of how this will support the capital return policy across
+the 5 year period and how we are able to return 85% which is our target amount. That really is the
+rationale for the 9,200 Crores that we have announced as a buyback. Let me pass it to Nilanjan
+first if there is anything else on the buyback and then Pravin.
+Nilanjan Roy
+Sure. So, just to add to Salil’s comments, so if you actually see our payouts of the last 2 year’s
+dividend, we declared 6,400 Crores of dividend and 9,200 Crores of buyback. Our cumulative
+payout for FY21 and FY20 which are the first 2 years of the capital allocation policy, we would
+have paid out 83% of the 85%, so in that sense I think this is completely in line with our policy and
+that is what the board also considered when deciding the amount of buyback. So, I think it is quite
+transparent and actually working in line with clearly articulated forward looking policy as well. So
+that is on the buyback. On the margins, like I said and we have been talking about it during the last
+year that our margin has increased and some of them have come from the deferment of costs and
+the cost deferrals and we are cognizant of that and have been calling that out that these will
+become headwinds during FY22 and we have factored that into our 22% to 24% guidance. But
+having said that, this would still be a 100 basis points above our pre-COVID guidance which was
+last at 21% to 23%. So in that sense, this is a step up in our underlying margin trajectory.
+Pravin Rao
+On the Daimler program obviously it is a complex program with many elements. We have started
+planning for the same. We have started ramping up and started getting into details of contracts
+that we need to innovate. We have also started looking at making offers because there is
+rebadging element as well, so a lot of preparatory stuff and other work is going on as per
+schedule.
+Rishi Basu
+Thank you. The next question is from Shilpa Phadnis from Times of India.
+External Document © 2021 Infosys Limited
+10Shilpa Phadnis
+Good evening gentlemen. Sir, you have set yourself a three year roadmap to turn around Infosys.
+What is Infosys’ next, especially from a strategic standpoint when the pandemic has gone from
+threat to opportunities to spurt your client’s transformation agenda? The second question is though
+cloud adoption is driving a multiyear tech cycle, with the ramp up in cloud deals, how do you see
+the pricing, will it only get better? Coming from the recent ISG commentary, they talk about how
+the cloud ACV’s are moderating, so what are the specific challenges in terms of acceleration in
+cloud migrations? My third question is on the deal front, you have won a $14 bn TCV but largely is
+it on renewals restructuring, is there a challenge in terms of the new scope trajectory, if you can
+help us with this, sir. Thank you.
+Salil S Parekh
+Thanks for the questions. I will start off with the first one on our three-year program and how we
+look ahead. We think we had an extremely successful three-year journey, some of the elements
+are how we really reshaped and become a digital services company. Today, digital is more than
+50% of our business. The large deals that you mentioned at $14 bn, but there is also a
+tremendous amount of work we have done in reskilling of our employees, in looking at automation,
+and variety of steps within the company, the way we transformed to a live enterprise, are a
+complete change in the way Infosys is working with clients and working with employees today.
+Now as we look ahead what we see is real intense capabilities around digital and there the main
+focus remains around cloud, around data and analytics, around cybersecurity and with the launch
+of Cobalt, Infosys Cobalt Cloud capability set, we are again in a leading position to work with
+clients on their cloud journeys. So, we feel quite comfortable in the path we have taken and how
+we are looking ahead in partnering with our clients on their digital transformation journeys.
+On the large deals, Pravin will elaborate but the one point I wanted to make was with the $14 bn
+numbers that you referenced, 66% is net new. So, in many ways that is the driver. Of course we
+are also very strong in doing what is going on and those are the factors that come into play as we
+look at the guidance for the future. Let me pass it on to Pravin.
+Pravin Rao
+I think as Salil said overall $14 bn, 66% is net new and even in Q4, 52% was net new. Last year
+when we did $9 bn of large deals TCV, only about 37% was net new. So, this varies, there is some
+volatility in net new but it is equally important. We have to win renewals; we cannot afford to lose
+whatever we have at present. At the same time, we also have to capture market share and that is
+External Document © 2021 Infosys Limited
+11where the net new comes in. So, we have a good balance out there and I think this year given the
+66% of what we have won is net new, it is a very strong base for getting into FY22.
+Shilpa Phadnis
+Sir, on the cloud ramp up, if you can just help us with that question in terms of the pricing and
+given the background the recent ISG commentary on how the cloud ACVs are decelerating, so
+what are some of the challenges when it comes to cloud migration programs?
+Salil Parekh
+So on cloud, the migration is one part of it, so in the cloud area, and again ISG also pointed this
+out: There are multiple facets of the cloud work that we are engaged in or clients are looking it.
+There is a piece which is of migration, but there is a piece which relates to how clients are
+adopting public cloud or private cloud and there is a piece within our Cobalt structure which relates
+to how clients are looking at SaaS providers and rolling out that capability within their ecosystem.
+Our experience is that actually cloud programs are quite large and today what we have seen in
+FY21 within $14 bn is a very strong cloud capability programs that we are working with clients on,
+so we do not see that scale or size of cloud deals is going to decelerate. In terms of margins, there
+are different profiles or different things of the cloud depending on whether you are working on the
+public cloud or working on SaaS. In general, we do have a view on our digital margin which is on
+average higher than the average margin of the business.
+Rishi Basu
+Thank you Shilpa. The next question is from Ayushman Baruah from the Mint.
+Ayushman Baruah
+Two simple things, so one is as remote working becomes the new norm and as we also gear up
+may be for a potential second lockdown, do you feel the whole concept of onsite working versus
+offshore is getting redundant as employees can work from anywhere now, how do you plan to deal
+with that? That is first. Secondly, what is your acquisition strategy for FY22 given that last year
+you made a lot of acquisitions, so in which areas would these acquisitions be in the digital cloud
+space etc? Thank you.
+External Document © 2021 Infosys Limited
+12Salil S. Parekh
+Thanks for the questions, Ayushman. First one relating to work-from-home, what we have been
+clear and I think Pravin shared this during our past earnings calls as well, is to say that first we
+have a very strong work-from-home approach that is working well. Thanks to the infrastructure that
+we built up within the company and the rapid speed at which we moved our people to work-from-
+home. What we have now learnt as you have seen Nilanjan shared his stats, onsite mix has
+moved significantly to offshore in the last financial year, much more rapidly than it had done in the
+previous several years. We feel that some of this is the way clients are looking at the business;
+however, there is also a lot of use and work that we do in our digital centres in Europe, in US, in
+Australia and Singapore and those type of work will continue even if that becomes a hybrid model,
+which means partially working from home, partially working from a work location. Having said all of
+that, we still think that there will be a need to build up some social capital and some of that will be
+built when people start to come back to the office. So, there are two things at play here, the hybrid
+model and the shift on the onsite offshore mix and there are different ways we feel those will play
+out and we will see how that looks in the next few quarters or maybe the next few years. On M&A,
+we continue with our focus on Digital and Cloud acquisition opportunities. We will continue to look
+with the cultural fit, the strategic fit and the cost price of the asset that we are looking to acquire.
+With all those things coming into play, we hope to continue with our M&A activity in this year as
+well.
+Rishi Basu
+Thank you. The next question is from Ayan Pramanik from The Economic Times. Ayan please
+unmute yourself and ask your question.
+Ayan Pramanik
+Congratulation Salil on a good set of numbers. I have two small questions actually. If you look at
+the attrition number it seems significantly higher, and we hear that there are few hundreds of
+vacant roles across some key clients. Could you please elaborate on that if there are some supply
+side issues for some key clients? That is the first question. Second part is if you look at the
+revenue per employee consolidated which has grown, which is 55.2 in US dollar 1000 so do you
+see that improving going forward?
+External Document © 2021 Infosys Limited
+13Salil Parekh
+Let me start on the question you had about roles on client projects. We have a tremendous
+capability of fulfilling demand. We believe that is going extremely well. As Pravin was sharing
+some of the points on attrition and what we are doing in terms of real strong employee
+engagement. There are two factors I also want to highlight. We are making sure that we have
+huge levels of recruitment both from college campuses in India and outside India and also
+laterally. The main reason we are seeing a lot of this focus on Infosys employees is also because
+our training is probably the best training in the industry, and we are extremely proud of that
+training. We believe that that is the training that drives what we want to do in terms of digital
+programs with our clients and that is where we are making sure that all of the effort is put in and
+how we are fulfilling all over the world for our clients. For the other question, let me just check if
+Nilanjan would you want to address that, please.
+Nilanjan Roy
+On the revenue per employee if you go back in the industry, it has largely been flat and it is a
+reflection of two things, that is client pricing so which is a downward pressure and the other hand
+you start putting in automation which tries to negate some of that client discounts and rate
+negotiation. So if you see that secular trend line has largely been flat, but of course we continue to
+drive initiatives like digital pricing and we know that our digital side of the business is giving us
+higher margins and higher RPP but at the same time there is some downward pressure on the
+core side of the business which offsets that but our intent continues to remain to command large
+and larger premium for our digital side, but secular trends have been largely flat as of now as a
+combined portfolio.
+Ayan Pramanik
+Thank you Nilanjan. If I take a cue from that point, can I ask one question. So, are there still
+requests from clients for discounts like we had seen last year in March?
+Nilanjan Roy
+That is a continuous process. I do not think we are seeing any acceleration unlike we mentioned
+last year also during COVID wherever clients had come during that initial period, we were happy to
+extend anything, but clients do come and ask for discounts and productivity gain at the time of
+renewals etc. but nothing unusual – this is quite normal what we are seeing.
+External Document © 2021 Infosys Limited
+14Rishi Basu
+Thank you Ayan.
+The next question is from Chandra from Moneycontrol.
+Chandra Ranganathan
+Thank you. I hope all of you are well and safe. Salil, I know you addressed the consulting question
+at the beginning, but my question is the way different companies are approaching it seems to be
+very different. While some of them are taking the acquisition route, others are talking about the
+organic route in terms of how they will leverage expertise of both the company as well as the client
+to kind of build out an end-to-end solution. Now Infosys has tried acquisitions in the past, so what
+would your own approach be to sort of upsell IT services. Is this an area that you are looking at
+seriously? Do you think Infosys can do what a McKinsey or an Accenture are doing today in this
+area?
+The other question was for Nilanjan, while a lot of people are talking about the buyback premium,
+they are talking about gap up opening for the stock tomorrow, 25%, I think is higher than more
+people were expecting, so what did you factor in while deciding on the buyback price.
+Pravin, couple of questions for you, you said that you will look at a number of incentives, would
+expanding the ESOP pool be one of them, because you are also competing with Tata’s and
+Hyperscalers to acquire talent and why did you put off this second compensation review till July. I
+mean, shouldn’t you not to have done this perhaps now or next month considering your attrition is
+at 15%, your utilization is at 88%, so what would your comfort level be on utilization also going
+forward? Thank you.
+Salil Parekh
+Thanks for your question. Let me start with the first one. I think what we are seeing in the market is
+with all the digital work there is more decision making, that is, in addition to the technology buyers,
+also the business buyers. What Infosys has done over the years is built a very strong consulting
+business. As you pointed out through acquisitions but also through organic means, you know over
+the last couple of years, our consulting business is performing well and connecting well with clients
+across different geographies and industries. So, our approach is very much of the view where we
+need to work with business buyers and make sure that our consulting and technology teams work
+hand in hand. If you look at some of the large digital transformation programs we had started in the
+External Document © 2021 Infosys Limited
+15last year, we take an example of Vanguard, that really is something that looks at business issues
+and insights which are driven by our consulting team and also industry leads which are driven by
+our industry team and technology and process operation’s capabilities those coming from the tech
+and BPM. It is really bringing all of these things together, that is more important in our mind, the
+‘One Infosys’ approach that I referenced at the opening as opposed to just doing one thing let’s
+say consulting or on another thing which is the industry or something else on tech . So yes, we see
+many peers that you referenced, doing those sort of things but we are now well ahead of that. We
+are in this more where all of this is integrated, as ‘one Infosys’ and bring that to the client. Let me
+pass it to Pravin, with respect to the second question.
+Pravin Rao
+On the attrition front, obviously, we had a salary increase effective January 1 and so we felt July 1,
+would be the right thing. Historically, also we have always had a phased approach to
+compensation increase and we do it in a staggered manner. And that is something we want to get
+back to our regular cycle in the coming year as well and so we felt July would be adequate. In the
+interim, as I said earlier, if there are any other interventions required in terms of retentions, we will
+be happy to do that and we are already doing that. In terms of RSUs, already for 10% to 15% of
+our promising people in the mid-level and it is not something new, in the past few years we have
+been issuing RSUs and that program continues.
+Nilanjan Roy
+On the buyback price, first thing is this is an open market buyback unlike the other buyback which
+you have seen in the recent past which are tender buybacks where the price is fixed. So, our
+premium of 25% give or take versus 1400 is the maximum buyback price that is number one. So, it
+is not the price which we will buy that is the maximum price, this is the more longer drawn process
+in terms of timing, because firstly this needs shareholder approval at the AGM which is scheduled
+for June and then there is a longer process during which we will buy. So, this we will go on for the
+next six to seven months if not more and considering both these factors, we think a maximum
+price of 1750 is quite fair.
+Rishi Basu
+Thank you. The next question is from the Shivani Shinde from Business Standard who joins us on
+audio. Shivani, can you unmute yourself.
+External Document © 2021 Infosys Limited
+16Shivani Shinde
+Couple of questions have been asked but let me get more clarification. Salil, you just replied
+completed three years of the entire restructuring plan that you started in April of 2018. Are you
+happy to see that Infosys? You have spoken that digital is going to be going ahead roadmap, call
+out three really important aspects in digital that you would want Infosys to be ready with and I am
+looking at a roadmap of five years, and where do you see Infosys in the next five years? Also
+please give us color on the core business aspect which has been going down, where do we see
+that bottoming out? Nilanjan, a hygiene question FY22 in terms of capex what do we expect from
+Infosys, work-from-home still continues to be there. So, if you could throw a little bit color on that?
+Pravin, lot of questions asked on salary hikes and attrition, if you could give us the quantum of
+hikes and on campus hiring you said that you are hiring almost similar or slightly more, are you
+giving a geography breakup as well? Thank you, gentlemen.
+Salil Parekh
+Thanks for those questions. Let me start Shivani. What we have done over the three years we
+talked a little bit earlier about I think a huge way both within the company and how we connect with
+clients on their digital journeys and there has been a huge change there. Now looking ahead as
+you said on a five-year horizon, I think, the thing really to keep in mind is one of the biggest
+opportunities in front of us because our clients are going there is really the cloud opportunity and it
+may be simple to say cloud because it encapsulates a variety of things that is part of the reason
+why we have launched Cobalt. It really goes into a lot of specific elements which relate to different
+parts of the cloud - whether it is the public cloud, private cloud, of course in the hybrid environment
+or the SaaS capabilities and then migrations and cloud native development. These elements, each
+of them are huge capabilities that we have built up and we think that this is going to be significant
+part of where, our clients are driving their digital journeys and so we think this should become
+bigger part of our work going forward. Another area I would really focus on is data and analytics. It
+is something that is becoming more critical in how that is being developed with our clients in mind
+and it is an integral part of what we are doing in our digital transformation work with our clients, so
+that will become large. There are couple of other places where we are also making huge inroads
+which we will talk more and more about as we go ahead into the next five years, but we are well
+positioned to capture what our clients are looking to drive in their spend and therefore become
+closer partners with them. With that, let me pass it may be first Nilanjan on capex, then Pravin with
+the salary discussion.
+External Document © 2021 Infosys Limited
+17Nilanjan Roy
+Yes, so on capex as you know in FY21, pretty much we shutdown on the infrastructure capex as
+everybody was working from home and in fact repurposed a lot of spend on work-from-home
+enablement which was about laptops, communication, security. Going into next year, some of the
+in-flight projects we think will start back and we will continue to focus on enablement of work-from-
+home. So, there will be some ramp up of capex versus the prior but it will still be below the pre-
+pandemic levels.
+Pravin Rao
+On the compensation, quantum will be as per the industry norms. Obviously, we will be targeting
+segments where the attrition is higher and in terms of campus hires this year we had 21000
+campus hires, over 19000 in India and about 2000 outside India. In the coming year we are talking
+about close to 25000 plus, about 24000 in India and may be a couple of thousand outside India.
+Rishi Basu
+Thank you! The next question is from Sankalp Phartiyal from Reuters news. Sankalp, please
+unmute yourself.
+Sankalp Phartiyal
+Good evening everyone. Salil, my question is to you. Whenever you give an update guidance you
+say that there is a good demand coming in from the clients and that is one statement that we have
+heard across the quarters and it is true because amidst the pandemic such is the demand for
+digitization. But I was wondering if you could go a little bit granular on that and give me some color
+in terms of, what is it that the clients are exactly demanding because again we have also heard
+you say that you want to be a partner in the digital transformation of clients, so could you give us a
+little more color on that please? And I heard Pravin say that we are going to hire 25,000 freshers
+from India and overseas, I wanted to you ask about the change in the US administration and if that
+is going to have any effect on the visa, the whole working environment for software service
+exporters like yourself? Just those two. Thank you.
+Salil Parekh
+Thanks for the question. I think to give you some color on the sort of demand we are seeing.
+Today if you look, we have work which we are doing, for example in the retail sector where we are
+working with clients who are changing what they are doing, with how their end customer - the
+External Document © 2021 Infosys Limited
+18consumer is connecting with them through different channels for buying products, for connecting
+with and giving feedback on what is going on. Their sales teams are using different channels to
+connect with different rep structures. All of this is being built on a cloud ecosystem and it is also
+being built with a new set of technology which requires leverage, whether it is all of our capabilities
+on cloud. For example, in many cases, we are using unique and agile ways to build new software,
+using the experience capabilities of our digital studios, design the way this technology works or
+even roll it out across the cloud into usage worldwide at the same time. So that is one example of
+the type of project, these are different depending on industry whether you look at insurance
+business, the utilities business, the consumer products business or the banking business. In each
+of those areas, there are new ways that our clients are looking to connect with their customers to
+grow their business and that makes it more and more critical for them to drive these projects faster
+because by doing that they are able to impact their own growth, their own market share which is
+where our support comes. So, all of that will translate to good demand and a good demand is
+translating for us to a very strong revenue guidance of 12% to 14%.
+Pravin Rao
+On the visa front, obviously, our strategy is to be less dependent on visa, and this is something
+that we have been embarking on for the past two to three years. Today, more than 69% of our US
+workforce are locals and so to that extent we are less and less dependent on the visa regime.
+Having said that the early indications are, Biden administration seems to be much more business
+friendly, much more immigration friendly, we have seen many of the restriction, with respect to
+Trump administration have either been deferred or they have allowed it to lapse. One of these
+amendments around compensation increases, has also been put off by more than a year. So, it is
+early days we had remained busy, but from an Infosys perspective we are less and less
+dependent on the visas, we are a truly robust model with lot of focus on localization.
+Rishi Basu
+Thank you. The next question is from Saritha Rai from Bloomberg.
+Saritha Rai
+Good evening gentlemen. My first question is to Salil. Salil, you talked this evening about
+acceleration towards offshore, in your onshore, offshore hybrid model and you also talked about
+digital design studios, acceleration of cloud, all of it can be served from your offshore centers. I just
+wanted to know what is going to happen to your localization plan, what is going to happen to the
+development centers that you were going to set up in the US especially in Europe, how does the
+External Document © 2021 Infosys Limited
+19plan change? My second question is about the coming challenges, you talked today about having
+25,000 people from the campuses in the coming year, maybe 26000 if my math is right to what
+Pravin just said, so there is going to be a lot of demand not just for fresh graduates of which India
+produces millions, but also in the middle and top levels of talent, I wonder if that is going to be a
+constraint for growth and if you see any challenges facing the industry, if you could elaborate on
+this please?
+Salil Parekh
+Thanks for your questions Saritha. First one on what we see as the mix, we were starting to see in
+the last financial year, was a big shift on the offshore side with the onsite mix coming down.
+Having said that we still have a huge amount of work that we do from our digital centers, our
+design studios, our proximity centers whereas in Europe, US, North America and Canada or in
+Asia Pacific, in Australia and so on. So those are the things, which are very much a part of what is
+going on with our clients, some of that discussion was on if the hybrid model becomes part of our
+future, but even those centers – those digital studios, those digital delivery centers will have the
+hybrid model working, but in those geographies. So two trends are working here, which we see,
+one is that there is some shift to offshore that we saw in the last year in terms of delivery and we
+have shared some of the stats on how the onsite mix has evolved and the second one is much
+more hybrid wherever the work is going on, hybrid in that sense work-from-home, whether it is
+going on in the European market, in the US market or in the Asia Pacific market or ofcourse when
+they are doing that in India whether it is in campus or work-from-home. Our sense is both of those
+trends will play out and we will see how those trends play out. So, all of the work we have done in
+terms of building local delivery centres will help us, but also the fact that we have built our
+capability that can allow our employees to work in this hybrid mode, work-from-home and work-
+from-office will also help us as we move ahead. In terms of recruitment, as Pravin was sharing, we
+are looking at in the range of 26000 campus hires, couple of thousand which would be outside
+India, about 24000 which will be in India. As you pointed out we have within India, a large number
+of college graduates that we can look at for recruitment, but there is also lateral recruitment that
+we will continue to do. In terms of what the constraints could be, we feel that the demand
+environment is extremely strong, we believe that we have the ability through recruitment, training
+to fulfill that demand. So today from our perspective, we see quite an optimistic view of where the
+market is, where the clients are and not really so many constraints.
+Rishi Basu
+Thank you. The next question is from Rukmini Rao from Business Today who joins us on audio.
+External Document © 2021 Infosys Limited
+20Rukmini Rao
+Sir two questions, one you have been able to add an incremental revenue of 780+ million in a very
+difficult year. What you would say Infosys has done differently given that we have seen your peers
+add less than about 150 million in the whole of last year. Two, we also heard them say that the
+large deals are not coming at great margins. I want to get your thoughts on it, to see what the
+correlation might be with the guidance that you have given for the coming year.
+Salil Parekh
+First, I think on the revenue we are extremely proud and delighted with the trust of the clients
+because we have as you pointed out 5% growth in this extremely difficult financial year that just
+completed and we see that really because the way we have built the capabilities of digital, the
+way our clients have given us many of those projects we talked at the start of the year for some
+consolidation, we have seen that in this last financial year and there has also been extreme focus
+on automation and cost capabilities and there again we believe we have a leading capability in
+terms of automation that our clients have really engaged with us. So, we see that gain of market
+share differentiate and position Infosys as the industry leading growth company, in terms of this IT
+services business worldwide. Now the way we see, what we are seeing on large deals, we see a
+good traction. The large deals really come when clients are looking at very strategic, digital
+transformation programs, which start with business, technology, and operations together or look at
+business, technology and cloud, which drives a lot of that change. We have also shared that in
+general our digital margins on average are higher than the company average margins. We are not
+specifically looking at large deal margins that we share externally, but our margin guidance is
+extremely robust between 22% and 24% and we feel comfortable with the way the large deals that
+we have worked on, that we will deliver to that guidance in the coming year.
+Rishi Basu
+Thank you. The next question is from Sai Ishwar from the Informist.
+Sai Ishwar
+Sir, one question to you Salil, TCS in their commentary yesterday had told that they are seeing
+unusually high demand for smaller deals. If I go through your numbers, even you have seen 10%
+to 15% increase compared to last year in your $1 mn and $10 mn brackets. Could you actually
+give us a colour on the deal size you are getting, the size of the deals you have won till now and
+where and when do you see the smaller deals receding? And one question for you Pravin Sir, in
+External Document © 2021 Infosys Limited
+21the same time last year we saw a lot of sectors like retail, manufacturing and travel getting affected
+because of the pandemic and right now globally I think at least in India we are back to square one
+in terms of the pandemic, so could you give us some colour on these sectors which are directly
+affected by the pandemic. What is your outlook on the sectors? Thank you.
+Salil Parekh
+Thanks for those questions. First one, we are seeing demand both for large deals and for midsized
+deals, so we do not see that there is less demand for one or the other. Overall, we see good
+demand across all that spectrum. Pravin mentioned the composition of our large deals, the
+number of large deals that we have and it is spread across different size, buckets even in those
+large deals. What we have seen today, really is based on the capabilities that we have built up we
+see good traction for small, medium, and large deals from our client base and that is helping us to
+see a strong outlook for growth for the next year. Let me pass it to Pravin for the other one.
+Pravin Rao
+In terms of some of the distressed sectors like retail or manufacturing, let me take retail for
+starters. Obviously, retail was one of the sectors which was majorly impacted by the pandemic,
+many of the subsegments of retail continue to be impacted. However, from our perspective barring
+the first quarter of last year, in the last three quarters we have seen gradual uptick in demand from
+retail segment. We had in fact we have ended Q4 with good performance in retail, so on the back
+of this increasing performance as well as some of the net new large deal wins, we had in the
+second half of last year, we feel fairly positive about retail in the coming year. Likewise, in
+manufacturing this was again one of the sectors which was majorly impacted. They had
+challenges both on the supply side constraints as well as on the demand side but with the
+economy opening, we have slowly started seeing some uptick in demand, in industrial to some
+extent in auto space. Aerospace we still see softness and it may take several quarters for it to
+recover, but again in this space we have done extremely well. In fact, one of the largest deal, last
+quarter we won one of the largest deals in the history of Infosys, so we have industry leading
+performance in this segment, and we remain optimistic in the coming year as well in terms of
+growth and increasing market share.
+Travel and hospitality again continue to be dealing with multiple waves and so on. So here again,
+while many sectors are distressed there is a need for them to invest in technology to build
+resilience and to increase their connect with consumers and employees in the virtual world. So,
+while the distress comes on one hand, there seems to be continued investment on technology on
+the other hand. That is something we have started seeing in the travel and hospitality as well,
+External Document © 2021 Infosys Limited
+22though in a small sense, not as big as what we are seeing in some of the other sectors like
+financial services.
+Rishi Basu
+Thank you. The next question is from ET Prime, Jochelle Mendonca who joins us over audio.
+Jochelle Mendonca
+We have seen net new deals in the large deals, 60% this year compared to 30% last year, have
+you made changes in how you chase large deals that will account for this kind of massive jump in
+the net new quantum and are you expanding the large deals team to address the increasing
+demand we are seeing on the client’s side?
+Salil Parekh
+I think, we are continuously looking at better ways to connect with our clients. In that light, every
+quarter, and every year we make refinements to how we approach the market, that is part of the
+ongoing way that our business is evolving especially on large deals and many other areas of the
+company. In terms of what we are seeing in expansions, there as well we feel there is a good
+outlook in terms of what we see in the demand. So, there is an overall expansion that we are
+looking on how we build our go to market capabilities, whether it is for large deals, overall CSG
+and sales, new account openings or the account expansion approach, so overall we feel there are
+more ways that we will have to connect with clients.
+Rishi Basu
+Thank you. We have Supriya’s questions online and in the interest of time I am going to quickly
+read it out to you gentlemen then we come to the close of this Q&A session.
+Supriya from TechCircle has requested us to read out her questions to you. For Pravin, what is the
+percentage of salary hikes that were offered across bands or levels of employees, were there
+particular concentrations in any geographies or type of delivery units and how many employees
+have been hired in 2021 so far and how much of these were freshers.
+For Salil, with rising potential in digital transformation do we see Infosys’s M&A strategy any time
+in your tenure as CEO from capturing foreign market shares to capturing new IPs to drive product
+innovation beyond what competition will keep adapting towards?
+External Document © 2021 Infosys Limited
+23Pravin Rao
+I will start first with the salary hike. We did one salary hike effective January. The quantum was
+similar to what we have done historically, and the quantum of salary hike also varies from
+geographies. It is different in India, it is different in other geographies and even within these
+geographies, we normally tend to have higher compensation increase at lower levels and lower
+compensation increase at higher levels. So that is something we had really done in the January
+cycle. Now in terms of number of hires, this year we hired about 36,500 people, out of it about
+21000 people are freshers and I am talking about FY21.
+Salil Parekh
+In terms of the M&A, the focus will remain on what we are seeing in the digital space, there is
+more and more that we are seeing that we can scale up whether it is on cloud, cybersecurity, data
+and analytics. We are also looking at areas which are related to Internet of Things, we are looking
+at other parts of our business, which can also help us to be part of the digital transformation
+agenda for our clients whether that is in the area which relates to business, marketing, to sales,
+technology, engineering services and other areas, so those are all the places where we are
+looking in terms of what we could look for M&A. There is no fixed approach in terms of geography,
+we are always looking to see what we can do in services, but where we can have IP that supports
+that for our clients, we are open to that as well. The primary focus is really on digital and
+expanding our services team.
+Rishi Basu
+Thank you Salil, thank your Pravin and with that we come to the close of this Q&A session. We
+thank our leaders, thank you Salil, thank you Pravin and thank you Nilanjan for joining us today.
+External Document © 2021 Infosys Limited
+24

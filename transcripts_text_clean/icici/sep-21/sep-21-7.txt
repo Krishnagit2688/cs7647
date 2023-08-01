@@ -1,0 +1,101 @@
+:
+Thank you. The next question is from the line of Anand Dama from Emkay Global. Please
+go ahead.
+Anand Dama:
+Sir, my question is on the restructured portfolio. One, is there any residual pipeline in
+terms of restructuring that we will have and secondly you have made about 20% odd
+provision on restructured portfolio, any guidance that you can give on the additional
+provision which would be required on the restructuring portfolio beyond the 20% that we
+have already made?
+Rakesh Jha:
+Anand, I didn’t get your second part of the question well, but I’ll answer. If I miss something
+then just let me know. On the pipeline as per the RBI guidelines, the requests had to be
+received by 30th of September. There would be some cases which would still be under
+implementation at 30th of September as you know these are retail loans and it does take
+some time for all of that to get implemented. So, there would be some amount of
+restructuring increase that one will see in Q3. But in the overall context it is not going to
+be any material number I would say. It will be definitely be less than Rs. 10 billion. That is
+what is there in terms of the pipeline.
+On provisions, the RBI requirement was to take about 10% provision on the Covid-19
+restructured loans, against that we have taken 15% provision. Some of the loans which
+have got restructured were NPA and have got upgraded due to restructuring. In those
+loans we have carried forward the provision which was made when they became NPA, so
+that’s the reason why we have an overall provision of about 20% on the restructured
+portfolio. As I mentioned earlier, predominantly the secured portfolio has got restructured
+so we would expect to recover and collect on these, but it’s something that we will assess
+on a quarter-on-quarter basis. At any point of time, if we believe there is higher provision
+requirement we would be happy to make that. One should also consider that we in any
+case have Rs. 64.25 billion of Covid-19 related provisions as well. If you look at the
+numbers that we have put out as per the RBI requirement for disclosure, the slippages
+from the restructuring done last year have not been material in the first half of the year. Of
+Page 23 of 32ICICI Bank
+October 23, 2021
+course some of those loans or actually many of those loans would still be under
+moratorium, like I said earlier, moratorium is anywhere between 6-12 months. So, we will
+continue to assess this portfolio and if required we will make some more provision. On an
+overall basis, we are quite comfortable with the provisions at the Bank level and this
+quarter in any case we have not even utilized or written back any of the Covid-19 provision.
+Anand Dama:
+Sir, that’s very comforting. Second question is about the ICICI PayLater book. There is lot
+of buzz about BNPL and we are also dominant player in that. Is it possible for you to give
+some trends in terms of how that book is playing up. ICICI Bank’s Amazon Pay card has
+done very well, so if you can provide some numbers in terms of your PayLater book?
+Anup Bagchi:
+So, I don’t think we have provided the numbers. The whole spectrum of credit in this space
+is becoming very interesting. You normally have credit card which is a fantastic and a very
+flexible instrument. Then of course you have the EMI on credit and debit cards and now
+BNPL. All of these are also installment products. But the difference between BNPL and
+other products is that BNPL is essentially driven by merchants and so there is an implicit
+promise to the merchants that if you give BNPL, their average order value will increase.
+So the cost to the merchant is higher than sometimes the credit card MDR that we give
+out and then there is the economics in between. So we have a full spectrum of affordability
+products of which PayLater also is one of the products and we have credit cards and EMI
+on debit and credit cards. So, from our perspective, as a bank because we have got the
+flexibility of instruments and a full spectrum. We would want to certainly be there in all
+spectrum depending on what customers and merchants want. We should be able to
+provide them with all the options that they have.
+The good thing that has happened in the last three years is that the whole merchant
+ecosystem has become very digital, right from onboarding. UPI is virtually zero MDR. So,
+you can have EMI based credit product based on that as well. What has happened is that
+it has become very digital and so the cost of onboarding has come down. The cost of
+reconciliation and credit delivery has come down, which is why you will see that this area
+of merchant ecosystem is exploding in a very big way. Large brands like us have a natural
+Page 24 of 32ICICI Bank
+October 23, 2021
+advantage to play that game because we already have a large sort of footprint. We have a
+large merchant footprint from a current account perspective. We see a lot of flow
+happening through us and so we can do underwriting and onboarding digitally quite easily.
+So, actually it’s an interesting space which is unfolding. But BNPL is a form factor of credit
+delivery and we look at it that way. It’s not a completely new product in the market. It has
+been there in various shapes and forms. BNPL of course has its own advantages in the
+sense that it caters to the need of a customer. Customers may not be having credit cards,
+or they may not be having bureau scores and these underwritings are on the fly, so it’s a
+good form factor and it’s a good product for many customers. Our PayLater product also
+is positioned well and the other thing about many of these affordability products is that it
+is at the place of purchase and you don’t have to go outside to take the loan unlike personal
+loans, etc. It’s not a new thing exactly, credit card was always there, but in a new way it is
+coming so the space is interesting.
+Anand Dama:
+So, basically the acceptability among the customers certainly has gone up. So is it to some
+extent cannibalizing on our low value credit card spends?
+Anup Bagchi:
+No, we haven’t seen that as yet. So, from an affordability perspective there are two things,
+one is that first you have to ascertain the underwriting of the customers. Once the
+threshold is reached, where there is return of capital is, I will not say assured, but you have
+a high confidence on return of capital, then the next immediate thing is creating a very
+decongested and easy process. Because if you have a very difficult process, customers
+will not take credit, they will take some other route to take credit. So, if one can have a
+very good onboarding process, a credit delivery, particularly an on the fly credit delivery
+process and you can take care of the issues of the merchant, that is they get their money
+and settlement and then you take over the settlement detail by way of postponing cash
+flows from the consumer and you make that process completely seamless, you can give
+it any name, you can give it revolver, you can call it BNPL. Everything is BNPL, actually
+credit card is also BNPL. One has to make sure that it a very good customer experience.
+Also, from a bureau score perspective, banks have new to credit customers because they
+Page 25 of 32ICICI Bank
+October 23, 2021
+have salary accounts. So, the banks can underwrite new to credit customers well and then
+there is an added advantage that banks have of providing a very decongested on the fly
+underwriting process and an ability to integrate with the merchant in a very seamless way.
+So, that’s really the value to the ecosystem that the product and service should offer, given
+that the demand for credit we have seen. So it gets picked up then.

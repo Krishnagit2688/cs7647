@@ -1,0 +1,269 @@
+:
+Ladies and gentlemen, good day and welcome to the ICICI Bank Q1 FY2023 Earnings
+Conference Call. As a reminder, all participant lines will be in listen-only mode, and there
+will be an opportunity for you to ask questions after the presentation concludes. Should
+you need assistance during the conference call, please signal an operator by pressing ‘*’
+then ‘0’ on your touchtone phone. Please note that this conference is being recorded. I
+Page 1 of 23now hand the conference over to Mr. Sandeep Bakhshi -- Managing Director and CEO of
+ICICI Bank. Thank you and over to you, sir.
+Mr. Bakhshi’s opening remarks
+Good evening to all of you and welcome to the ICICI Bank Earnings Call to discuss the
+results for Q1 of FY2023. Joining us today on this call are Anup, Sandeep Batra, Rakesh,
+Anindya and Abhinek.
+During the quarter, we saw continued improvement in parameters like the index of
+industrial production, travel and mobility, pickup in non-oil and non-gold imports and bank
+credit. There are concerns arising out of the movements in inflation and interest and
+exchange rates, largely reflecting the uncertainties in the global environment. The
+Government and the Reserve Bank of India have taken various steps in this regard. We will
+continue to monitor these developments closely.
+At ICICI Bank, we aim to grow the core operating profit in a risk-calibrated manner through
+a 360-degree customer-centric approach and by focusing on ecosystems and micro-
+markets. We continue to operate within our strategic framework and strengthen our
+franchise, enhance our delivery and servicing capabilities and expand our technology and
+digital offerings.
+Coming to the quarterly performance against this framework:
+First- Growth in the core operating profit in a risk-calibrated manner through
+the focused pursuit of target market segments
+The core operating profit increased by 19.4% year-on-year to 102.73 billion Rupees in this
+quarter. Excluding dividend income from subsidiaries and associates, core operating profit
+grew by 21.1% year-on-year. The profit after tax grew by 49.6% year-on-year to 69.05
+billion Rupees in this quarter.
+Second-Further enhancing our strong deposit franchise
+Total period-end deposits grew by 13.4% year-on-year at June 30, 2022. During the
+quarter, average current account deposits increased by 23.0% year-on-year and 2.9%
+sequentially. Average savings account deposits grew by 19.1% year-on-year and 4.4%
+Page 2 of 23sequentially. Period-end term deposits grew by 11.4% year-on-year at June 30, 2022. The
+liquidity coverage ratio for the quarter was about 127%, reflecting continued surplus
+liquidity. Our cost of deposits continues to be among the lowest in the system.
+Third-Growing our loan portfolio in a granular manner with a focus on risk and
+reward
+The retail loan portfolio grew by 24.4% year-on-year and 5.1% sequentially at June 30,
+2022. Including non-fund based outstanding, the retail portfolio was 44.0% of the total
+portfolio. The rural portfolio grew by 8.4% year-on-year and was flat sequentially. The
+business banking portfolio grew by 44.7% year-on-year and 7.4% sequentially. The SME
+portfolio grew by 32.3% year-on-year and declined by 2.6% sequentially. The growth in
+SME and business banking portfolios was driven by leveraging our branch network, cross
+sell to existing current account customers and digital offerings such as InstaBIZ and
+Merchant Stack. The domestic corporate portfolio grew by 14.4% year-on-year and 4.4%
+sequentially at June 30, 2022. The domestic loan portfolio grew by 21.7% year-on-year
+and 3.9% sequentially. The overall loan portfolio grew by 21.3% year-on-year and 4.3%
+sequentially at June 30, 2022.
+Fourth-Leveraging digital across our business
+We continue to enhance our digital offerings and platforms to onboard new customers in
+a seamless manner and provide them end-to-end digital journeys and personalised
+solutions. These platforms also enable us to do more data driven cross sell and up sell.
+Recently, we have further enhanced the open architecture based features of InstaBIZ.
+Merchants can now open a current account instantly and digitally on InstaBIZ by using
+video KYC. Through ‘InstaOD Plus’, customers of any bank can avail an overdraft facility
+of up to 2.5 million Rupees instantly on InstaBIZ. We have seen about 120,000 registrations
+from non-ICICI Bank account holders on InstaBIZ till June 30, 2022. Recently, the Bank
+launched a revamped OneSCF, an integrated supply chain platform providing corporate
+customers, their vendors and dealers with a one-stop solution to efficiently manage their
+working capital requirements. We have shared some details on our technology and digital
+offerings in slides 18 to 28 of the investor presentation.
+Page 3 of 23Fifth - Protecting the balance sheet from potential risks
+The net NPA ratio declined to 0.70% at June 30, 2022 from 0.76% at March 31, 2022 and
+1.16% at June 30, 2021. During the quarter, there were net additions of 3.82 billion Rupees
+to gross NPAs, excluding write-offs and sale. The provisioning coverage ratio on NPAs
+was 79.6% at June 30, 2022. The total provisions during the quarter were 11.44 billion
+Rupees or 11.1% of core operating profit and 0.53% of average advances. This includes
+contingency provision of 10.50 billion Rupees made on a prudent basis. The Bank holds
+contingency provisions of 85.00 billion Rupees or about 0.9% of total loans as of June 30,
+2022.
+Sixth- Maintaining a strong capital base
+The capital position of the Bank continued to be strong with a CET-1 ratio of 17.23%, Tier
+1 ratio of 17.95% and total capital adequacy ratio of 18.74% at June 30, 2022, including
+profits for the quarter.
+Looking ahead, we see many opportunities to grow the core operating profit in a risk-
+calibrated manner. In order to leverage these opportunities, we have reorganized our
+business teams. Cities with large concentrated market opportunities have been organised
+under ‘city business heads’ covering the full spectrum of ecosystems. We have also
+focused on strengthening the workforce by skilling and providing cross-functional
+opportunities. We will continue to make investments in technology, people, distribution
+and building our brand.
+Going forward, we will continue to operate within our strategic framework while focusing
+on micro markets and ecosystems. The principles of “Fair to Customer, Fair to Bank” and
+“One Bank, One RoE” will guide our operations. We focus on building a culture where
+every employee in the Bank serves customers with humility and upholds the values of
+brand ICICI. We aim to be the trusted financial services provider of choice for our
+customers and deliver sustainable returns to our shareholders.
+I now hand the call over to Anindya.
+Anindya’s opening remarks
+Thank you, Sandeep. I will talk about balance sheet growth, credit quality, P&L details,
+growth in digital offerings, portfolio trends and performance of subsidiaries.
+Page 4 of 23A. Balance sheet growth
+Sandeep covered the loan growth across various segments. Coming to the growth across
+retail products, the mortgage portfolio grew by 22.3% year-on-year and 4.1% sequentially.
+Auto loans grew by 17.6% year-on-year and 5.2% sequentially. The commercial vehicles
+and equipment portfolio grew by 3.7% year-on-year and was flat sequentially. Growth in
+the personal loan and credit card portfolio was 44.7% year-on-year and 9.6% sequentially.
+This portfolio was 963.85 billion Rupees or 10.8% of the overall loan book at June 30, 2022.
+The overseas loan portfolio, in US dollar terms, grew by 7.4% year-on-year and 6.4%
+sequentially at June 30, 2022. The increase in the overseas loan portfolio was primarily
+due to increase in the India-linked trade finance book. The overseas loan portfolio was
+about 5.1% of the overall loan book at June 30, 2022. The non-India linked corporate
+portfolio declined by 52.8% or about 513 million US dollars on a year-on-year basis. Of the
+overseas corporate portfolio, about 87% comprises Indian corporates, 6% is overseas
+corporates with Indian linkage, 4% comprises companies owned by NRIs or PIOs and
+balance 3% is non-India corporates.
+B. Credit quality
+There were net additions of 3.82 billion Rupees to gross NPAs in the current quarter
+compared to net deletions of 4.89 billion Rupees in the previous quarter. There were net
+additions of 7.24 billion Rupees to gross NPAs in the retail, rural and business banking
+portfolios and net deletions of 3.42 billion Rupees from gross NPAs in the corporate and
+SME portfolios.
+The gross NPA additions were 58.25 billion Rupees in the current quarter compared to
+42.04 billion Rupees in the previous quarter. The gross NPA additions from the retail, rural
+and business banking portfolio were 50.37 billion Rupees and from the corporate and SME
+portfolio were 7.88 billion Rupees. There were gross NPA additions of about 7.55 billion
+Rupees from the kisan credit card portfolio in the current quarter. We typically see higher
+NPA additions from the kisan credit card portfolio in the first and third quarter of a fiscal
+year.
+Recoveries and upgrades from gross NPAs, excluding write-offs and sale, were 54.43
+billion Rupees in the current quarter compared to 46.93 billion Rupees in the previous
+quarter. There were recoveries and upgrades of 43.13 billion Rupees from the retail, rural
+Page 5 of 23and business banking portfolio and 11.30 billion Rupees from the corporate and SME
+portfolio. The gross NPAs written-off during the quarter were 11.26 billion Rupees. The
+Bank sold NPAs amounting to 0.13 billion Rupees during the quarter on a cash basis.
+Net NPAs declined by 28.5% year-on-year and 4.4% sequentially to 66.56 billion Rupees
+at June 30, 2022.
+The non-fund based outstanding to borrowers classified as non-performing was 36.70
+billion Rupees as of June 30, 2022 compared to 36.40 billion Rupees as of March 31, 2022.
+The Bank holds provisions amounting to 20.75 billion Rupees as of June 30, 2022 against
+this non-fund based outstanding.
+The total fund based outstanding to all standard borrowers, under resolution as per
+various guidelines declined to 73.76 billion Rupees or about 0.8% of the total loan portfolio
+at June 30, 2022 from 82.67 billion Rupees as of March 31, 2022. Of the total fund based
+outstanding under resolution at June 30, 2022, 52.75 billion Rupees was from the retail,
+rural and business banking portfolio and 21.01 billion Rupees was from the corporate and
+SME portfolio. The Bank holds provisions of 22.90 billion Rupees against these borrowers,
+which is higher than the requirement as per RBI guidelines.
+C. P&L Details
+Net interest income increased by 20.8% year-on-year to 132.10 billion Rupees. The net
+interest margin was 4.01% in this quarter compared to 4.00% in the previous quarter and
+3.89% in Q1 of last year. The impact of interest on income tax refund on net interest margin
+was 3 bps in Q1 of this year compared to 1 bps in the previous quarter and in Q1 of last
+year. The domestic NIM was at 4.14% this quarter compared to 4.12% in the previous
+quarter and 3.99% in Q1 last year. The cost of deposits was 3.46% in this quarter
+compared to 3.48% in previous quarter. Of the total domestic loans, interest rates on 43%
+are linked to the repo rate, 6% to other external benchmarks and 21% to MCLR and other
+older benchmarks. The balance 30% of loans have fixed interest rates.
+Non-interest income, excluding treasury income, grew by 24.9% year-on-year to 46.29
+billion Rupees in Q1 of 2023
+ Fee income increased by 31.8% year-on-year to 42.43 billion Rupees in this
+quarter driven by growth across various segments, partly reflecting the low
+Page 6 of 23base in Q1 of last year. Fees from retail, rural, business banking and SME
+customers grew by 37.8% year-on-year and constituted about 79% of the total
+fees in this quarter
+ Dividend income from subsidiaries and associates was 3.47 billion Rupees in
+this quarter compared to 4.10 billion Rupees in Q1 of last year. The year-on-
+year decline in dividend income was due to lower final dividend from ICICI
+Life, offset in part by higher dividend from ICICI AMC and ICICI Securities
+Primary Dealership
+On Costs: The Bank’s operating expenses increased by 25.3% year-on-year in this quarter
+partly reflecting the low base in Q1 of last year. The employee expenses increased by
+20.0% year-on-year. The Bank had about 107,350 employees at June 30, 2022. The
+employee count has increased by about 7,250 in the last 12 months. Employee expenses
+in this quarter include an impact of 1.29 billion Rupees due to fair valuation of ESOPs
+granted to all employees post April 1, 2021 as required by RBI guidelines. Non-employee
+expenses increased by 28.8% year-on-year in this quarter primarily due to retail business
+and technology related expenses. The technology expenses were about 8.5% of our
+operating expenses in this quarter, similar to FY2022.
+The core operating profit increased by 19.4% year-on-year to 102.73 billion Rupees in this
+quarter. Excluding dividend income from subsidiaries and associates, the core operating
+profit grew by 21.1% year-on-year.
+There was a treasury gain of 0.36 billion Rupees in Q1 compared to 1.29 billion Rupees in
+Q4 and 2.90 billion Rupees in Q1 of the previous year.
+The total provisions during the quarter were 11.44 billion Rupees or 11.1% of core
+operating profit and 0.53% of average advances. These include contingency provisions of
+10.50 billion Rupees made on a prudent basis.
+The provisioning coverage on NPAs continued to be robust at 79.6%. In addition, we hold
+22.90 billion Rupees of provisions on borrowers under resolution. Further, the Bank holds
+contingency provision of 85.00 billion Rupees as of June 30, 2022. At June 30, 2022, the
+total provisions, other than specific provisions on fund-based outstanding to borrowers
+classified as non-performing, were 187.70 billion Rupees or 2.1% of loans.
+Page 7 of 23The profit before tax grew by 51.7% year-on-year to 91.65 billion Rupees in this quarter.
+The tax expense was 22.60 billion Rupees in this quarter compared to 14.27 billion Rupees
+in the corresponding quarter last year. The profit after tax grew by 49.6% year-on-year to
+69.05 billion Rupees in this quarter.
+The consolidated profit after tax grew by 55.0% year-on-year to 73.85 billion Rupees in
+this quarter.
+D. Growth in digital offerings
+Leveraging digital and technology across businesses is a key element of our strategy of
+growing the risk-calibrated core operating profit. We continue to see increasing adoption
+and usage of our digital platforms from our customers.
+There have been 7.3 million activations of iMobile Pay by non-ICICI Bank account holders
+as of end-June. The value of transactions by non-ICICI Bank account holders increased by
+35% sequentially in the current quarter.
+The value of credit card spends in the current quarter grew by 12.6% sequentially and was
+two times the value of spends in Q1 of last year driven by improvement in discretionary
+spending, higher activation rate through digital onboarding of customers, including
+Amazon Pay credit cards, and diversification through commercial cards. The Bank has
+issued more than 3.2 million Amazon Pay credit cards since its launch.
+During the quarter, we launched Campus Power, an online platform providing various
+banking solutions such as loans, bank accounts, foreign exchange remittances and value
+added services to the student ecosystem for higher education in India and abroad.
+The value of financial transactions on InstaBIZ grew by about 57% year-on-year in the
+current quarter. The value of transactions on the supply chain solutions, CorpConnect and
+DigitalLite, in the current quarter was 2.4 times the value of transactions in Q1 last year.
+The proportion of end-to-end digital sanctions and disbursements across various products
+has been increasing steadily. About 33% of our mortgage sanctions and 44% of our
+personal loan disbursements, by volume, were end-to-end digital in Q1 of this year.
+Page 8 of 23The Bank has created more than 20 industry specific STACKs which provide bespoke and
+purpose-based digital solutions to corporate clients and their ecosystems. The volume of
+payment and collection transactions through API based solutions in Q1 of this year was
+3.7 times the volume of transactions in Q1 last year.
+E. Portfolio information
+We have provided details on our retail, business banking and SME portfolio in slides 35 to
+45 of the investor presentation.
+The loan and non-fund based outstanding to performing corporate and SME borrowers
+rated BB and below was 82.09 billion Rupees at June 30, 2022 compared to 108.08 billion
+Rupees at March 31, 2022. The amount of 82.09 billion Rupees at June 30, 2022 includes
+22.89 billion Rupees of loans under resolution. The sequential decline during the quarter
+was mainly due to reduction in exposure to a borrower in the telecom sector and upgrades
+of a few accounts in power and construction sectors. The details are given on slide 37 and
+38 of the investor presentation.
+Other than one account in the power sector, where resolution has been implemented as
+per RBI’s Covid-19 resolution framework, the maximum single borrower outstanding in
+the BB and below portfolio was less than 6 billion Rupees at June 30, 2022. At June 30,
+2022, we held provisions of 8.61 billion Rupees on the BB and below portfolio compared
+to 12.32 billion Rupees at March 31, 2022. This includes provisions held against borrowers
+under resolution included in this portfolio.
+The total outstanding to NBFCs and HFCs was 699.72 billion Rupees at June 30, 2022
+compared to 686.32 billion Rupees at March 31, 2022. The total outstanding loans to
+NBFCs and HFCs were about 8% of our advances at June 30, 2022. The sequential increase
+in the outstanding to NBFCs and HFCs is mainly due to disbursements to PSU entities,
+entities having long vintage and entities owned by well-established corporate groups.
+The builder portfolio including construction finance, lease rental discounting, term loans
+and working capital loans was 275.69 billion Rupees at June 30, 2022 compared to 269.48
+billion Rupees at March 31, 2022. The builder portfolio is about 3% of our total loan
+portfolio. Our portfolio is granular in nature with the larger exposures being to well-
+established builders and this is also reflected in the sequential increase in the portfolio.
+Page 9 of 23About 8.3% of our builder portfolio at June 30, 2022 was either rated BB and below
+internally or was classified as non-performing, compared to about 9.5% at March 31, 2022.
+F. Subsidiaries and key associates
+The details of the financial performance of subsidiaries and key associates are covered in
+slides 49 to 51 and slides 70 to 75 in the investor presentation
+The VNB margin of ICICI Life increased from 28.0% in FY2022 to 31.0% in Q1 of this year.
+The value of new business increased by 31.6% year-on-year to 4.71 billion Rupees in Q1
+of this year. The annualized premium equivalent grew by 24.7% year-on-year to 15.20
+billion Rupees in Q1 of this year. The profit after tax of ICICI Life was 1.56 billion Rupees in
+Q1 of this year compared to a loss of 1.86 billion Rupees in Q1 of last year.
+Gross Direct Premium Income of ICICI General increased by 28.2% year-on-year to 53.70
+billion Rupees in Q1 of this year. The combined ratio was 104.1% in Q1 of this year
+compared to 123.5% in Q1 of last year. The profit after tax grew by 79.6% year-on-year to
+3.49 billion Rupees in the current quarter.
+The profit after tax of ICICI AMC was 3.05 billion Rupees in this quarter compared to 3.80
+billion Rupees in Q1 of last year.
+The profit after tax of ICICI Securities, on a consolidated basis, was 2.74 billion Rupees in
+this quarter compared to 3.11 billion Rupees in Q1 of last year.
+ICICI Bank Canada had a profit after tax of 7.2 million Canadian dollars in this quarter
+compared to 5.0 million Canadian dollars in Q1 last year and 4.3 million Canadian dollars
+in Q4 this year.
+ICICI Bank UK had a profit after tax of 3.4 million US dollars this quarter compared to 2.9
+million US dollars in Q1 of last year and 3.1 million US dollars in Q4 last year.
+As per Ind AS, ICICI Home Finance had a profit after tax of 0.40 billion Rupees in the current
+quarter compared to 0.17 billion Rupees in Q1 of last year and 0.53 billion Rupees in Q4
+last year.
+Page 10 of 23With this, we conclude our opening remarks and we will now be happy to take your
+questions.

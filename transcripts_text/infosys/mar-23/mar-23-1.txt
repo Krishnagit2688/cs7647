@@ -1,0 +1,553 @@
+Salil Parekh
+Thanks, Rishi, and good evening everyone here for joining in, and thank you for being here on
+the campus. We had an excellent full year performance in Financial Year 2023, with a growth
+of 15.4% in constant currency. Our digital business grew at 25.6%, now being 62.9% of our
+overall revenue. And our core services grew as well at 1.9%. We had 95 large deals with a
+value of $9.8 bn for the year, 40% of which were net new.
+Our operating margin for the full year was at 21%, and our attrition has continued to decline in
+each quarter of the year, including in Q4.
+We are leveraging generative AI capabilities for our clients and within the company today, we
+have active programs and projects with clients, working with generative AI platforms to
+address specific areas, processes, and libraries within their business. We have trained open-
+source generative AI platforms on our own internal software development libraries. We
+anticipate generative AI to provide more opportunities for work with our clients and to enable
+us to improve our own productivity.
+In Q4, we saw changes in the market environment. During the quarter, we saw unplanned
+project ramp-downs in some of our clients and delays in decision-making which resulted in
+lower volumes. In addition, we had some onetime revenue impact. While we saw some signs
+of stabilization in March, the environment remains uncertain. This led to our Q4 year-on-year
+growth of 8.8% in constant currency and quarter-over-quarter decline of 3.2%.
+Page 3 of 23Infosys Limited
+April 13, 2023
+Our operating margin was resilient at 21% for the quarter. We had $2.1 bn in large deals in the
+quarter. Our pipeline of large deals is extremely strong. Several of these are mega deals and
+several of them are opportunities for cost and efficiency programs within clients and
+consolidation opportunities. Based on our sustained momentum in the financial year '23, the
+strong pipeline of opportunities, especially the ones in cost efficiency and consolidation, while
+also keeping in mind the uncertain environment, our revenue growth guidance for this financial
+year is 4% to 7% in constant currency. Our operating margin guidance for the financial year is
+20% to 22%.
+Thank you, and over to you, Rishi, for our questions.
+Rishi Basu
+Thank you, Salil. We will now open the floor for questions. Joining Salil is Mr. Nilanjan Roy,
+Chief Financial Officer, Infosys.
+With that, our first question is from Ritu Singh from CNBCTV18.
+Ritu Singh
+Hi Salil, Hi Nilanjan. Your constant currency revenue decline for the quarter is far worse than
+what the street was expecting. And then that sort of explains why your full year revenue growth
+guidance is missed, what you guided at 16% - 16.5%. I just wanted to understand where are
+you seeing softness? I remember reading your comments that your exposure to US banks isn't
+that large. What are the verticals that are seeing softness? And also on your margin guidance,
+which now for FY’24, you’ve brought to about 20% to 22%. Again, last year, we thought it
+was an aberration because of higher wage bills, and the expectation was that it would be
+brought back to 21% to 23%, which is not the case. Could you tell us a bit more about why
+this?
+And a second question on attrition as well, which has been coming down. If you expect that
+trend to continue in your hiring plans for the year, please? Thank you.
+Salil Parekh
+Page 4 of 23Infosys Limited
+April 13, 2023
+Let me start off with the market. Nilanjan will share a little bit about the margin and the other
+points we will come back to as well.
+On what we saw in Q4, during the quarter, we saw some ramp-downs which were unplanned,
+and these were across different sectors. We saw some in Telco. We saw some in Hitech, some
+in Retail and within Financial Services, it was on mortgages that we have talked about in the
+past, in Asset Management and Investment Banking. So those were the areas in which we saw
+things which were unplanned. In addition to that, we saw some onetime impact in the quarter.
+Now in terms of the margin, go ahead please.
+Nilanjan Roy
+Yes, I'll take that. So, we have ended the year, as you know, at 21%, and this has been pretty
+stable as the year has gone by. So, 21% was the full year margin as the exit margin as well.
+And in a way, it's a midpoint between 20% and 22%. It gives us the flexibility in this year as
+well. So, we will have some headwinds which we will see with compensation, we will have
+some travel coming back. But we know with things like utilization, more automation, etc., we
+also have a runway to increase the margins. But this gives us the necessary flexibility into next
+year.
+Ritu Singh
+With Infosys, like even with your revenue guidance last year, you started with something, and
+you kept increasing it every quarter. Should we expect some sort of upside risk to these
+guidance figures you have given us for this year as well for FY’24?
+Salil Parekh
+So, the guidance we have given is based on what we see from the deals we won $9.8 bn in the
+year, plus what we see with a steady business and the outlook we have in the demand
+environment today. So that is the way we build our guidance. That is the way we look at it. We
+don't have a view on what will change as the year progresses.
+Nilanjan Roy
+Page 5 of 23Infosys Limited
+April 13, 2023
+Sorry, what was the question again?
+Ritu Singh
+It was on attrition and hiring.
+Salil Parekh
+Attrition and hiring.
+Nilanjan Roy
+For next year?
+Ritu Singh
+Yes, for FY’24.
+Nilanjan Roy
+Yes, FY’24. So, looking at the volumes, one is, we have a lot of bench with us. In fact, over a
+long period of time, we have kept this bench. They are ready to move into production projects.
+But of course, they will take time as volumes come in their own pace. And of course, we have
+an agile model of hiring off campus as well. So as demand picks up, we have that flexibility as
+well. So, I think our model in terms of hiring has got enough flexibility to take care of new
+volumes. In any case, we have a rich bench, 80% utilization is what we have, and usually, we
+have operated well above that.
+Rishi Basu
+Thank you. The next question is from Shilpa Phadnis from The Times of India.
+Shilpa Phadnis
+I just wanted to understand from you, if you look at the guidance for the next year, it looks
+really understated. And way back in 2016 is when you had the low single-digit guidance that
+was re-revised downwards. I just wanted to understand from you, where are the headwinds
+Page 6 of 23Infosys Limited
+April 13, 2023
+coming from? Is it largely in BFSI, last quarter also, you called out some account headwinds.
+Can you please take us through that?
+Second, you said onetime impact. So, is it largely related to ramp-down or any other client-
+related issues? Can you please help us with that?
+Salil Parekh
+So, on the first, I'll address it, Nilanjan will come back on the second one. We saw during the
+quarter certain clients where we saw these ramp-downs, which were not planned. And they
+were across the Telco sector, Retail, Hitech and Financial Services, parts of which mainly
+focused on Mortgages, Asset Management, and Investment Banking. So it was across those
+industries that we saw some of the constraints that came up.
+Nilanjan Roy
+On the revenues onetime, so most of the decline in revenue actually was from volume and the
+impact of revenue onetime is a combination of cancellations actually, exactly what you said.
+So, the combination of cancellations and also some specific client issues. So, it's a combination
+of that, but most of the decline actually has been from volume.
+Shilpa Phadnis
+I had one last question. With the two presidents leaving the organization, do you see some sort
+of a restructuring that you are going to announce, you're going to break up some of the verticals
+which are anyway monolithic and you going to break it down into smaller business units, is
+that plan underway? And you ventured into the delayering exercise- top delayering, so I just
+wanted to understand from you that you have not called out replacements for the two presidents.
+Is Infosys breaking away from the past in terms of doing away with the president structure?
+Salil Parekh
+So, we have announced and rolled out internally a structure, which is focused on delivery with
+the exit when Ravi left. We are in position to now roll out the structure that would be for
+Financial Services as we move ahead. What we see is within Infosys, we have a strong
+Page 7 of 23Infosys Limited
+April 13, 2023
+leadership team. And so, we are fortunate that the leaders are coming from inside and then we
+see more and more at the next level. There is no delayering plan within Infosys at all.
+Our organization structure really is something we are building, which is agile and also quite
+solid to deliver our consistent trajectory that we have been driving through. We have, as you
+know, growth drivers on digital and growth drivers on cost and automation. And so those are
+the ones that we'll continue to drive. And we have probably the best delivery organization in
+the industry. So, we want to continue to enhance that with the team we have.
+Shilpa Phadnis
+So, the current responsibilities will be split between other leaders in the organization?
+Salil Parekh
+Sorry?
+Shilpa Phadnis
+The current responsibilities of BFSI?
+Salil Parekh
+The leaders within the company will step up and also in delivery it is done. The next one will
+be done in the next few weeks.
+Rishi Basu
+Thank you. The next question is from Jochelle Mendonca from ET Prime.
+Jochelle Mendonca
+Hello, I want clarification on something you have said in the press release. You' have said that
+you have expanded your internal program on efficiency and cost to build a higher path to
+margins. I am asking this specifically because I am looking at headcount, and headcount fell in
+this quarter, but it fell more on the software professionals while sales and support staff actually
+went up marginally. So, could you give me some clarity on what this efficiency program is and
+Page 8 of 23Infosys Limited
+April 13, 2023
+how it is feeding into how you look at the sales staff and what augments or detractions you
+might make on that front?
+Salil Parekh
+That I think is a very critical program. We were running it. In fact, Nilanjan was driving that
+with a very strong team. We have expanded the attention to that program during the last quarter.
+We have several methods in which we can do better in that program, whether that relates to
+automation, it relates to pyramid, it relates to onsite mix, relates to subcontractors, relates to
+travel. And also relating to pricing and how we can drive that within our system, given the
+inflation that all of us have seen.
+What we are communicating with that is that program gets a very focused attention. And we
+have within our internal way of looking at it, a path to bring us to the aspired margin that we
+want, because we want to be at that margin as we go ahead. Having said that, we have low
+utilization that Nilanjan mentioned. We are going to make sure that we look after our people
+with that commitment. We are going to make sure that we continue with the training, and that
+is an area we will continue our focus on. We are not going to take some short-term actions
+against that and that will be a way to build it because over time, that is a team that will start to
+work on projects as well.
+Rishi Basu
+Thank you. The next question is from Chandra Srikanth from Moneycontrol.
+Chandra Srikanth
+Going by the guidance that you mentioned, can you give us a sense of the incremental revenues
+that you will be adding for FY’24? Because based on the back of the envelope calculation, I
+think it will come up to some $300 mn to $500 mn compared to the $3 bn that you added in
+the previous fiscal. So, can you give us a sense of how much incremental revenues you expect
+to add in FY’24?
+And Salil, what are you hearing from clients? I mean, yesterday, the TCS management
+mentioned that discretionary projects are getting deferred. There are no cancellations or budget
+Page 9 of 23Infosys Limited
+April 13, 2023
+cuts, but clients are spending wisely. If you can give us a sense of what the conversations are
+like, what kind of deal discussions are happening, and how impacted are you by the regional
+banking crisis in the US? I think JPMorgan recently said that you and TCS have the highest
+exposure to regional banks in the US. So, if you can give us a sense of that because financial
+services have declined quarter-on-quarter and year-on-year?
+Salil Parekh
+The first part is on the regional banks, Nilanjan will come back with that. But on the first part
+-- two parts what you asked. One, on the incremental revenue, so as you know, we don't give a
+specific dollar number for that. But our guidance very clearly allows you to interpret it as 4%
+to 7% constant currency growth on the base, which now is closed on March 31. So, both
+reported and constant currency, we have those numbers. But that is our guidance, which will
+therefore give you the incremental revenue.
+On what our clients are telling us. Now several industries where we have talked about,
+Telecom, Retail, Hitech, and parts of Financial Services, there are some clients which are
+seeing in their own business, whatever constraints they're seeing with the economic
+environment. As a consequence, we have noticed that some decisions were made during the
+quarter to stop some parts of the programs, not everything, but some parts of the program. And
+that's what we observed in the quarter. Plus, what Nilanjan and I also shared, there was some
+one-time impact in the quarter.
+Now, what we see going ahead, we saw some stabilization in March, but the demand
+environment is still uncertain. In the last quarter, we saw that certain banking situations were
+in the US and European geographies, impacting decision-making across the board. With that
+in mind, we are working very closely with our clients and supporting them, making sure that
+we remain committed to our clients as they go through their way of dealing with the situation
+that's changing. And we believe that as we did in the past, the clients connect with us will help
+us massively in the future as well.
+Having said that, we have an extremely large pipeline, the largest pipeline we have seen in a
+long while, while there is still a slowing in the cycle of closing the deals, the deals are very
+Page 10 of 23Infosys Limited
+April 13, 2023
+strong, and some of them are mega deals. So, we feel good that there is a pipeline focused on
+cost and efficiency, and consolidation.
+Chandra Srikanth
+I think the Street was expecting 21% to 23% and I think you've given 20% to 22%. So again,
+what are the pressure points there? Is it rising onsite cost?
+Nilanjan Roy
+So, like I said, we have ended the year at 21% and in fact, the quarter closed at 21% and the
+full year is 21%. So, we have seen a very steady 21% and frankly, that is the midpoint between
+20% to 22% and it gives us the flexibility to look at certain headwinds if they arise. There will
+be some increases like I just mentioned earlier, it will be in terms of travel and compensation.
+And of course, we have the whole benefit of utilization, the pyramid, etc., to work. So, I think
+that's a fair range. And of course, our aspiration continues to be to improve our margin profile.
+Rishi Basu
+Thank you. Next question is from Sai from The Economic Times.
+Sai Ishwarbharath
+Hi, gentlemen. So, looking at the guidance, I just wanted to ask, even last year, you had given
+guidance and you had kept updating it, right? So, would you call this some sort of a misstep
+like kind of seeing the demand forecast as overestimating demand? And also, I wanted to know
+you were saying that a lot of project cancellations and the one-time impact were there. So, has
+that impact subsided, or should we also expect similar pressure in the pipeline that's coming?
+Also, for Nilanjan, I wanted to know the campus hiring target for FY’24. Thanks.
+Salil Parekh
+Many of the things that Nilanjan and I shared earlier today were things that happened in the
+quarter. For example, some of the clients decided to slow down or stop some of the projects.
+So, these were things we had not seen at the start or at the end of last quarter, and that's what
+we felt. We have also seen some of that stabilizing in March, but the demand environment is
+Page 11 of 23Infosys Limited
+April 13, 2023
+uncertain. So, we are making sure that we keep that in mind as we look ahead and remain agile
+as we look ahead.
+Nilanjan Roy
+So, on the freshers, like I said, we have a very rich bench now. We have hired more than 50,000,
+and we have said, we will hire 50,000. We actually had, I think, hired 51,000-odd last year.
+And a lot of them on the bench are getting skilled, are getting trained. So, we have quite a
+leeway for the next few quarters in terms of the availability of freshers. And of course, with
+our agile model of doing both college and off-campus recruitment, we can always turn that up.
+So, we have no specific number for FY’24 at this stage. We have enough, actually, today sitting
+on the bench.
+Rishi Basu
+Thank you. The next question is from Haripriya Sureban from The Hindu BusinessLine.
+Haripriya Sureban
+Hi guys. Salil, you mentioned about slowdown. I just wanted to understand, is it more
+sentimental, or is it structural? Why are these deals getting delayed? And on the ChatGPT part
+that you mentioned, are there any specific use cases that you guys are working on? And we
+keep hearing that ChatGPT could make a job redundant or something like that. So would roles
+change, and would the nature of jobs change? And are you internally training employees for
+these technologies?
+Salil Parekh
+The first part was?
+Haripriya Sureban
+Is it sentimental, around what you are seeing and the client behavior that you are seeing, is it
+sentimental because everybody is scared or is it structural?
+Salil Parekh
+Page 12 of 23Infosys Limited
+April 13, 2023
+So there, what we are seeing is some clients have made a decision to slow down or ramp-down
+projects. We see that across the different industries that I mentioned, Telecom, Hitech, Retail,
+and parts of Financial Services. So, I don't know whether it's sentimental or structural, but we
+have seen that as the way the clients have interacted with us. As we were sharing, we saw some
+stabilization in March, but the environment is uncertain, so we will see how it plays out.
+On Generative AI, we are working with multiple platforms. We are working with open-source
+platforms, and we are working with proprietary platforms. We have active client projects today.
+The projects that we are working on are focused on large models within the client organization
+for different areas. And how Generative AI can take advantage of those large models and create
+something more efficient for the client.
+And then, we are working on our own software development tool, on an open-source
+Generative AI platform. We are actually working with two of them. And we are building, we
+are training it on our software development libraries. We have already done that with several
+of our internal software library elements. And we feel quite good that these things are going to
+help us with client work, so more work and also with productivity.
+So, it's really incredible how we think our organization has moved quickly into driving
+Generative AI within our business. And it’s now part of all the new training as well because
+once you have it for your own software library, you can really deploy it very effectively.
+Rishi Basu
+Thank you. The next question is from PP Thimmaya from YourStory.
+PP Thimmaya
+Hi. Just have two questions. One is the kind of negative growth you saw in this Q4. I understand
+the SVB crisis, the banking crisis, the Credit Suisse, and UBS crisis, but was it expected? I
+mean such kind of deep cuts for Infosys as such from a revenue perspective?
+And secondly, the kind of revenue outlook you have given for the current financial year. Is this
+a long-term trend you are going to see that the overall growth rate is going to be under single
+digit -- maybe high single-digit or below 10% kind of thing?
+Page 13 of 23Infosys Limited
+April 13, 2023
+Salil Parekh
+So, first, every quarter, we look at where our large deals, overall wins plus the current work is.
+And we build in a bottom-up way, what our estimate is and what our forecast is for the period
+ahead for the financial year. And that's the guidance update or change that we gain, and we
+have given that consistently over the last several years. We saw a different kind of volume
+when we were at the end of last quarter. And then things changed during the quarter, which is
+what we shared with the projects ramping down.
+Now looking ahead, first, if you look at, let's just say, the last couple of years, we had 19.7%
+growth the year before, and 15.4% this past year. So, we know that it depends on where the
+economic environment is and how we see that. We think our business has two growth drivers.
+When there is a huge change going on within our client organizations and they are putting in
+large investments there.
+There is digital transformation, and we have deep capability in that. That comprises the cloud.
+We have a very strong capability on Cobalt. And then, when there are different areas where the
+client wants to focus on efficiency, costs, and even consolidation. We have a very strong
+capability in automation, our own AI that we have used for that in the past. So, we feel
+comfortable on both of those dimensions depending on how the economic environment is.
+Rishi Basu
+Thank you. The next question is from Rukmini Rao from Fortune India.
+Rukmini Rao
+Salil, this is just an addition to what Shilpa asked on delayering of your leadership, your answer
+essentially meant that you are not going to have the president structure anymore. Would that
+be a fair inference, or do you plan to make changes again?
+Salil Parekh
+So, what we are doing is for the delivery organization, we have already put in place the new
+team and the structure. We have rolled that out. We have a lot of people because we have, I
+Page 14 of 23Infosys Limited
+April 13, 2023
+think, a very good leadership team within the company. So, a lot of people are really energized
+and excited with the new roles that they're already playing. On FS, we will be rolling that out
+in the next few weeks.
+Rukmini Rao
+Okay. Nilanjan, also, if you can give us some understanding around the reduction in the free
+cash flows?
+Nilanjan Roy
+No. So I think we had a very good quarter in terms of cash flow at $713 mn.
+Rukmini Rao
+On a year-on-year basis?
+Nilanjan Roy
+We had an 85% conversion of free cash. And I think as a percent of net profit, that's a very
+good conversion because also you have investment into working capital. Last year was very
+unique. We went above 100%, and the capex was low. We had other working capital benefits.
+There were some delays because of COVID in terms of our payments, which we had got
+benefits from governments on payments of taxes which came back this year. So otherwise,
+85% is a very good ratio of conversion.
+Rukmini Rao
+Salil, also given that, the US macros look so weak and the commentary coming from various
+quarters also has been the same. So, would that mean that for Indian IT services companies,
+would there be opportunities to pick up, like, say, captives of non-core assets of, let's say, big
+bankers, and are there M&A opportunities that will come out of this slowdown?
+Salil Parekh
+We are seeing very good opportunities in the M&A environment. And this is a good
+environment. We have a very strong balance sheet, a very good way to deploy it. If we find a
+Page 15 of 23Infosys Limited
+April 13, 2023
+company or an entity that fits in strategically, but also culturally and we have a way of
+integrating it, we will look at that.
+Rukmini Rao
+So, you are on the lookout?
+Salil Parekh
+Yes, we are -- but we are on the lookout at all times. But yes, this environment is a good
+environment for finding it.
+Rishi Basu
+Thanks, Rukmini. The next question is from Sethuraman NR from Reuters News.
+Sethuraman NR
+Good evening, gentlemen. So, the question is, this weak, I mean, the soft outlook, is it going
+to drill down to your plans for hiring next year, as well as the increments and the variable pay?
+That is one. And do you see a recovery period over the next few quarters? Like, I mean, one or
+two quarters from where, you feel that the situation in North America will stabilize, or at least,
+if you have a hint? Also, is the softness overall coming from North America, or you are seeing
+pockets of softness from other regions as well, like Europe? And you also mentioned about the
+Generative AI. So, I just want to know whether this is in association with Open AI, where you
+have some stake, or how it's going to play?
+Salil Parekh
+I'll take the second one, which is on the softness. Nilanjan will come back on the first one. And
+I'll also talk about Generative AI. So, firstly, our view today is from where we sit today, which
+is sort of in the middle of April, as we look out to our financial year. We will see how the
+economic environment, how the global environment evolves. It's not something that we have
+a clear view of what it will look like for the full year. We have a good approach to building
+what we consider our guidance, based on what work we have already got committed from
+Page 16 of 23Infosys Limited
+April 13, 2023
+clients, what we have seen from the past that's continuing and then what we typically see in
+Q3, Q4, and in most years. So that's how we have built our guidance, and that's the approach.
+I think on the geography, we do see, more impact in US and less in Europe. And that's in our
+numbers. You see the growth in the full year or even in quarter is stronger in Europe than in
+US, even though there is growth in both for the full year.
+On Generative AI, with clients, we have many projects going on. We are working on the
+Generative AI platform that the client has some interest in, where they have a preference. If
+they don't have a preference, we have a certain set of recommendations that we have. We work
+with both open-source platforms for clients, but also with platforms that they want, which could
+be open sourced or proprietary platforms.
+For our own work, we are working on open-source platforms today. And we have the ability
+to work on any Generative AI platform, because we have our software development libraries,
+and we can train them on that model.
+Nilanjan Roy
+On the first question, of course, as we build out the financial model for the year, we factor in
+lateral hiring. We factor in attrition, the questions around the freshers in the pipeline. And
+therefore, and of course, we have a margin guidance accordingly built in. So, this factors in
+many of these things, including things like compensation, travel. So, the model actually puts
+together all these various factors and has that flexibility to change each lever as per where the
+year will progress.
+Rishi Basu
+Thank you. The next few questions are on text from friends from media who have sent it to us.
+I just want to make a quick announcement that we are going to consider those questions in the
+interest of time which haven't yet been addressed. Most of our questions have been addressed.
+The first question on text is from Anisha Jain from ET Now. And Anisha's question, Salil, is
+to you. Regarding the one-time revenue impact, you said in your opening comments, is there a
+slowdown caused by a client-specific issue or a specific sector, or is it broad-based?
+Page 17 of 23Infosys Limited
+April 13, 2023
+Nilanjan Roy
+Yes, like we mentioned, I think the majority of the revenue slowdown is from volume. And
+part of the one-timer, which is on revenue, is a combination of one-time client issues as well
+as client cancellation, in a way which is a subset of the ramp-downs.
+Rishi Basu
+Thank you. The next question is from BQ Prime. Tushar has sent us two questions, one for
+Salil and one for Nilanjan. For Salil, what is the rationale behind the revision in guidance, given
+the weakness in the BFSI space? For Nilanjan, how do we see deal-making and margin panning
+out over the next two quarters? Is growth likely to return in a hurry?
+Salil Parekh
+So, on the first one, in that sense, there is no revision in the guidance because it is the start of
+our financial year. So that is our guidance for the year. There is no revision in our guidance.
+Nilanjan Roy
+Yes, I mean, I think, we see the guidance in the context of the macro environment, which we
+are sitting in now, right? And that, of course, can change. But the other thing is we have a very
+strong pipeline. In fact, our large-deal pipeline is the strongest ever we have had. And in a way,
+that gives us the confidence, at least as the year progresses, that we will have some conversion
+of this. And the second half of the year, we will definitely see a definite improvement, which
+is why the four to seven band, we have widened that band exactly for that reason.
+Rishi Basu
+Thank you. The next question is from Kushal Gupta from Zee Business to Nilanjan. What are
+the tools available at your end to safeguard the margins ahead, given the current scenario
+remains like this for some more quarters?
+Nilanjan Roy
+Page 18 of 23Infosys Limited
+April 13, 2023
+Yes. So, I think four or five of them, which straightaway we know, I think our automation
+capabilities are tremendous. I think it is the biggest source of our margin improvement. And of
+course, with new tools coming in, I think we can see more-and-more productivity increases.
+The one which is sitting out there really is utilization. I think at 80%, we know we have a large
+headroom to improve that. Onsite offshore mix, which post-COVID, slightly went a skew
+because, of course, there was some travel which went back. That now strategically can be
+looked at and as we can offshore more work.
+Definitely on the pyramid side as well. So, as freshers' go into the pyramid, you will get a
+benefit really on the production workforce. So today, the bench has a double whammy on cost
+because you have idle people and, of course, you have a rich pyramid in terms of a very top-
+heavy pyramid. And as freshers' go in, you will be having that benefit as well.
+So, there are multiple levers, which we have. Pricing is one of them. Salil mentioned that as
+well. We continue to work with our clients where we can put COLA clauses into our deals,
+where we can sell with new innovative commercial constructs. Of course, the environment is
+tough. The good news is we have not seen, for instance, a return back to a heavy discounting
+environment. We are making sure that we are continuing to push back on our clients on
+discounts, etc., and that really has stayed even during this time.
+Rishi Basu
+Thank you. The next question is from CNBC Awaaz for Salil. Has the sentiment worsened
+among clients? Is there fear of further uncertainty or just caution? Does the uncertainty and
+delay in decision-making make it likely to play on the pricing of deals in the coming quarters?
+Salil Parekh
+So there, the way we saw -- during the quarter we saw some of our clients looking at ramp-
+downs in their projects, and then there were some one-time impact on revenue. These were
+spread across different industries. There were some in Telecom, some in Hitech, Retail and
+parts of Financial Services. We see some stabilization in March, but the demand environment
+is uncertain. So, we will watch it and with agility and adapt to it.
+Rishi Basu
+Page 19 of 23Infosys Limited
+April 13, 2023
+Thank you, Salil. With that, we come to the end of this press conference. We have perhaps 10
+more minutes in case anybody would like to ask another question. Jochelle. Please go ahead -
+- Thimmaya, please use the microphone because we have to record it?
+Thimmaya PP
+We would like to know about the sharp drop in client addition in the fourth quarter of FY’23,
+any particular reason for that?
+Nilanjan Roy
+No, I think it's probably to be seasonal. I don't have the exact number offhand.
+Thimmaya PP
+Because your own fact sheet shows that you added about 115 clients in fourth quarter. And
+December quarter, it was 134, and if you look at a year back…
+Nilanjan Roy
+There is nothing specific really at all. I mean, 115 clients on a large base of about 1,900 clients.
+So that happens, the ups and downs that happens. We also loose some clients, and we add, in
+fact, net more than a loss. So, I don't think anything specific in that.
+Rukmini Rao
+Nilanjan, also, in terms of the utilization, whether it's including the trainees or excluding, given
+that you are going into a difficult year, is there any sort of a number that you are working with
+in terms of improving your utilization?
+Nilanjan Roy
+Of course, as we look, as the year progresses, we will have different targets for, as the quarters
+progress. Because you can't put all the freshers into on day one into programs. So, it depends
+on the kind of work that you will have. You will have T&M work, FP work. So, it's literally
+horses for courses. Which programs come in, how many freshers can you put in, in large deals,
+by default you can put in more freshers. So, it's quite complicated.
+Page 20 of 23Infosys Limited
+April 13, 2023
+Rukmini Rao
+But given that your revenue guidance is not great, that would mean to say that you'll not have
+as many work, or…?
+Nilanjan Roy
+No, that is of course a headwind. So, one of the ways you get around that is on existing deals.
+So, if a current project is three years old, you move people out from an existing deal, which is
+three years, well into tenure, move up the people into higher roles, put freshers in, and move
+those experienced people into other deals. So different ways you can play this game as well.
+But yes, of course, I mean, if you don't have those large volumes, there is a bit of a headwind
+in terms of how much we can deploy.
+Rishi Basu
+Rukmini, thanks. Jochelle had a question. Shilpa, one sec. Jochelle had a question, and after
+Shilpa's, we'll close the conference.
+Jochelle Mendonca
+So, it's a broader question. Over the past few months, we have seen companies say that they
+have record high deals, strong deal wins, and with Accenture announced 19,000 job cuts, or in
+the case of TCS, say, the market is still uncertain, and have issues with not as strong growth as
+maybe the market had expected. Could you give some color on why there may be this
+disconnect between strong demand and high deals, and good deal wins and large deals, that's
+not somehow flowing into the revenue line?
+Salil Parekh
+Jochelle, it'll be difficult for me to comment on those two companies.
+Jochelle Mendonca
+No, I mean a broader industry thing, because I think, you have had good deal wins this quarter.
+It's not terrible deal wins for Infosys.
+Page 21 of 23Infosys Limited
+April 13, 2023
+Salil Parekh
+For us, I think, for Infosys, we have had very strong year in terms of wins, $9.8 bn, and that is
+what we see the growth guidance that we have given, 4% to 7%. Then we saw in the quarter
+some of the ramp-down. So, there is always some additions, and then this what we had not seen
+at the end of last quarter, those ramp-down. So, then we balance those two things as we give
+the guidance.
+Jochelle Mendonca
+Slowdown is so bad that it's offsetting the remarkable deal wins we saw in the quarter?
+Salil Parekh
+There, the way we look at it is, we had very good large deal wins. And then we had some clients
+where we had ramp-downs.
+Rishi Basu
+Shilpa, you had a question?
+Shilpa Phadnis
+Yes. The revenue productivity has dropped sharply. And that too, it’s on a consolidated basis
+with all the subsidiaries added. It’s $53,400 vis-à-vis, $57,000, nearly $58,000 last year. So, if
+you can help us understand that – revenue productivity per employee?
+Nilanjan Roy
+So, this is just your total revenue by headcount. And in a way, our utilization, if it's down from
+88% to 80%, straightaway, mathematically, you have a 10% reduction. So, that's just the impact
+of utilization. So, we are just carrying many more freshers than we did last year. That is as
+simple as that.
+Shilpa Phadnis
+Page 22 of 23Infosys Limited
+April 13, 2023
+And in terms of the renewals, are clients taking longer than usual to renew? And hence, the
+revenue recognition hasn't happened. Is that one of the reasons why you see more slower
+closures?
+Salil Parekh
+There, what we are seeing is in a large deal pipeline, we have seen an expansion in the time to
+close a deal. So, it's not specific to a renewal or to something new. It's more that in the large
+deal pipeline, we have seen that. And then once it's closed, then it flows in, once it's closed,
+there is no other constraint on how the project starts and so on.

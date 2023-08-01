@@ -1,0 +1,21 @@
+:
+The next question is from the line of Jignesh from Incred Capital. Please go ahead
+Page 17 of 22Jignesh:
+I wanted to discuss similar to what Krishnan was asking earlier. In this interest rate cycle
+side, can we assume that at least incrementally on the new loans not on the existing loans,
+which is repo-linked or these treasury-linked loans and all, considering that demand
+scenario becomes little fragile, in that case, can we take a hit on the spreads just to manage
+the demand? Is that kind of scenario also likely or the spread generally remains stretched
+all the time?
+Anindya Banerjee:
+That's a function of how the market sort of prices the loans. As we said, it is a competitive
+market, so it's a decision of each lender based on their strategy and their funding costs as
+to what spread over the benchmark they offer on incremental loans. If we look at what has
+happened so far in terms of incremental lending, the pass-through would not have been
+uniform for all sort of segments of the market and we have to see how that goes along.
+Jignesh:
+Understood. But there is no regulation as such, right, which restricts you to cut down on
+your spreads? That is what I'm trying to understand. So, intermittently if you want to
+reduce the spread, that is possible.
+Anindya Banerjee:
+If I want, yes.

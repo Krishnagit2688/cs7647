@@ -1,0 +1,28 @@
+: The next question is from the line of Chirag Shah from Edelweiss. Please go ahead.
+Chirag Shah: One clarification question on accounting of SMG. So, classifying raw materials and all other
+staff, depreciation, everything is classified in other expenses?
+Ajay Seth: All expenses except for depreciation and royalty are a part of material cost. Depreciation is
+accounted under other expenses and it is shown as lease expenses and royalty payments is
+accounted under royalty.
+Chirag Shah: Second question is on the chip shortage. You very well-articulated the way you are managing it.
+Is it possible to indicate primarily which are one or two or three key chips or usages which is
+really an area of problem and where you are in a sense compromising to serve given the
+situation?
+Rahul Bharti: I would prefer not to name our specific partners and how much quantities or where the supply
+constraints are but we're working with all of them. So, we'll play it by the year, and we hope the
+problem subsides soon.
+Chirag Shah: Can you indicate usage wise, are there more on the communication side, what usage is really
+causing the problem?
+Shashank Srivastava: See, the basic problem is because of the pandemic there have been many alternate uses of
+semiconductors. The world has digitalised more in the past 12 months plus people are not sure
+whether to expand capacities or not, is it a permanent demand change or is it a temporary demand
+increase. So, increasing capacities is also doubtful, that's a fundamental problem.
+Chirag Shah: What kind of CAPEX should we look at for FY’22, can you guide on that number?
+Page | 9
+MSIL conference call transcript, 28th July, 2021Ajay Seth: CAPEX plan would be about INR 4,500 crores this year, some movement can happen because
+of COVID, etc.,
+Chirag Shah: The HEV that we were jointly working with Toyota, any comment, when can we expect that?
+Rahul Bharti: We can't give you any such guidance, but what we can tell you is it is our active consideration.
+It's a strong technology for the next 10-15 years and it has a lot of merit, it can scale up without
+the dependence on external charging infrastructure, offers a good reduction in emissions. So, it
+has a lot of merits and we'll let you know when the right time comes.

@@ -1,0 +1,235 @@
+
+Thank you, Nilanjan. I had a few questions from the web chat.
+There were two shareholders who were asking of how to view the statutory registers. The questions
+were from Supriya and Pankaj Gupta.
+The shareholders may note that all the information of the company is actually available on the website
+of the company. So, therefore, I request all the shareholders to look into the website of the company
+and also the Stock Exchange website for information dissemination and there are registers which are
+also filed with the Ministry of Corporate Affairs. So, shareholders can actually take the information from
+those publicly available information. In spite of that, if there are any specific questions or information
+which is required, you can refer or you can send a query to investors@infosys.com and we will answer
+that suitably.
+- 38 -There was a next question from Sujata Kiran. The question is what is assurance from the company
+side against any allegation which may bring down the share price of the company such as insider
+trading and all that?
+The answer is our robust policy framework always ensure compliance with applicable rules and
+regulations. We have also updated our compliance frameworks in response to the requirements of
+regulator and remain proactively engaged with them. Our robust Whistleblower Policy and program also
+ensures that any allegation is investigated in an objective manner. This framework serves to the
+interest of all the stakeholders.
+Those were the questions which was directed at me. With that, I'll hand over to Mr. Chairman.
+Nandan Nilekani
+Thank you, Mani. And now we'll come to the second round of questions. These are the questions that
+were asked in the video conference, and we will answer them in the same order.
+I had two questions. First question is our ratio of female directors is only 12% against 40% at employee
+level. Can we increase this please? This is shareholder Santosh.
+Santosh, this AGM we have the resolution for Helene’s appointment placed before the shareholders for
+approval. Post that approval, if it is obtained, the ratio of female directors will go to 25%.
+Second question – what is your view on AI replacing humans in the workforce?
+We believe that AI has the potential to make a big improvement in the productivity of people. And we
+have found that the more qualified, the more experienced a person is, you can derive more benefit from
+AI like automatic code generation and all that. So definitely productivity will go up. But we believe that it
+will be used to amplify the productivity of existing people. Therefore, we feel that we'll be able to benefit
+from this much more. At the same time, we agree we have to become more efficient and share the
+efficiencies with our clients. So, we will take this, and Infosys is on the path to applying AI in a very
+rapid way with our AI-first strategy that we are rolling out across the company at the moment. Thank
+you. Now I'll hand over to Salil.
+Salil Parekh
+Thanks, Nandan.
+I have a few questions from the questions asked in the video and by some audio.
+The first question from Mr. Sadananda Sastry, for me, what is the revenue by geography, India? India
+has the least place. How do we uplift this?
+- 39 -So, here we are doing some extremely strategic work to make India fully digital, as is being driven
+across the entire government. We are working on the GST program, on the Income tax program. And
+we will continue to work on such strategic programs as they become as the government is doing more
+of them. And we have really very strong expertise in those areas. So, this will continue to increase. We
+are also looking at the private sector where more and more of this digital work is starting to happen
+across the country.
+Next question, also from Sadananda Sastry.
+The question was about many senior employees leaving the company. How will the company take care
+of the image?
+Here, we are extremely solid in terms of the strong bench of leaders that Infosys has. We feel that that
+group of leaders that Infosys has produced over the years through its own leadership development and
+through the work hey do with clients in Delivery, in markets, really prepares them to do more and more
+work. And we have made sure that those leaders step up and take that on. We feel good about the fact
+t
+that we have such a deep leadership bench, and we will continue to work on that as we go ahead.
+Our next question from Abhirup – what are the company's plans on expanding the Cloud business?
+Cloud is really absolutely core to what we are driving. We discussed earlier, the Cobalt platform, the
+capability set, whether it's on Infra-as-a-service, Software-as-a-service, Platform-as-a-service, we really
+have the leading market capability in Cloud. We see good traction for Cloud activity overall with clients.
+We see that there is a Cloud becomes the underpinning for transformation, as companies are looking to
+move into the digital age, into the AI age. That becomes the base foundation that will be needed. And
+with our strong partnerships with several of the large Cloud companies, we believe we are well-
+positioned to play in that and this will continue to grow.
+Next question from Suman Agarwal. Question is how is the company going to grow in the next five
+years, organic versus inorganic?
+Now, here, over the past several years, we made about eight or so acquisitions. Those acquisitions are
+well-integrated. We feel that approach will continue into the future. We will look for acquisitions which fit
+the strategic direction, the cultural fit and the value, the ability to integrate. Based on that, we will
+continue the acquisition approach and the organic approach will continue. We will continue to work with
+our clients to expand as they look for the cost and efficiency and automation programs in this
+environment and also look to expand on transformation programs as they continue to make changes in
+the business. So, both dimensions will carry on into the next few years.
+- 40 -Next question from Shailesh – Which are the verticals in the business which have been least affected
+and also significantly affected by the current macro-economic conditions?
+So, here what we have shared in the past, we have seen industries such as Financial Services in
+mortgage and asset management, and investment banking, the Telecom sector, Hi-Tech, some areas
+of Retail, those are the ones that are most impacted within this environment that we have seen, what
+we reported in the end of Q4 and before that. We will see as we go ahead and how these evolve into
+the future quarters.
+Next question from Celestine – How is the company managing employee attrition?
+What we've seen over the last four quarters, Q4 and before, attrition has steadily been coming down
+each quarter on a quarterly basis. We see a lot of the initiatives that we've put in place, and also the
+overall economic environment, both of them relating to the attrition coming down, our employee
+engagement scores are continuing to go up and we believe that with that we will have a good control on
+attrition in the coming quarters. And we will make sure that that becomes translated as we look at the
+recruitment cycle and bringing in more employees from outside.
+Our next question from Santosh – Can you please provide detail on how many new clients were added
+in the last financial year?
+So here, in a specific point, in the last financial year, we have added 458 new clients.
+Next question from Dharav – Apart from the Cloud capability and digital, does the company have other
+pillars on which it sees future growth?
+So very clearly, the digital approach which comprises Cloud, digital, then also data and analytics,
+cybersecurity, IoT (Internet of Things), those are really good growth drivers. We are now seeing much
+more focus on generative AI that we have discussed quite a bit in all the questions and answers and
+overall becoming more AI-driven, AI-first and clients are looking at that. Then, in this environment,
+which is a different macro environment, there is more and more attention to cost efficiency, automation
+and consolidation. So, we are fortunate that we have both types of growth drivers where people are
+looking at transformation, they can look at Digital, Cloud and AI. And when they're looking at efficiency,
+they can look at cost, automation, consolidation and both engines are available with Infosys.
+Our next question also from Dharav – Considering the FSI segment has small share in US regional
+banks, what do you expect impact on Infosys?
+- 41 -So, we have a diverse portfolio in Financial Services, large global banks, regional banks, mid-sector
+banks, in cards, in payments, investment banks, asset managers, really very broad and diversified
+client base in the FS business. Now within US, less than 2% of our revenue has this exposure into the
+regional banking, and there we are therefore comfortable that that exposure is not going to because it's
+less than 2% not going to impact us in an overall scale of the business.
+Next question also from Dharav – What steps has company taken for wellbeing of employees?
+So here, Infosys, over the years has been extremely focused on wellbeing of employees. We have
+internally programs, for example, on health assessment and lifestyle enrichment. We have wellness
+programs for physical wellbeing and social wellbeing. And we also have wellbeing rates, where across
+locations, we track it and support employees in driving that. We are seeing a good traction overall on
+employee wellbeing within the company today.
+Next question from Redappa – A strong growth in digital with decline in core, how does the
+management have a plan to have growth both in digital and core?
+What we saw last financial year in some quarters, we actually saw good growth in core and digital. And
+now in this environment, as we see more and more focus on cost efficiency, automation and
+consolidation, we will see more and more attention to core services. But keeping in mind the overall
+macro condition, we will balance and make sure our focus on digital transformation and on core
+services remain strong.
+Next question from Shrenik Mehta – Please provide company strategy on both organic and inorganic.
+So here, similar to the point we discussed earlier, we have an approach to both organic and inorganic.
+In acquisitions, we have a focus on what will fit strategically and culturally in terms of value and
+integration. And on organic growth, we have a lot of focus on the areas we've discussed on Cloud, on
+digital, on AI-first, and on cost and efficiency in this environment.
+Next question from Shri Rama Vinodha – How is the company investing in employees for reskilling
+and upskilling?
+So there, we've always had, over the last several years a strong focus on skilling. We have Mysore
+campus where we have in-person training for all of our new employees. Over the last few years, we put
+in place the Lex capability which allows online training through mobiles for all employees. We measure
+reskilling by each of our different departments to make sure that employees have the opportunity of
+reskilling, and then the projects that become available to employees to drive through that reskilling. We
+are tracking internally, something called a Digital Quotient, that allows us to measure what is the
+- 42 -change in the type of skills every employee has, and that allows them to then become more and more
+relevant for the new types of work our clients are doing.
+Next question from Alex. What is the plan of the company in internally using AI for increasing
+productivity and quality?
+So there, what we discussed on generative AI is applicable both with our clients, but also within the
+company, where we are leveraging large language models both on the open source and dedicated
+generative AI platforms to improve productivity in software development. We've already seen
+places where that improvement is visible within our teams. We're also taking our own software
+development modules and approaches, especially in our product business and putting them through
+the large language model to enhance productivity. And you will start to see the impact of this as we go
+through the next few quarters and years to make the benefit available internally to our productivity.
+Those are the questions I had. With that, I'll pass it on to the Nilanjan.
+Nilanjan Roy
+Thank you, Salil.
+The first question I have we have requested multiple times for the company to do buybacks using
+tender offer mode. SEBI has come up with new regulations that the buybacks need to be done through
+tender offer. Please confirm if further buybacks will be like that. And the shareholder name is Shamit
+Mehta.
+So as you all know, we have a five-year capital allocation policy which we've laid out for the financial
+year 2024 period. And within that there are three components: there's a dividend component, a special
+dividend and a buyback component. And these allow predictability and consistency of returns. And as
+we've said, we've already returned 86% back and the Board looks at multipleelements looking at EPS
+accretion, looking at share price, yield on a cash return and then determines the most appropriate way
+to return this capital back. As regards the latest SEBI mandates on buybacks, we will continue to see
+that and how they will be implemented over the next year or two years.
+The next question is from Sadananda Sastry on page 301, Other expenses ₹133 crore increase in
+ECL. How do we reduce it?
+So, as you know, the company makes provisions for expected credit losses based on historical
+performance on the macro-economic conditions in terms of the geographies we operate in, and the
+sectors we operate in, and therefore makes the provisions appropriately. This is as per the relevant
+accounting standards.
+- 43 -Does the company have plans of doing CSR activities in the eastern part of the country? This is from
+shareholder Manoj Kumar.
+So, as you know, our CSR policy encompasses work around women empowerment, around health,
+education, and of course, sustainability, targeting the underprivileged. We also look at criteria around
+scaling up of these projects, and making sure that they have an impact and follow our overall themes.
+We have also started doing many projects in the east of the country, and if they meet these criteria, we
+will continue to expand there.
+The next question is regarding work from office two days from office two days from home, what is the
+policy of the company in this regard?
+I think we have a very flexible policy and a hybrid policy in terms of working from office and working
+from home to give people the flexibility. We encourage, of course, people to come to work a few days,
+and we believe that increases our social capital. And I think a big portion of this, of course depends
+upon our client requirements and our clients of course insist that employees come into work. So, this
+helps us maintaining a fair balance of giving client connectivity, and time for teams working together.
+Infosys margins may remain subdued in the next two, three years. What are the levers available to
+improve this? Reddappa.
+So as you know, we've given guidance for financial year 2024. And of course, we don't give a guidance
+beyond that. But like I explained earlier in one question, we have multiple levers for us to aspire to get
+higher margins and robust margins. We've talked about the Pyramid. We've talked about onsite
+offshore mix. Automation remains a big element, pricing, and there are the levers like subcon, etc.,
+which help us to continue to look at improving margins.
+Next question is whether the company is listed on any global ESG forum or platform. And this is from
+shareholder Celestine.
+Yes, as we already mentioned, we have of course got recognized, you know, rankings in India as well.
+But we are also recognized globally. We are part of the Dow Jones Sustainability Index, we have got a
+double A rating from MSCI ESG ratings, a global rating. We are under A-list of CDP in 2022. We are on
+the EcoVadis ratings as well. So, we are recognized as a leader in both our sector and even across
+sectors in many of these ratings globally.
+Cybersecurity and data privacy are big concerns these days. What steps are we taking in this direction?
+And this is a question from Shailesh.
+So, in cybersecurity, at Infosys, it's managed to multi-layered controls with defense in depth approach,
+starting from cybersecurity strategy, policies, processes. We got multiple certifications from ISO 27001.
+And also, we've been attested by SSAE, which is an independent audit firm. On data privacy, also
+- 44 -Infosys has seen significant growth of the DPO from 2010. And we've established an independent data
+privacy office and we are consistently working with our clients to improve both our securityand zero
+trust profiles and also on data privacy as well.
+Next question is can the company provide the initiatives just taken on sustainability and climate
+change?
+As you can see from our ESG book, which is on our website, we have an encompassing goal across all
+the three pillars of E, S and G. On Environment, we are looking holistically at climate change, at waste,
+and for water and we have aggressive goals, all of them. On the sustainability side, you know of
+Springboard program, which is giving free education across both India and across the world. We have
+digital skilling as another initiative, which we are taking up, women in workforce 39.4%, one of the
+highest in the sector across the world, across many of our peers as well. On the G side, we're working
+on improving governance, we've got the Ethisphere award for the most ethical company three years in
+a row. We're continuing to work on our supply chain ESG and auditing many of our supply chain
+partners to make sure that their ESG elements are also built into what we are consuming. And these
+are the initiatives we have taken, and we are laying out a goal every year and reporting against that in
+the ESG data book.
+Next question is how are we geared up to handle recession in the US and Western countries? And this
+is from Manoj.
+Yes, as you've heard, both from Salil, there has been across the macro environment slowdown, and
+this is reflected in our growth guidance for FY24. We have a very healthy pipeline, our pivot towards
+cost takeout for our clients in this environment becomes very critical. And therefore, some of the deals
+you have been seeing winning are based on these. This helps our clients reduce costs to automation to
+improve offshoring, digitization, and therefore makes us as, IT services company, a very important part
+of their overall business environment. And our end-to-end offerings during digital transformation help
+our clients to take out cost as well as help them in their longer-term transformation exercise.
+Next question is what is the reason for increase in travel expenses and software expenses?
+Travel, of course, came back last year as the COVID controls really have eased during the last year
+and therefore, if you can see pre-COVID as well, our travels are now going up at that level. Software
+expenses are going up, and because they are integrated to our overall delivery, whether it is Cloud,
+whether its overall infrastructure, these are becoming integral to the delivery model, which we have.
+Infosys is known for giving special dividends. What can we expect? When can we expect special
+dividend on completing 40 years? This was from a shareholder Srikantha.
+- 45 -Like I just mentioned, we have the Capital Allocation Policy which talks about special dividends,
+buybacks and regular dividends. And of course, over the last four years in line with our policy, we
+returned 86% back. The Board continuously looks at different elements into the decision of giving
+buybacks and of course, at this stage, we don’t have any special announcement on special dividend.
+The last question is when can we expect a bonus from the company?
+At this stage, we have no such announcement to make.

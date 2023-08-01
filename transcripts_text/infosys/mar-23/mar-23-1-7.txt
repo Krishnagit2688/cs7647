@@ -1,0 +1,35 @@
+
+Thank you. The next question is from Haripriya Sureban from The Hindu BusinessLine.
+Haripriya Sureban
+Hi guys. Salil, you mentioned about slowdown. I just wanted to understand, is it more
+sentimental, or is it structural? Why are these deals getting delayed? And on the ChatGPT part
+that you mentioned, are there any specific use cases that you guys are working on? And we
+keep hearing that ChatGPT could make a job redundant or something like that. So would roles
+change, and would the nature of jobs change? And are you internally training employees for
+these technologies?
+Salil Parekh
+The first part was?
+Haripriya Sureban
+Is it sentimental, around what you are seeing and the client behavior that you are seeing, is it
+sentimental because everybody is scared or is it structural?
+Salil Parekh
+Page 12 of 23Infosys Limited
+April 13, 2023
+So there, what we are seeing is some clients have made a decision to slow down or ramp-down
+projects. We see that across the different industries that I mentioned, Telecom, Hitech, Retail,
+and parts of Financial Services. So, I don't know whether it's sentimental or structural, but we
+have seen that as the way the clients have interacted with us. As we were sharing, we saw some
+stabilization in March, but the environment is uncertain, so we will see how it plays out.
+On Generative AI, we are working with multiple platforms. We are working with open-source
+platforms, and we are working with proprietary platforms. We have active client projects today.
+The projects that we are working on are focused on large models within the client organization
+for different areas. And how Generative AI can take advantage of those large models and create
+something more efficient for the client.
+And then, we are working on our own software development tool, on an open-source
+Generative AI platform. We are actually working with two of them. And we are building, we
+are training it on our software development libraries. We have already done that with several
+of our internal software library elements. And we feel quite good that these things are going to
+help us with client work, so more work and also with productivity.
+So, it's really incredible how we think our organization has moved quickly into driving
+Generative AI within our business. And it’s now part of all the new training as well because
+once you have it for your own software library, you can really deploy it very effectively.

@@ -1,0 +1,455 @@
+:
+Ladies and gentlemen, good day and welcome to ICICI Bank Q4-2021 Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-only mode. There
+will be an opportunity for you to ask questions after the presentation concludes. Should
+you need assistance during the conference call, please signal for an operator by pressing
+‘*’ then ‘0’ on your touchtone phone. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Sandeep Bakhshi -- Managing Director and CEO
+of ICICI Bank. Thank you. And over to you, sir.
+Page 1 of 38ICICI Bank Ltd
+July 24, 2021
+Mr. Bakhshi’s opening remarks
+Good evening to all of you and welcome to the ICICI Bank Earnings Call to discuss the
+results for Q1 of FY2022. Joining us today on this call are Vishakha, Anup, Sandeep Batra,
+Rakesh and Anindya.
+We hope that you are safe and in good health. The second wave of the Covid-19
+pandemic was more severe compared to the first wave in terms of cases and fatalities,
+and a wider geographic reach. As banking is classified as an essential service, most of
+our branches were open even during the months of April and May when containment
+measures were in place in various parts of the country. Our colleagues have shown
+resilience and strength and continued to serve our customers, even in this challenging
+environment when a number of our colleagues were themselves impacted by the virus.
+We are happy to share that now about 80% of the Bank’s employees have received at
+least one dose of vaccination against Covid-19. We would like to thank the medical and
+health workers and other essential workers for their tireless efforts in this fight against
+Covid-19.
+With the decline in the numbers of Covid-19 cases since June, there has been a gradual
+easing of restrictions across various states. The Ultra Frequency Index, comprising
+several high frequency indicators tracked by the Bank’s Economic Research Group,
+which declined from 107.9 in March to 70.9 in May has improved to 99.6 in the first week
+of July. High frequency indicators such as power demand, e-way bill generation and the
+unemployment rate have shown significant improvement in June. Vehicle registrations
+have also improved in June compared to April and May. Going forward the pace of
+normalisation in economic activities will depend on the trajectory of the pandemic, the
+level of containment measures in place and the pace and effectiveness of vaccination.
+Page 2 of 38ICICI Bank Ltd
+July 24, 2021
+At ICICI Bank, we continue to steadily grow our franchise and maintain our strong
+balance sheet.
+1. Growth in the core operating profit in a risk-calibrated manner through
+the focused pursuit of target market segments
+Our aim is to achieve risk-calibrated growth in core operating profit through a 360-
+degree customer centric approach, tapping opportunities across ecosystems,
+leveraging internal synergies, building partnerships and decongesting processes.
+The core operating profit increased by 22.7% year-on-year to 86.05 billion Rupees in
+Q1 of 2022. The profit after tax grew by 77.6% year-on-year to 46.16 billion Rupees
+in Q1 of 2022.
+2. Further enhancing our strong deposit franchise
+Total deposits grew by 15.5% year-on-year to 9.3 trillion Rupees at June 30, 2021.
+During the quarter, average current account deposits increased by 32.4% year-on-
+year and average savings account deposits by 21.7% year-on-year. Term deposits
+grew by 8.7% year-on-year. The liquidity coverage ratio for the quarter was 130%,
+reflecting continued significant surplus liquidity. Our cost of deposits continues to
+be among the lowest in the system. Our digital platforms and solutions, presence
+in various ecosystems and process decongestion initiatives have played an
+important role in the growth of our deposit franchise.
+3. Growing our loan portfolio in a granular manner with a focus on risk and
+reward
+Retail disbursements moderated in April and May due to the containment measures
+in place across various parts of the country. With the gradual easing of restrictions,
+disbursements picked up in June and July. Credit card spends declined in April and
+May but improved to March levels in June, driven by spends in categories like
+consumer durables, utilities, education and insurance. The retail loan portfolio,
+excluding business banking, grew by 20.2% year-on-year and was flat sequentially
+at June 30, 2021.
+Page 3 of 38ICICI Bank Ltd
+July 24, 2021
+Credit summations in the overdraft accounts of business banking and SME
+customers also picked up in June and July after declining in April and May. Our
+business banking and SME franchises continue to grow on the back of digital
+offerings and platforms like InstaBIZ and Trade Online. The business banking and
+SME portfolios grew by 53.4% and 42.8% year-on-year respectively. The business
+banking portfolio grew by 6.3% sequentially and the SME portfolio saw a marginal
+sequential decline.
+The growth of the domestic corporate portfolio was 11.4% year-on-year. The
+growth in performing domestic corporate portfolio, excluding the builder portfolio,
+was about 15% year-on-year at June 30, 2021. Overall, the domestic loan portfolio
+grew by 19.6% year-on-year and was flat sequentially. The non-India linked
+overseas corporate portfolio, declined year-on-year and sequentially, in line with
+the approach which we have articulated earlier.
+4. Leveraging digital across our business
+Our open architecture based digital platforms provide end-to-end seamless digital
+journeys and personalized solutions to customers and enable more effective data-
+driven cross-sell and up-sell. These platforms also enable us to reach out to non-
+ICICI Bank account holders. We have shared some details in slides 17 to 28 of the
+investor presentation.
+We have seen significant increase in adoption of our mobile banking app, iMobile
+Pay, with over 2.5 million activations by non-ICICI Bank account holders since its
+launch six months ago. The transactions by non-ICICI Bank account holders in terms
+of value and volume have grown by eight times and seven times, respectively, in
+June 2021 compared to March 2021.
+The financial transactions on our digital platform for businesses, InstaBIZ, and our
+supply chain platform have grown steadily in the past few quarters. The increasing
+adoption of our digital platforms and growth in the value and volume of transactions
+supports growth in CASA deposits and provides a rich base for analytics and cross-
+sell. The value of financial transactions through InstaBIZ more than doubled year-
+Page 4 of 38ICICI Bank Ltd
+July 24, 2021
+on-year in Q1 of 2022. The value of transactions through supply chain platforms
+grew by more than 8 times year-on-year in June 2021.
+We have taken a number of initiatives to offer a convenient and frictionless
+experience to customers by digitising the credit underwriting process, with instant
+loan approvals. The proportion of end-to-end digital sanctions and disbursements
+across various products has been increasing steadily. About 34% of our total
+mortgage sanctions by volume were end-to-end digital in Q1 of 2022 compared to
+19% FY2021. About 46% of personal loan disbursements by volume were end-to-
+end digital in Q1 of 2022 compared to 42% in FY2021. Of the total asset and liability
+accounts opened as well as third party products sold during June, about 40% was
+end-to-end digital. About 95,000 customers were onboarded using video KYC in
+June 2021.
+We continue to strengthen our position in the digital payments ecosystem by
+building seamless user journeys, facilitating higher transaction throughputs and
+driving repeat transactions. Our strategy is to participate both directly through our
+own platforms and partner with third party players in the P2P and P2M space of the
+UPI ecosystem. We are seeing high customer engagement through repeat usage of
+features like Pay to Contact, Scan to Pay and bill payments on iMobile Pay. The
+volume of transactions through ‘Pay to Contact’ has grown by over five times in Q1
+of 2022 over Q4 of 2021. The value of UPI P2M transactions more than doubled
+year-on-year and grew by over 30.0% sequentially in Q1 of 2022.
+We have recently launched a digital platform called Merchant Stack, which offers
+an array of banking and value-added services to retailers, online businesses and
+large e-commerce firms such as digital current account opening, instant overdraft
+facilities based on point-of-sale transactions and instant settlement of point-of-sale
+transactions, among others. We also introduced ICICI STACK for Corporates which
+is a comprehensive set of digital banking solutions for corporates and their entire
+ecosystem of promoters, employees, dealers, and vendors. These solutions enable
+corporates to seamlessly meet all banking requirements of their ecosystems in a
+frictionless manner.
+Page 5 of 38ICICI Bank Ltd
+July 24, 2021
+We continue to invest in technology to enhance our offerings to customers as well
+as the scalability, flexibility and resilience of our technology architecture. We
+actively monitor and improve our technology infrastructure to minimise disruptions
+in services to our customers. As a part of our #2025 technology strategy, we are
+creating an enterprise architecture framework spanning digital platforms, data and
+analytics, micro services based architecture, cloud computing and other emerging
+technologies.
+5. Protecting the balance sheet from potential risks
+The measures imposed by authorities in various parts of the country to contain the
+spread of the second wave of the pandemic had a significant impact on collections
+and recoveries in April and May. We sought to adopt a sensitive approach to the
+difficulties faced by our customers and prioritised their health and safety as well as
+that of our employees. Unlike last year, regulatory dispensations such as
+moratorium were not available to borrowers this time. This has led to an increase
+in overdues and gross NPA additions in Q1 of 2022 for the banking system,
+including us. The gross NPA additions during the quarter were 72.31 billion Rupees,
+of which 67.73 billion Rupees was from the retail and business banking portfolio.
+The retail and business banking gross NPA additions included additions of 11.30
+billion Rupees from the jewel loan portfolio. Jewel loan is a fully secured product
+and the loss given default in this portfolio is negligible. In order to be sensitive to
+the difficulties faced by customers and give them time for repayment, we have
+delayed sending the auction notices to customers in default. We expect near
+complete recoveries from this portfolio in the coming quarters.
+As mentioned in our previous earnings calls, our aim is to be proactive in
+provisioning with the objective of ensuring that the balance sheet is robust at all
+times. We have further strengthened our provisioning policies on NPAs during this
+quarter. The provisions during the quarter were higher by 11.27 billion Rupees due
+to this more conservative approach. The provision coverage ratio on NPAs was
+78.2% at June 30, 2021.
+Page 6 of 38ICICI Bank Ltd
+July 24, 2021
+Based on its current assessment of the portfolio, the Bank has written back 10.50
+billion Rupees of Covid-19 related provisions created in earlier periods. As of June
+30, 2021, the Bank held Covid-19 provisions of 64.25 billion Rupees which are about
+0.9% of our total loans.
+The overdues in the performing portfolio across various segments were either
+marginally higher than pre-Covid levels or at pre-Covid levels at the end of March
+2021. These increased in April and May due to the second wave of the pandemic
+and related restrictions. With the easing of restrictions and pickup in economic
+activity in June, the overdues across various segments of the performing portfolio
+have declined. We expect further improvement in collections and decline in
+overdues in the coming quarters.
+In the absence of regulatory measures such as moratorium, the gross NPA
+formation due to the recent wave of Covid-19 is being upfronted in the first half of
+the current fiscal for the system, including us. Based on our current expectations of
+economic activity and portfolio trends, we expect our gross NPA additions to be
+lower in Q2 of 2022 and decline more meaningfully in the second half of fiscal 2022.
+There would also be some additions to the loans under resolution as per the various
+frameworks announced by RBI.
+We have a robust provision coverage ratio on NPAs and in addition we hold Covid-
+19 related provisions of 64.25 billion Rupees, or about 0.9% of our total loans, to
+address potential future credit losses arising out of the pandemic and its economic
+impact. The performance of the portfolio and the strength of the balance sheet give
+us significant comfort.
+6. Maintaining a strong capital base
+The capital position of the Bank continued to be strong with a CET-1 ratio of 17.01%
+at June 30, 2021, including profits for the quarter. Further, the market value of the
+Bank’s investments in listed subsidiaries is about 1 trillion Rupees.
+Page 7 of 38ICICI Bank Ltd
+July 24, 2021
+Looking ahead, we see many opportunities to grow the core operating profit in a risk-
+calibrated manner. We will calibrate our growth in the near term based on the operating
+environment and the future trajectory of the Covid-19 pandemic. We will continue to
+focus on creating holistic value propositions for our customers and capturing
+opportunities across customer ecosystems, leveraging internal synergies, building
+partnerships and simplifying processes. We have a wide physical distribution network
+and our best-in-class digital platforms provide seamless onboarding and transacting
+experience for our customers. We have opened eight ecosystem branches that house
+multi-functional teams required to nurture relationships and bring the entire bouquet of
+services of the Bank to the corporates and their ecosystem. We will continue to make
+investments in technology, people, distribution and building our brand. We are guided
+by our philosophy of “Fair to Customer, Fair to Bank” emphasising the need to deliver
+fair value to customers while creating value for shareholders. We will continue to focus
+on delivering consistent and predictable returns to our shareholders.
+With these opening remarks, I will now hand the call over to Rakesh.
+Rakesh’s opening remarks
+Thank you, Sandeep. I will talk about balance sheet growth, credit quality, P&L details,
+capital adequacy, portfolio trends and performance of subsidiaries.
+A. Balance sheet growth
+The overall loan portfolio grew by 17.0% year-on-year at June 30, 2021. The domestic
+loan portfolio grew by 19.6% year-on-year and 0.3% sequentially at June 30, 2021. Up
+to the last quarter, we used to report business banking as a part of the retail portfolio.
+From this quarter, we are excluding it from the retail portfolio and reporting it separately.
+The retail portfolio grew by 20.2% year-on-year and 0.7% sequentially. Within the retail
+portfolio, the mortgage loan portfolio grew by 24.0% year-on-year, rural loans by 24.2%,
+commercial vehicle and equipment loans by 1.5% and the auto loan portfolio by 15.0%.
+Growth in the personal loan and credit card portfolio was 13.5% year-on-year. This
+portfolio was 666.26 billion Rupees or 9.0% of the overall loan book at June 30, 2021.
+Page 8 of 38ICICI Bank Ltd
+July 24, 2021
+The business banking portfolio grew by 53.4% year-on-year and 6.3% sequentially at
+June 30, 2021. The SME business comprising borrowers with a turnover of less than 2.5
+billion Rupees grew by 42.8% year-on-year and decreased by 1.7% sequentially to
+297.78 billion Rupees at June 30, 2021.
+The growth of the domestic corporate portfolio was 11.4% year-on-year. The growth in
+performing domestic corporate portfolio, excluding the builder portfolio, was about 15%
+year-on-year at June 30, 2021 driven by disbursements to higher rated corporates and
+PSUs across various sectors to meet their working capital and capital expenditure
+requirements.
+The overseas loan portfolio declined by 14.7% year-on-year and increased by 6.7%
+sequentially at June 30, 2021. The sequential increase in the overseas loan portfolio was
+primarily due to increase in the India-linked trade finance book. The overseas loan
+portfolio was 5.4% of the overall loan book at June 30, 2021. The non-India linked
+corporate portfolio reduced by 58.8% or about 1.4 billion US Dollars year-on-year and
+21.6% or about 270 million US Dollars sequentially, at June 30, 2021. We have provided
+the breakup of our overseas corporate portfolio on slide 16 of the investor presentation.
+Coming to the funding side: We continue to focus on growing the daily average CASA
+balances and retail term deposits. Average savings account deposits increased by 21.7%
+year-on-year and average current account deposits increased by 32.4% year-on-year
+during the quarter. There could be some impact on the sequential growth in current
+account deposits in the next quarter due to the implementation of RBI’s guideline on
+opening of current accounts by banks. Total term deposits grew by 8.7% year-on-year
+to 5.0 trillion Rupees at June 30, 2021.
+B. Credit quality
+The gross NPA additions were 72.31 billion Rupees in the current quarter compared to
+55.23 billion Rupees on a proforma basis in Q4 of 2021. Recoveries and upgrades from
+NPAs, excluding write-offs and sale, were 36.27 billion rupees which was about 50.0%
+of the gross NPA additions during the quarter. The gross NPA additions from the retail
+and business banking portfolio were 67.73 billion Rupees in the current quarter
+Page 9 of 38ICICI Bank Ltd
+July 24, 2021
+compared to 43.55 billion Rupees on a proforma basis in Q4 of 2021. The retail and
+business banking gross NPA additions included additions of 9.61 billion Rupees from the
+kisan credit card portfolio and 11.30 billion Rupees from the jewel loan portfolio. As
+Sandeep mentioned earlier, we expect near complete recoveries from the jewel loan
+portfolio in the coming quarters. We typically see gross NPA additions from kisan credit
+card portfolio in the first and third quarter of the fiscal year. The gross NPA additions
+from the kisan credit card portfolio were relatively low last year due to moratorium
+extended to the borrowers from March to August. The kisan credit card portfolio and
+jewel loan portfolio were about 3% each of our total loan portfolio at June 30, 2021. In
+the retail and business banking gross NPA additions, excluding rural, the proportion of
+mortgages was similar to FY2021, commercial vehicle and equipment loans was higher
+and personal loans and credit cards was lower.
+The gross NPA additions from the corporate and SME portfolio were 4.58 billion Rupees
+in the current quarter compared to 11.68 billion Rupees on a proforma basis in Q4 of
+2021. Proforma corporate and SME NPA additions in the previous quarter included one
+account in the construction sector which was rated BB and below at December 31 and
+was classified as non-performing during Q4 and upgraded in the same quarter post the
+implementation by all lenders of a resolution plan as per RBI’s framework.
+Recoveries and upgrades from NPAs, excluding write-offs and sale, were 36.27 billion
+Rupees. There were recoveries and upgrades of 22.64 billion Rupees from the retail and
+business banking portfolio and 13.63 billion Rupees from the corporate and SME
+portfolio. The recoveries and upgrades in the corporate and SME portfolio during Q1 of
+2022 mainly represent a few accounts which were upgraded post the implementation of
+a resolution plan as per RBI’s framework, by all lenders. The gross NPAs written-off
+during the quarter were 15.89 billion Rupees. The Bank sold gross NPAs amounting to
+2.40 billion Rupees in Q1 of 2022 on a cash basis. The gross NPAs sold during the quarter
+were entirely from the corporate and SME portfolio.
+The net non-performing assets were 93.06 billion Rupees at June 30, 2021 compared to
+91.80 billion Rupees at March 31, 2021. The gross NPA ratio was 5.15% at June 30, 2021
+compared to 4.96% at March 31, 2021. The net NPA ratio was 1.16% at June 30, 2021
+compared to 1.14% at March 31, 2021. The non-fund based outstanding to borrowers
+Page 10 of 38ICICI Bank Ltd
+July 24, 2021
+classified as non-performing was 41.01 billion Rupees as of June 30, 2021 compared to
+44.05 billion Rupees at March 31, 2021. The Bank holds provisions amounting to 16.55
+billion Rupees as of June 30, 2021 on this non-fund based outstanding.
+The total fund based outstanding to all standard borrowers, under resolution as per
+various guidelines was 48.64 billion Rupees or about 0.7% of the total loan portfolio at
+June 30, 2021 compared to 39.27 billion Rupees at March 31, 2021. Of the total fund
+based outstanding at June 30, 2021, 21.80 billion Rupees was from the retail and
+business banking portfolio and 26.84 billion Rupees was from the corporate and SME
+portfolio. The Bank holds provisions of 8.99 billion Rupees against these borrowers,
+which is in excess of the requirement as per RBI guidelines.
+The overdues across various portfolios increased in April and May due to the reasons
+which Sandeep highlighted earlier. With the easing of restrictions from June, collections
+and recoveries have improved and overdues have declined. We had mentioned in our
+previous quarter’s earnings call, that overdues in the performing portfolio across retail
+EMI products and credit cards, SME and business banking portfolio were either
+marginally higher or at pre-Covid levels at March 31, 2021. The percentage of overdues
+in the performing portfolio across most of these segments at June-end was similar to or
+lower than December 2020 levels. Less than 1% of the performing domestic corporate
+portfolio was overdue at June-end. As Sandeep mentioned, we expect further
+improvement in collections and decline in overdues in the coming quarters.
+C. P&L Details
+Net interest income increased by 17.8% year-on-year to 109.36 billion Rupees. Interest
+on income tax refund was 0.14 billion Rupees this quarter compared to 0.11 billion
+Rupees in the previous quarter and 0.24 billion Rupees in Q1 of last year. The net interest
+margin was at 3.89% in Q1 of 2022 compared to 3.84% in the previous quarter and
+3.69% in Q1 of last year. The impact of interest on income tax refund and interest
+collections from NPAs was about 2 basis points this quarter compared to about 4 basis
+points in the previous quarter and in Q1 of last year. The domestic NIM was at 3.99%
+this quarter compared to 3.94% in Q4 and 3.91% in Q1 last year. International margins
+were at 0.27%. The cost of deposits was 3.65% in Q1 compared to 3.80% in Q4.
+Page 11 of 38ICICI Bank Ltd
+July 24, 2021
+Non-interest income, excluding treasury income, grew by 55.7% year-on-year to 37.06
+billion Rupees in Q1 of 2022 primarily due to base effect.
+ Fee income increased by 53.0% year-on-year to 32.19 billion Rupees in Q1.
+Fees from retail, business banking and SME customers grew by 65.4% year-
+on-year and constituted about 76% of the total fees in Q1 of 2022. Total fee
+income declined by 15.6% sequentially reflecting the decline in investment
+and borrowing activity by customers during the quarter.
+ Dividend income from subsidiaries was 4.10 billion Rupees in Q1 of 2022
+compared to 1.87 billion Rupees in Q1 of last year. Dividend income in Q1 of
+this year includes final dividend from ICICI Prudential Life Insurance.
+On Costs: The Bank’s operating expenses increased by 29.9% year-on-year in Q1. The
+employee expenses increased by 9.6% year-on-year and by 18.2% sequentially. The
+Bank had slightly over 100,000 employees at June 30, 2021. Non-employee expenses
+increased by 47.7% year-on-year in Q1 of 2022 primarily due to base effect. The non-
+employee expenses declined by 8.3% sequentially due to lower business volumes
+during the quarter, partly offset by, technology related expenses.
+The core operating profit increased by 22.7% year-on-year to 86.05 billion Rupees in Q1
+of 2022.
+There was a treasury gain of 2.90 billion Rupees in Q1 compared to a loss of 0.25 billion
+Rupees in Q4 and a gain of 37.63 billion Rupees in Q1 of the previous year. Treasury
+gains in Q1 of previous year included gains of 30.36 billion Rupees from sale of stake in
+ICICI Life and ICICI General.
+The total net provisions during the quarter were 28.52 billion Rupees. We have further
+strengthened our provisioning policies on NPAs during this quarter. The provisions
+during the quarter were higher by 11.27 billion Rupees due to this more conservative
+approach.
+During the quarter, the Bank wrote back 10.50 billion Rupees of Covid-19 related
+provisions created in earlier periods. This was based on the updated position of various
+Page 12 of 38ICICI Bank Ltd
+July 24, 2021
+portfolios underlying these provisions, after taking into account the NPAs already
+accounted for and specific provisions held against the same, as well as potential future
+credit losses arising out of the pandemic and its economic impact.
+The provisioning coverage on NPAs continued to be robust at 78.2% as of June 30, 2021.
+In addition, we continue to hold Covid-19 related provisions of 64.25 billion Rupees,
+which is about 0.9% of loans. We are confident that these provisions will completely
+cushion the balance sheet from the potential credit losses which may arise due to the
+pandemic. The performance of the portfolio and the strength of the balance sheet give
+us significant comfort.
+The profit before tax grew by 89.8% year-on-year to 60.43 billion Rupees in Q1 of 2022
+compared to 31.83 billion Rupees in Q1 of last year. The tax expense was 14.27 billion
+Rupees in Q1 of 2022 compared to 5.84 billion Rupees in the corresponding quarter last
+year. The profit after tax grew by 77.6% year-on-year to 46.16 billion Rupees in Q1 this
+year compared to 25.99 billion Rupees in Q1 of last year.
+The consolidated profit after tax was 47.47 billion Rupees this quarter compared to 48.86
+billion Rupees in Q4 and 31.18 billion Rupees in Q1 last year.
+D. Capital
+The CET1 ratio, including profits for Q1 of 2022 was 17.01% at June 30, 2021 compared
+to 16.80% at March 31, 2021. The Tier 1 ratio was 18.24% and the total capital adequacy
+ratio was 19.27% at June 30, 2021.
+E. Portfolio information
+We have been growing our loan portfolio in a granular manner with a focus on risk and
+reward. Our retail portfolio has been built based on proprietary data and analytics in
+addition to bureau checks, utilising the existing customer database for sourcing in key
+retail asset products through cross sell and up-sell and pricing in relation to the risk. Our
+strong deposit franchise enables us to offer competitive pricing to the selected customer
+segments. As Sandeep mentioned, disbursements across key retail products declined in
+April and May. However, these recovered in June and trends in July also appear
+Page 13 of 38ICICI Bank Ltd
+July 24, 2021
+promising. We continuously monitor the performance at a sub-segment level and
+recalibrate the customer selection and underwriting norms in view of the current
+operating environment so as to leverage the demand while operating within our risk
+appetite. The Bank had calibrated its credit filters and underwriting norms following the
+outbreak of the Covid-19 pandemic last year. With the gradual unlock and subsequent
+recovery observed, some rollback of the measures were carried out. The Bank reviewed
+the same in view of the second wave of Covid-19 and considering the measures already
+place, no significant further action was deemed necessary. However, due to the evolving
+environment, policy rationalization measures are being continuously taken as per our
+analysis of various micro segments.
+We have given further information on our retail and business banking portfolio in slides
+34 to 45 of our investor presentation.
+The loan and non-fund based outstanding to corporate and SME borrowers rated BB and
+below (excluding fund and non-fund based outstanding to NPAs) was 139.75 billion
+Rupees at June 30, 2021 compared to 130.98 billion Rupees at March 31, 2021, details
+of which are given on slide 37 of the investor presentation. Other than three accounts,
+one each in construction, power and telecom sectors, the maximum single borrower
+outstanding in the BB and below portfolio was less than 6 billion Rupees at June 30,
+2021. At June 30, 2021, we held provisions of 9.76 billion Rupees on the BB and below
+portfolio compared to 3.32 billion Rupees at March 31, 2021.
+On slide 38 of the presentation, we have provided the movement in our BB and below
+portfolio during Q1 of 2022. The increase during the quarter primarily reflects a few
+accounts which were upgraded post the implementation of a resolution plan as per RBI’s
+framework.
+Except for fund based outstanding of project under implementation accounts in the
+commercial real estate sector amounting to about 3 billion Rupees, all corporate and
+SME borrowers under resolution were rated below investment grade at June 30, 2021
+The builder portfolio including construction finance, lease rental discounting, term loans
+and working capital loans was 230.05 billion Rupees at June 30, 2021 or 3% of our total
+loan portfolio. As mentioned in our previous calls, our portfolio is granular in nature with
+Page 14 of 38ICICI Bank Ltd
+July 24, 2021
+the larger exposures being to well-established builders. About 13% of our builder
+portfolio at June 30, 2021 was either rated BB and below internally or was classified as
+non-performing.
+The total outstanding to NBFCs and HFCs was 593.67 billion Rupees at June 30, 2021
+compared to 645.09 billion Rupees at March 31, 2021. The total outstanding loans to
+NBFCs and HFCs were about 7% of our advances at June 30, 2021. The details are given
+on slide 44 of the investor presentation. Our exposure is largely to well-rated entities
+with PSUs, long vintage, entities owned by banks and well-established corporate groups.
+The proportion of the NBFC and HFC portfolio internally rated BB and below or non-
+performing is less than 1%.
+F. Subsidiaries
+The details of the financial performance of subsidiaries is covered in slides 49-50 and 69-
+74 in the investor presentation.
+Value of new business of ICICI Life grew by 78.1% year-on-year to 3.58 billion Rupees in
+Q1 of 2022. The new business premium grew by 70.6% year-on-year to 25.59 billion
+Rupees in the current quarter. The new business margin increased from 24.4% in Q1 of
+last year to 29.4% in Q1 of current year. The annualized premium equivalent grew by
+48.1% year-on-year to 12.19 billion Rupees in Q1 of 2022. The protection based
+annualised premium equivalent was 2.70 billion Rupees and accounted for 22.1% of the
+total annualised premium equivalent in Q1 of 2022. ICICI Life had a net loss of 1.86 billion
+Rupees in Q1 of this year compared to a profit after tax of 2.88 billion Rupees in Q1 of
+last year. During Q1 of 2022, ICICI Life had claims on account of Covid-19, net of
+reinsurance, amounting to 5.00 billion Rupees. Further, at June 30, 2021, ICICI Life held
+provision of 4.98 billion Rupees for future Covid-19 related claims, including incurred but
+not reported claims, compared to 3.32 billion Rupees at March 31, 2021.
+Gross Direct Premium Income of ICICI General increased by 13.0% year-on-year to 37.33
+billion Rupees in Q1 of this year compared to 33.02 billion Rupees in Q1 last year. The
+combined ratio was 121.3% in current quarter compared to 99.7% in Q1 last year
+Page 15 of 38ICICI Bank Ltd
+July 24, 2021
+primarily on account of the Covid-19 pandemic. The profit after tax was 1.52 billion
+Rupees this quarter compared to 3.98 billion Rupees in Q1 last year.
+The profit after tax of ICICI AMC was 3.80 billion Rupees in the current quarter compared
+to 2.57 billion Rupees in Q1 of last year.
+The profit after tax of ICICI Securities, on a consolidated basis, was 3.11 billion Rupees
+in the current quarter compared to 1.93 billion Rupees in Q1 of last year.
+ICICI Bank Canada had a profit after tax of 5.0 million Canadian dollars in the current
+quarter which was at a similar level compared Q1 of last year and 5.1 million Canadian
+dollars in Q4 of 2021. The loan book of ICICI Bank Canada at June 30, 2021 declined by
+10.4% year-on-year and 1.3% sequentially.
+ICICI Bank UK had a profit after tax of 2.9 million US dollars this quarter compared to 5.0
+million US dollars in Q1 of last year and 2.8 million US dollars in Q4 of 2021. The loan
+book of ICICI Bank UK at June 30, 2021 declined by 22.2% year-on-year and 1.9%
+sequentially.
+As per IndAS, ICICI Home Finance had a profit after tax of 0.17 billion Rupees in the
+current quarter compared to 0.01 billion Rupees in Q1 of last year.
+With this we conclude our opening remarks and we will now be happy to take your
+questions.

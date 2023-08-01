@@ -1,0 +1,56 @@
+:
+Thank you. The next question is from Abhishek Murarka from IIFL Securities. Please go
+ahead.
+Abhishek Murarka:
+Congratulations for a great performance this quarter. So, most of my questions have
+actually been answered. Just sort of a small data point. So, this debit card trend that you
+show on Slide 21, there is quite a bit of a drop in the number of cards in the last quarter. Is
+there anything particular in terms of trend that you see there? I mean, anything to read into
+it. How do we understand this drop? Because it follows a number of quarters of increase.
+Rakesh Jha:
+So, last quarter some removal of inactive cards would have happened, nothing more to
+read there.
+Anup Bagchi:
+But in general, Abhishek, just to give you some sense on the payment landscape that is
+happening. Very clearly UPI is coming up. It will first cannibalise debit card and credit card
+Page 33 of 35ICICI Bank Ltd
+January 30, 2021
+is a separate animal because you get credit free period. So, that is coming up. Credit card
+in its physical format is getting replaced by card not present transactions as e-commerce
+is going up. So, payment system landscape is moving. The good thing for banks like us is
+that, while everybody talks about other PSPs, the fact is that all those transactions also go
+through the bank at the backend. So, if someone says that we have got Rs. 100 million
+transactions happening through us, we should also, by corollary, understand that Rs. 100
+million is also going through the banks. So, it is now up to us to input that data also in our
+underwriting and in profiling and make sure that we are able to utilise it better. I would also
+go on to the extent to say that many of them may not have fully utilised use cases. Banking
+system has use cases, because you can lend to them and you can cross-sell to them with
+that data.
+So, I would say that the data quality and the throughput of the data is certainly helping in
+understanding the client in a much deeper way. That also certainly is one of the drivers of
+our higher disbursement. It also helps us in pre-underwriting cases and that is increasing.
+So with data analytics it does have an impact on the way you underwrite, the speed at
+which you can underwrite and take to the transaction and reduce in a way cost of
+acquisition. I think we are in a decent position. It helps us in liabilities and assets and it
+helps in cross-sell. So, data, whoever utilises, will have a better chance.
+Abhishek Murarka:
+Sure. And Anup, just a quick follow-up on the growth question. I know you said that most
+of the pent up demand is now already in, so how do we look at this 7% Q-o-Q? I mean,
+what part of this would be a normalised kind of growth number?
+Anup Bagchi:
+No, it is very, very difficult to say actually. This pent up also we don't know, who knows
+when demand falls off. I will only say, Abhishek, that our market share is low. So, we have
+headroom to grow. I would fall back more on market share rather than the demand coming
+up. Of course, if there is demand, it is easier to grow, as you know. It is difficult to see what
+is pent up. For example, stamp duty reduction, work from home and other factors are
+leading to demand for housing. If we look at our ticket sizes which are moving, that is also
+increasing. We were looking at our own data on salary, if you look at the number of people
+who are filing income taxes and if you look at the gradation of that on the salaries very
+Page 34 of 35ICICI Bank Ltd
+January 30, 2021
+clearly you can compute what kind of ticket sizes will move on housing and what kind of
+ticket sizes will move on auto and then if you have good micro market data, which we have,
+then you can allocate your resources, attention and energy to that and get some shares.
+So, in general, that's the format that we are pursuing. We have been reasonably successful
+so far. I feel that if we continue, we will gain market shares as well. So, that is how I will
+put it, Abhishek.

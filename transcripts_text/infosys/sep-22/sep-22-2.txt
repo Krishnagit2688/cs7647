@@ -1,0 +1,160 @@
+
+Ladies and gentlemen good day and welcome to the Infosys Limited’s Earnings Conference
+Call. As a reminder all participant lines will be in the listen-only mode. There will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing “*” and then “0”
+on your touchtone telephone. Please note that this conference is being recorded. I now hand
+the conference over to Mr. Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Thanks Inba. Hello everyone and welcome to Infosys Earnings Call to discuss Q2 FY23
+financial results. This is Sandeep from the Investor Relations team in Bangalore. Joining us
+today on this call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy and other
+members of the senior management team. We will start the call with some remarks on the
+performance of the company by Salil and Nilanjan, subsequent to which we will open up the
+call for questions.
+Kindly note that anything that we say that refers to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risks that the company faces.
+A full statement and explanation of these risks is available in our filings with the SEC, which
+can be found on www.sec.gov.
+I would now like to pass on the call to Salil.
+Salil Parekh
+Thanks Sandeep. Good afternoon, good evening, and good morning to everyone joining the
+call and thank you for joining our call.
+Our Q2 performance was strong with year-on-year growth at 18.8% and sequential growth at
+4.0% in constant currency. Growth in Q2 was broad based with all industries and geographies
+growing in double-digits in constant currency.
+3Growth in constant currency in the first half of FY2023 was 20.1%, compared to the first half
+of FY22. This momentum is accompanied by a strong pipeline of large deals and the highest
+large deal value in the last seven quarters of $2.7 bn, 54% of this was net new. These
+elements are a clear reflection of the deeply differentiated digital and cloud capabilities we
+have developed that are highly relevant to our client’s strategic priorities.
+Our digital revenues are at 61.8% of our overall revenue and grew 31.2% in the quarter in
+constant currency terms. While digital continues to see some strong growth rates, we are
+seeing acceleration in growth trajectory of our core services this quarter. This is due to our
+industry leading automation capabilities and reflects an interest among clients towards cost
+optimization programmes. We also see this in our large deal pipeline with strong focus on
+cost reduction programmes.
+While we do not generally share the specific amount of our cloud revenue, we are delighted
+to share that in Q2 our cloud revenue was larger than $1 bn showing tremendous strength of
+our cloud services, especially our industry leading Cobalt capabilities.
+Several examples of client transformation demonstrate the value we deliver –
+- A European telecommunication company is closely engaging with us to accelerate
+their business growth and prepare for a digital future.
+- An aviation giant is working with us to digitally advance the engineering of the
+product development and emerging aircraft programmes.
+- A fast-growing logistics company is working with us to secure the cloud environment
+and build greater resilience into their operations.
+These examples and several others showcase our commitment to deliver value for our clients
+and the trust and confidence in our expanding digital capabilities.
+Strong growth this quarter was accompanied by operating margin expansion of 150 basis
+points. The operating margin for the quarter was 21.5%. This was because of cost efficiency,
+optimization in large deals and currency benefits. Nilanjan will provide more colour on this.
+Our H1 operating margins are 20.7%.
+4Our attrition has now been decreasing for the past three quarters including this Q2 on a
+quarterly annualized basis.
+While the overall demand environment continued to be healthy as reflected in broad-based
+growth and robust large deal pipeline, we also see signs of cautious behavior by clients due to
+macro concerns. Apart from slowness in the mortgage segment of financial services and the
+retail industry segment we talked about last quarter, we see emerging concerns in high-tech
+and telecom industry segments in the form of reduced spend especially towards discretionary
+programmes. We are well positioned to help our clients with their digital agenda and their
+cost agenda. Growth in our digital and core services demonstrate that. As the macro
+environment evolves, both of these components of our business will help us to be
+appropriately positioned with our clients.
+We have initiated a pivot to focused cost programmes within our large deal pipeline. Our
+operating model and offerings are agile to deliver value for clients in this evolving macro
+environment.
+In keeping with capital allocation policy, the Board has announced a share buyback of `9,300
+Crores or $1.13 bn and an interim dividend of approximately `6,940 Crores or $850 mn.
+Our H1 performance of 20.1% growth in constant currency and robust large deal signings in
+Q2 give us the confidence to change our revenue growth guidance, which was at 14% to 16%
+earlier to 15% to 16%, even as we are seeing emerging concerns that we talked about earlier.
+Our ability to grow at strong rate and take market share gain is a clear validation of the
+relevance, depth and breadth of our service offerings and deep client relationships. We
+change our operating margin guidance for FY2023, only for this year to 21% to 22%, which
+was earlier 21% to 23%. We anticipate, we will be at the lower end of this range.
+With that let me request Nilanjan to share other updates.
+Nilanjan Roy
+Thanks Salil. Good evening everyone and thank you for joining this call.
+5Q2 revenues grew by 18.8% year-on-year and 4% sequentially in constant currency terms.
+All business segments and geos grew in double digit year-on-year in constant currency.
+Specifically, North America grew by 15.6%, Europe by 28.5%, Manufacturing by 45%,
+EURS by 24.3%, Communication by 18.4%, and Retail by 15.4%.
+Digital revenues constitute 61.8% of total revenues and grew by 31.2% year-on-year in
+constant currency. Revenue growth was 20.1% in constant currency terms in H1 2023 over
+H1 2022.
+Client metrics remained strong with year-on-year increases in client count across revenue
+buckets. Number of $50 mn clients increased by 15 to 77, while number of $100 mn clients
+increased by 4 to 39. Number of $300 mn clients increased to 5 from 2 in the Q2 last year
+reflecting our strong ability to mine top clients by providing them multiple services.
+Employee count increased by approximately 10,000 to 345,000. Utilization excluding
+trainees was 83.6%. Onsite effort mix remained flattish at 24.4%. Quarterly annualized
+voluntary attrition came down further by another 2.5% during the quarter. This is also starting
+to reflect in reduction in our LTM attrition numbers which reduced to 27.1% compared to
+28.4% in Q1. We expect attrition to reduce further in the coming quarters.
+Q2 operating margin stood at 21.5%, an increase of 150 basis points QoQ. The major
+components of QoQ margin movements were as follows:
+- The margin tailwinds of 70 basis points comprising of rupee depreciation partially
+offset by cross-currency,
+- 90 basis points from cost optimization including large deal optimization, RPP
+increase, etc., partially offset by lower utilization,
+- 40 basis points from reduction in subcons spends,
+- These were partly offset by headwinds of approximately 40 basis points from
+compensation related increases and impact.
+Q2 EPS grew by 11.5% in rupee terms on a year-on-year basis.
+Our balance sheet continues to remain strong and debt free. Consolidated cash and
+investments were $4.8 bn at the end of the quarter. Free cash flow for the quarter was $589
+6mn implying conversion of 79% of net profits. Free cash flow generation is typically low in
+Q2 due to higher tax payout in both India and the US. ROE increased by 1% year-on-year to
+30.8%.
+Yield on cash balances increased to 5.8% in Q2. DSO increased by 2 days sequentially to 65
+reflecting higher billing done during the quarter.
+Coming to segmental performance,
+We signed 27 large deals in Q2 with a TCV of $2.74 bn with 54% net new. 5 large deals in
+Financial Services, 4 each in Retail, Communication, Energy Utility Resources and Services
+and Hi-Tech segments, 3 in Manufacturing, 2 in Life Sciences and 1 in Others verticals.
+Region wise 18 in America, 6 in Europe, 1 in India and 2 in the Rest of the World.
+Growth in Financial Services segment continues to be strong backed by large deal wins,
+account expansion and new account opening. We continue to see acceleration in cloud
+adoption in the FS sector and are working with many of our clients in cloud migration, cloud
+management, and other cloud-related platform deals.
+In Retail we are seeing focus on digital consumer engagements, supply chain transformation
+initiatives; cost optimization, legacy modernization and new in-store capabilities. There are,
+however, some pockets of slowdown in different cycles especially for fashion/apparel retail
+and general merchandisers. We have a healthy mix of outsourcing and digital deals.
+In Communication segment we are seeing healthy order pipeline and deal conversion, but we
+expect cost pressures from client side with impact on budgets especially for traditional
+services due to macroeconomic concerns.
+Energy, Utility, Resources and Services segment reported robust and steady growth backed
+by strong large deal wins. The cost take out initiatives continue to take momentum in the
+vertical.
+Manufacturing segment growth continues to remain strong and broad based along with steady
+flow of new deals. We see continued tech spends by customers driven by the need to increase
+7security posture, migration to cloud, increase the productivity by transforming to smart
+factory, transitioning to smart products and other broader digital transformation initiatives.
+In smaller verticals like Hi-Tech as well we are seeing some increasing cautiousness amongst
+clients around discretionary spend and consequently, there have been some delays in deal
+closure.
+For digital services capabilities, in Q2 we have been ranked as leader in 19 ratings in the
+areas of public cloud, tax, design experience, automation, and data and analytics.
+We remain committed to maximizing our total shareholder returns and in line with the capital
+allocation policy of returning 85% of free cash over the period, the Board has recommended
+the following:
+- an interim dividend of `16.50 per share for FY2023 versus `15 per share for FY22;
+this is a 10% increase in dividend per share.
+- Buyback of equity shares of up to `9300 Crores through open market route post
+approval of shareholders at a maximum buyback price of `1,850.
+We believe our progressive capital allocation policy continues to provide predictability to our
+shareholders.
+Although there is a gradual abatement of talent cost pressures, they continue to exert
+pressures on the cost structures and hence will need to be countered by our various cost
+optimization measures including rationalization of subcons, flattening of the pyramid,
+increasing automation, reducing onsite mix and engage with clients to increase pricing.
+While H1 growth was strong we expect H2 growth to be impacted due to seasonality
+comprising of furloughs and lower working days. The revenue guidance for the year is
+changed to 15% to 16%.
+As we mentioned in the last quarter earnings call FY2023, operating margins would be at the
+bottom end of the guidance band. We are now narrowing the guidance range to 21% to 22%
+for FY2023 and we expect to be at the lower end of the range.
+With that we can open the call for questions.
+8

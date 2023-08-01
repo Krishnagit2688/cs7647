@@ -1,0 +1,70 @@
+:
+Thank you. The next question is from the line of Jai Mundra from B&K Securities. Please
+go ahead.
+Jai Mundra:
+Thanks for the detailed disclosure. If I were to look at the proforma GNPA number of Rs.
+82 billion, this is just the net number, right? So, the slippages for the quarter should be Rs.
+82 billion plus Rs. 18 billion of recoveries plus Rs. 27 billion of write-off? Is that the right
+way to look at it?
+Rakesh Jha:
+No, that's not right. So, the table that we have on Slide 26, if you have it in front of you, we
+have given the movement in NPA based on the reported NPA as per the current guidelines
+of RBI and not classifying accounts which are more than 90 days overdue as NPA. So, the
+total reported gross addition is Rs. 4.71 billion. That is the gross addition which has nothing
+Page 17 of 35ICICI Bank Ltd
+January 30, 2021
+to do with recoveries and write-offs. So, in addition to that Rs. 4.71 billion, we also had Rs.
+82.80 billion of loans which were overdue for more than Rs. 90 days on December 31, 2020
+and we did not classify them as NPAs because of the Supreme Court ruling. The
+corresponding number to the Rs. 82.80 billion number at September 30, 2020 was Rs. 14.10
+billion. So there was a Rs. 68.70 billion increase in the 90-day overdue, which we were not
+able to classify during the quarter. So, the Rs. 68.70 billion plus the Rs. 4.71 billion, that’s
+Rs. 73 billion, would reflect as the gross addition that you are looking at. Then you would
+have had the recoveries of Rs. 17.76 billion and write-offs and all of that. So, that is how
+one has to look at it. And this Rs. 82.80 billion, again just to clarify, this is loans which are
+at a borrower level outstanding for more than 90 days. So, if a borrower has two or three
+accounts, even if only one account is more than 90 days overdue, all the accounts are
+categorized as proforma NPA in this number.
+Jai Mundra:
+Right. In Q2, the closing balance was Rs. 404 billion, plus, let us say Rs. 72 billion, minus
+recovery and write-off, that comes to Rs. 431 billion. So I think that is clear that way.
+Rakesh Jha:
+Yes.
+Jai Mundra:
+And second question is on BB and below book. Now, we have been carrying this book for
+so many quarters. I think in the last six months this was further tested and probably only a
+small portion has asked for restructuring. So, how should one look at the riskiness of this
+book going forward? Or would it be too early to sort of comment there?
+Rakesh Jha:
+As I have said earlier, it is below investment grade for us. So, by definition, this is relatively
+higher risk and ideally we would want it to be zero, but in banking business that can never
+be zero. So, I think the level at which it is right now, it's not a number that we over-worry
+about. If you look at the Rs. 180 billion, out of that, Rs. 44 billion is non-fund based
+outstanding to NPAs. So it's not really BB and below, it's non-fund based outstanding to
+NPAs, on which we already hold provision of about Rs. 14 billion and we disclose that
+Page 18 of 35ICICI Bank Ltd
+January 30, 2021
+number on a quarter-on-quarter basis. If you remove that, the rest of it is Rs. 135 billion. A
+lot of it is granular, Rs. 40 billion is to borrowers with outstanding less than Rs. 1 billion.
+So, as a part of the overall portfolio, you will always have some amount of BB and below.
+And we call out the larger exposures. We have four accounts which are larger than Rs. 6
+billion within this BB and below, out of which one is an account in construction sector that
+has sought a restructuring. It got included in this quarter in the BB and below. There is one
+non-fund based outstanding for a construction company which is already classified as NPA
+and then there is one each in telecom and power where we have been getting the
+payments. The telecom one is non-fund based and the power one is where we have been
+getting payment but with some delays. It belongs to a large promoter group as well. So,
+overall, of course, it's a risky book. I don't want to say we are comfortable, but that is the
+colour of the book which we can give.
+Jai Mundra:
+Sure, sir. And just last clarification, the Rs. 17 billion restructuring requests which have
+come from BB and below book, they are sitting at both, right? So if one were to add
+restructuring and BB and below, this Rs. 17 billion of restructuring are actually part of BB
+and below?
+Rakesh Jha:
+So, if you look at the position at December 31, 2020, you are right that Rs. 180 billion
+already includes the corporate and SME restructuring request that has come, other than
+one account, which is a lease rental discounting account, which is still investment grade.
+The downgrades that we have seen during the quarter of Rs. 22 billion, that would include
+a few cases which were investment grade and would have sought restructuring. But at the
+end of December, the BB and below includes all the restructuring, barring one case.

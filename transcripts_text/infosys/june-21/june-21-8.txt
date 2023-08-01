@@ -1,0 +1,68 @@
+
+Thank you. The next question is from the line of Keith Bachman from Bank of Montreal. Please
+go ahead.
+Keith Bachman
+Thank you very much. I wanted to ask about the margin guidance for the current fiscal year. If
+you take the guidance range of 22% to 24%, I just wondered if you could break down what are
+the key drivers for the year-over-year decline from what you already reported for FY21. I am
+just wondering if you could break that down into the bigger pieces. What I am really trying to
+understand is how much wage inflation is impacting margins guidance for the year versus other
+factors such as mix and particularly of the ramping of the large new deals. If there is any kind
+of comments you could help us understand. And then I have a follow-up question, please?
+Nilanjan Roy
+Like I said, it is important firstly to go back even before the pandemic into FY20 in a way when
+we had given this comfort range of 21% to 23%. And as we moved into FY21, like I mentioned
+earlier in the call, we saw a lot of these one-off benefits. It was the discretionary spend, travel
+came down quite sharply, facilities costs as people started working from home, marketing, the
+deferral of the pay hike in the last year, the promotions. Therefore, although we were at 24.5%,
+we were clear at starting the guidance at the beginning of the year that this would fall with the
+headwinds coming up of this year, as many of these costs revert back to normal. We rolled out
+our pay hikes in January and again in July, both of which factored in. And therefore, our
+guidance of 22% to 24% versus the 24.5% was clearly reflective of these headwinds coming
+17up. I think more than once we have talked about it. As we look ahead, we have factored in both
+the wage hikes. Yes, wage is always the number one player in margins. We do not split out the
+impact of wage or deal mixes. But nevertheless, the largest impact on the margin movement
+on a YoY basis will be on wages. Despite this, we know we are very comfortable within the
+22% to 24%. The levers which we continue to employ - automation is a massive lever in terms
+of our cost optimization - of taking out people from projects and redeploying them, the onsite
+offshore mixes. I think we are unique in creating an onsite pyramid. Historically, most IT
+services companies have steep onsite pyramid. Our six hubs in the U.S., near shore businesses,
+I think that helps us build a flatter pyramid in a way, mimicking what we have in the offshore
+geographies. We are going to hire 3,000 freshers from outside of India. So, all these will help
+us in the future in terms of taking some of the pressure out of these headwinds which are coming
+our way.
+Keith Bachman
+Thank you very much. My follow-up question if I could, is similar as you think about the year
+unfolding, do you think attrition moves lower from here or stays the same or goes up? Similarly,
+as you think about the onsite mix has continued to move lower, so your offshore mix continues
+to move higher, how do you think that unfolds through the year? Does that mix of onshore
+onsite stay where it is, becomes more favorable or any comments on how attrition and onsite
+offshore mix might move as we look toward the balance of the fiscal year? That is it for me.
+Many thanks.
+Nilanjan Roy
+I think on the attrition, like I said, I would rather be in a situation where demand is chasing
+supply than the other way around. Therefore, that is fundamentally good news for the industry.
+I think it is important to realize that it takes time for the supply chain of the industry to catch
+up. Fundamentally, the net new demand can be in a way serviced through fresh accounts, right.
+Otherwise, it is zero sum game, my attrition is somebody else’s lateral and somebody else’s
+attrition is my lateral. So fundamentally, the only way this demand can be serviced is through
+freshers and as you know most of the freshers historically, the college campus freshers are in a
+way contracted six months or a year out. It is only now that as the demand has suddenly surged
+that we are looking at new ways of getting freshers on. In the last call, we had mentioned we
+18would take 25,000 freshers. We have upped that up to 35,000 freshers and started a completely
+new parallel fresher hiring program off campus. So, I think there will be some short-term gaps
+in terms of when the supply chain sort of adjusts itself. But like I said, this is good news, if
+fundamentally there is this a large exposure of demand, which you are seeing across. So, in
+that sense, our job is fundamentally to continue feeding this demand, whether it is through the
+freshers or through subcons or through the laterals and I think we have already hired 8,000 net
+despite the attrition in the quarter.
+The second part of the question, we have seen this massive change over the last three years.
+Firstly, it came from 30% to 27% and within one year from 27% to 24% and again we talked
+about it earlier in our guidance that we would probably see a little bit of this easing out as
+travel, etc. open up. But I think the secular trend should continue in the long run and a big
+impact of the COVID has been that clients have been able to see that work can be performed
+across the globe. It necessarily does not have to be done by their own workforce. They have
+seen it with us that work does not have to necessarily be performed in front of them onsite, on-
+prem. It can be same time zone, different locations, same time zone near-shore. It can be
+offshore. I think that in the long run, it is positive for the outsourcing industry. So, we think
+secularly this should improve. But in the short-term, there can be these stops and gaps as well.

@@ -1,0 +1,39 @@
+:
+The next question is from the line of Krishnan ASV from HDFC Securities. Please go ahead
+Krishnan ASV:
+This is more to do with 2 things. One, we have generally seen an environment where loan
+repricing has been fairly fast because of EBLR, like that's evident. But also what we have
+observed is that the loan resets are faster. So, if the earlier contracted period, and this is
+not just true of ICICI Bank, I wouldn't have probably observed this specifically for ICICI
+Bank. But the system in general has moved from say a quarterly reset to a real-time reset
+so the day the RBI moves, immediately 50 basis points gets passed on, right? Does the
+Page 12 of 22RBI look at the same reset on the way down as well or do you anticipate that banks can
+continue to go back and forth between real-time reset and quarterly reset when the rate
+movement is adverse, right? So, that's the first question. The second question is also about
+deposit mobilization. The fact is you're now at nearly an 86% loan-to-deposit ratio given
+the kind of demand environment you're seeing. Could pricing be on the deposit side?
+Could we catch up on the deposit side pricing? Could that be faster say towards the end
+of the year?
+Anindya Banerjee:
+So, on your first question, Krishnan, we don't have any real-time resets. So, our EBLR or
+repo linked loans reset every 3 months. So, there is no next month or immediate reset on
+our, say, home loans which are linked to EBLR. On the second part, as we spoke earlier
+also on this call that we have seen more increases in deposit rates recently than we had
+seen or larger increases than we had seen say broadly till September-end. So, it would be
+fair to assume that the repricing of deposits will pick up from here on.
+Krishnan ASV:
+So, just as a related thing on the EBLR, I mean it almost seems like if the RBI does hike 100
+basis points say incrementally from here till the termination, right, all of that 100 basis
+points gets passed on. This is something we have been trying to clarify from other banks
+as well. I mean, if you could share your thoughts. Is there any discretion you can exercise?
+If you see risk building up, you really don't want to kind of break the camel's back, right?
+So, would I mean banks be able to exercise any discretion saying that there comes a point
+beyond which I will absorb this on my P&L rather than pass it down further and increase
+asset quality risk or does that discretion not exist as things stand?
+Anindya Banerjee:
+So, I think that's hypothetical. I mean contractually the loan resets at the spread over the
+EBLR. If the borrower is able to for example look at refinancing at a lower cost from a
+competing provider, then that can happen. So, they can exit my loan and go to a
+competing provider and take a loan at a lower spread. Yes, so that can happen. And in fact
+I guess as the rates go up, that can also be a factor in how spreads and margins move.
+Page 13 of 22

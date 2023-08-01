@@ -1,0 +1,47 @@
+: The next question is from the line of Arvind Sharma from Citi. Please go ahead.
+Arvind Sharma: Could you please elaborate the exact mechanism of commodity cost transfer what is the
+periodicity of contract signed and after the contract is signed, what happens when commodity
+prices increase essentially what's the delay between spot price increase in the impact on Maruti?
+Ajay Seth: So, commodity price is impacted on account of, there are two portions to it; one is steel, and the
+balance is PGM and other metals, copper, aluminium and so on. The impact of steel is seen in
+that particular quarter. The other commodity impact is with a quarter lag. So, the suppliers would
+be compensated based on the average rates that are there for the preceding quarter, for example,
+we will now be negotiating rates with steel vendors for Q2, and we would be also compensating
+suppliers for the other metals including the PGMs for the known rates of Q1. That's how it works
+in terms of the vendor compensation for both steel and the other metals.
+Arvind Sharma: So, what happens if you sign for a quarterly rate, I'm talking about rate goes up within the quarter
+after this contract has been signed but before you actually procure, so what happens if there's a
+big fluctuation during that time especially in recent past, we've seen big fluctuations?
+Ajay Seth: As I mentioned to you that the steel rate is settled, so that's the settled rate and for the other
+metals especially the rate movement is pretty sharp in precious metals, so there we take the
+average of the previous quarter rates and that average is used for the purposes of compensating
+because it's not just a closing rate of a particular day, these are average for the previous quarter,
+on the basis of that we compute what is the compensation for that period.
+Page | 12
+MSIL conference call transcript, 28th July, 2021Arvind Sharma: My second question would be more an explanatory part. You said operating leverage impact has
+been 4% QoQ and commodity has been 3.5% quarter-on-quarter. So, is it the percentage point
+impact on i.e., EBITDA margin could have been almost 7.5% impacted?
+Ajay Seth: No, so, this is what I said are the ones which would have been better if there was no commodity
+increase and if the volumes were at the same level as we saw in the preceding quarter. But there
+are other measures that we would have taken, for example, we have significantly reduced our
+fixed costs in this quarter and that's in the context of the extremely difficult situation we had to
+cut costs everywhere. Obviously, when volumes will go up, some of the marketing costs will
+also accordingly go up. Therefore, I mentioned that while I talked about if all other costs remain
+same, operating leverage of 4%; however, there's also an element of fixed cost, that will go up
+when your volumes go after especially the marketing cost, we have been very low for example
+on advertisement cost in this quarter, it's likely to go up. So, there will be a benefit of operating
+leverage, whether it is 2% or 3%, it will depend on what is our strategy in terms of our marketing
+spend and the other fixed cost, but definitely there is a scope of improvement on operating
+leverage, anywhere between 2% and 4%. And secondly, commodity will depend on how much
+is our ability to pass on. As we mentioned, we will have to take a collaborative call-in terms of
+how much can be passed on. We've done some correction in selling price in April and July. So,
+in piece increase in April had some impact but much smaller. Similarly, now, when you see the
+impact of July price increase and if there is any subsequent increase that happens, you will see
+that impact also to mitigate the commodity price. Other important thing is to know is that this
+will also stop at some point in time when all the price increases that we would have done will
+accumulate that will give you an exact impact for a particular quarter. It's a moving average, it's
+not a constant. It will depend on all these factors in terms of commodity, where price increase
+ends up, and where your fixed costs ends up going forward.
+Arvind Sharma: I was just clarifying because 7.5% seems a big number, if you take that as an underlying number
+over 8.3% in fourth quarter, EBITDA margin it becomes quite high, but Yes, got your point sir.
+Thank you so much.

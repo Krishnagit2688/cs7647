@@ -1,0 +1,36 @@
+:
+The next question is from the line of Rakesh Kumar from Systematix. Please go ahead
+Rakesh Kumar:
+So, I have one question. This is related to when we are in a falling interest rate scenario
+which is quite far from here, but just to understand what you're thinking about it. The asset
+quality trajectory and the EBLR, both would not be working as a countercyclical thing. So,
+what is our thought process here? Because margins would also taper off and with the fall
+in the interest rate, there would be asset quality issues also coming up. So, the EBLR would
+not help for the system as a whole. So, your thoughts on this.
+Page 16 of 22Anindya Banerjee:
+I'm not sure I understood the question. I think that repo rate increases so far have been
+quite well absorbed by the borrowers and clearly don't seem to be leading to signs of any
+higher delinquencies and we'll have to of course keep monitoring as the situation evolves.
+I don't think that in a falling rate scenario, there would be any negative impact on asset
+quality, if at all at the margin, risks could be in the rising scenario. From a bank margin
+perspective, therefore, it's not really in that sense countercyclical because bank's margins
+would also rise in a higher interest rate scenario
+Rakesh Kumar:
+No, sir. Basically, I was trying to say that generally inflation is there when we are in a falling
+interest scenario and the NPAs significantly rise. When we see the credit growth numbers
+tipping off and the interest cycle coming down, we see asset quality issues. In those times
+because of this EBLR mechanism in place now, loan pricing would also be faster until and
+unless we change the benchmark itself like or if we do some changes there within the
+MCLR and EBLR. So, actually because of EBLR linkage, we would have adverse impact on
+credit yield also and then we would also have asset quality issues associated with the
+falling interest rate.
+Anindya Banerjee:
+I don't think - it's a kind of reverse causation. Typically, in a normal cyclical tightening and
+loosening of monetary policy, we would not see such an impact. It could happen in a crisis
+situation. For example, if there is a big shock to growth, it is the shock to growth which
+causes the NPL and not the reduction in interest rates, which is also a consequence of the
+shock to growth. If it's a normal calibrated tightening and then unwinding of monetary
+policy, this should not happen. But I will sort of hedge by saying that we have not really
+seen a full cycle under the EBLR pricing regime. So, that is something that we have to see
+how it goes through both on the way up and the way down in terms of both margins and
+credit quality

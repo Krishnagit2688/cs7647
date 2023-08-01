@@ -1,0 +1,94 @@
+
+Thank you. The next question is from Mugdha Variyar from CNBC TV18.
+External Document © 2021 Infosys Limited
+7Mugdha Variyar
+Hi everyone. Good to see you again. Hope you are doing well. Salil, I want to first ask you about
+the factors that you have considered for the FY22 guidance, which sectors is it going to come
+from? Are you looking at new areas. We had TCS say yesterday that they are looking at disrupting
+the consulting business. Are you looking at increasing your addressable market as well? Any new
+areas that you could look at and on deal wins, could you explain why there was a sharp decline in
+the deal wins from the last quarter? Is this the run rate that we can expect going forward in the
+coming quarters as well? Pravin, of course, there has been a sharp spike in attrition, you talked
+about the fact that because of this demand, but we did see that TCS has reported an all-time low
+attrition for the quarter, so what can Infosys do differently and in FY22 what are the wage hike that
+we can expect, are you going to be hiring more, what are the hiring plans for FY22? And Nilanjan
+are you factoring wage hikes and more hiring in the margin pressure as well?
+Salil Parekh
+Let me start with the guidance on revenue. I think 12% to 14% growth is an extremely strong
+guidance and indication that we see very good demand and we also see that this is coming across
+a strong foundation from what was achieved in the previous financial year. The demand is coming
+in a broad based way. We are seeing almost all of our industries providing good outlook for
+demand. So it is not in any one space or the other and the disruption question that you asked, our
+focus is really on the digital transformation that our clients are driving and one of the biggest
+components of that is cloud. As you will recall, we launched our Infosys Cobalt cloud capability last
+year and that is one of the strongest areas that are tracking with the clients for the growth and of
+course there are other components of digital which looks at experience, which relates to how our
+clients are looking to use the technology in digital and then data and analytics and cybersecurity.
+So those are the areas that we are seeing and with the level of confidence we have, we are saying
+the growth guidance will be 12% to 14%. In terms of what we have seen on the deal wins, as
+Pravin was sharing, large deal wins are typically somewhat volatile in a given quarter, but for a
+given year they are quite a good indicator. This last financial year, we had $14 bn of large deal
+wins. The previous financial year we had $9 bn. So it is a huge step up on an annual basis and we
+see the demand in this financial year to be quite strong and we will continue to do well with large
+deal wins. With that let me pass it on to Pravin.
+Pravin Rao
+Hi Mugdha. We historically have an average attrition of 13% to 15%. What we are seeing now at
+15% is probably at the high end of average that we are seeing. It is similar to what we saw about
+External Document © 2021 Infosys Limited
+8four quarters back. Obviously it is higher than what we saw in the previous quarter. As mentioned
+earlier, there are many interventions that we are doing to retain the best of our employees. We
+have a very compelling value proposition and with compensation interventions, with promotions
+and with many other initiatives that we have in place we are very confident to sustain around this
+level going forward and without compromising on any client requirements. In terms of hiring, this
+year we have added about close to 21,000 fresher’s from campus, both in India and overseas and
+in coming year we are looking at over 25,000 again both India and overseas.
+Nilanjan Roy
+Mugdha, on margins, absolutely we have factored the guidance, second pay hike from July and
+also we have talked about certain headwinds in the latter part of the year with travel, opening up of
+other overhead costs where we had squeezed a bit from last year and those costs both have been
+factored in the margins, but we remain quite comfortable in the 22% to 24% range.
+Rishi
+Thank you. The next question is from Poonam Saney from ET Now. Poonam can you unmute
+yourself and ask your question.
+Poonam Saney
+Thank you so much for this opportunity. Salil, my question to you is, if I am looking at the kind of
+estimates that most of the analysts are working with, especially in terms of buyback, the buyback
+expectation was 11,000 to 15,000 odd Crores which is on an average 12,000 Crores of sales,
+expectation and you have announced a buyback of 9,200 Crores so what is the expectations from
+an analyst perspective? Any reasons for the same and can you give some colour on the same? I
+also want to understand what is the progress in terms of Daimler deal by the revenue growth as
+well as the margins guidance is fairly in line with expectations. I wanted to understand how the
+Daimler deal would start contributing to the revenue as well as in terms of profitability and if we
+could also get more colour in terms of the margin trajectory. We would see some of the costs
+returning, so how would those costs shape up and impact the margin trajectory?
+Salil Parekh
+Thanks. Let me start with the buyback. Nilanjan might have some point to add to that and then
+Pravin will take Daimler question and Nilanjan for the margin. On the buyback, our approach has
+been to work with our capital return policy and our capital return policy has been quite clearly
+External Document © 2021 Infosys Limited
+9stated a couple of years ago, that we plan to return 85% cash back to shareholders and there are
+two components to this. One which relates to the dividends, one which relates to possible
+buyback. So, keeping all those factors in mind, the board decided that this was the amount that
+made sense. We have a clear view in terms of how this will support the capital return policy across
+the 5 year period and how we are able to return 85% which is our target amount. That really is the
+rationale for the 9,200 Crores that we have announced as a buyback. Let me pass it to Nilanjan
+first if there is anything else on the buyback and then Pravin.
+Nilanjan Roy
+Sure. So, just to add to Salil’s comments, so if you actually see our payouts of the last 2 year’s
+dividend, we declared 6,400 Crores of dividend and 9,200 Crores of buyback. Our cumulative
+payout for FY21 and FY20 which are the first 2 years of the capital allocation policy, we would
+have paid out 83% of the 85%, so in that sense I think this is completely in line with our policy and
+that is what the board also considered when deciding the amount of buyback. So, I think it is quite
+transparent and actually working in line with clearly articulated forward looking policy as well. So
+that is on the buyback. On the margins, like I said and we have been talking about it during the last
+year that our margin has increased and some of them have come from the deferment of costs and
+the cost deferrals and we are cognizant of that and have been calling that out that these will
+become headwinds during FY22 and we have factored that into our 22% to 24% guidance. But
+having said that, this would still be a 100 basis points above our pre-COVID guidance which was
+last at 21% to 23%. So in that sense, this is a step up in our underlying margin trajectory.
+Pravin Rao
+On the Daimler program obviously it is a complex program with many elements. We have started
+planning for the same. We have started ramping up and started getting into details of contracts
+that we need to innovate. We have also started looking at making offers because there is
+rebadging element as well, so a lot of preparatory stuff and other work is going on as per
+schedule.

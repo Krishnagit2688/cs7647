@@ -1,0 +1,54 @@
+
+Thank you. The next question is from Shilpa Phadnis from Times of India.
+External Document © 2021 Infosys Limited
+10Shilpa Phadnis
+Good evening gentlemen. Sir, you have set yourself a three year roadmap to turn around Infosys.
+What is Infosys’ next, especially from a strategic standpoint when the pandemic has gone from
+threat to opportunities to spurt your client’s transformation agenda? The second question is though
+cloud adoption is driving a multiyear tech cycle, with the ramp up in cloud deals, how do you see
+the pricing, will it only get better? Coming from the recent ISG commentary, they talk about how
+the cloud ACV’s are moderating, so what are the specific challenges in terms of acceleration in
+cloud migrations? My third question is on the deal front, you have won a $14 bn TCV but largely is
+it on renewals restructuring, is there a challenge in terms of the new scope trajectory, if you can
+help us with this, sir. Thank you.
+Salil S Parekh
+Thanks for the questions. I will start off with the first one on our three-year program and how we
+look ahead. We think we had an extremely successful three-year journey, some of the elements
+are how we really reshaped and become a digital services company. Today, digital is more than
+50% of our business. The large deals that you mentioned at $14 bn, but there is also a
+tremendous amount of work we have done in reskilling of our employees, in looking at automation,
+and variety of steps within the company, the way we transformed to a live enterprise, are a
+complete change in the way Infosys is working with clients and working with employees today.
+Now as we look ahead what we see is real intense capabilities around digital and there the main
+focus remains around cloud, around data and analytics, around cybersecurity and with the launch
+of Cobalt, Infosys Cobalt Cloud capability set, we are again in a leading position to work with
+clients on their cloud journeys. So, we feel quite comfortable in the path we have taken and how
+we are looking ahead in partnering with our clients on their digital transformation journeys.
+On the large deals, Pravin will elaborate but the one point I wanted to make was with the $14 bn
+numbers that you referenced, 66% is net new. So, in many ways that is the driver. Of course we
+are also very strong in doing what is going on and those are the factors that come into play as we
+look at the guidance for the future. Let me pass it on to Pravin.
+Pravin Rao
+I think as Salil said overall $14 bn, 66% is net new and even in Q4, 52% was net new. Last year
+when we did $9 bn of large deals TCV, only about 37% was net new. So, this varies, there is some
+volatility in net new but it is equally important. We have to win renewals; we cannot afford to lose
+whatever we have at present. At the same time, we also have to capture market share and that is
+External Document © 2021 Infosys Limited
+11where the net new comes in. So, we have a good balance out there and I think this year given the
+66% of what we have won is net new, it is a very strong base for getting into FY22.
+Shilpa Phadnis
+Sir, on the cloud ramp up, if you can just help us with that question in terms of the pricing and
+given the background the recent ISG commentary on how the cloud ACVs are decelerating, so
+what are some of the challenges when it comes to cloud migration programs?
+Salil Parekh
+So on cloud, the migration is one part of it, so in the cloud area, and again ISG also pointed this
+out: There are multiple facets of the cloud work that we are engaged in or clients are looking it.
+There is a piece which is of migration, but there is a piece which relates to how clients are
+adopting public cloud or private cloud and there is a piece within our Cobalt structure which relates
+to how clients are looking at SaaS providers and rolling out that capability within their ecosystem.
+Our experience is that actually cloud programs are quite large and today what we have seen in
+FY21 within $14 bn is a very strong cloud capability programs that we are working with clients on,
+so we do not see that scale or size of cloud deals is going to decelerate. In terms of margins, there
+are different profiles or different things of the cloud depending on whether you are working on the
+public cloud or working on SaaS. In general, we do have a view on our digital margin which is on
+average higher than the average margin of the business.

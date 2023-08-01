@@ -1,0 +1,156 @@
+
+Ladies and gentlemen good day and welcome to Infosys Limited’s Earnings Conference Call.
+As a reminder all participant lines will be in the listen-only mode. There will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing “*” and then “0”
+on your touchtone telephone. Please note that this conference is being recorded. I now hand
+the conference over to Mr. Sandeep Mahindroo. Thank you and over to you, Sir.
+Sandeep Mahindroo
+Thanks Inba.
+Hello everyone and welcome to Infosys Earnings Call to discuss Q1 2023 Financial Results.
+This is Sandeep from the Investor Relations team in Bangalore. Joining us today on this call
+is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; and other members of the senior
+management team. We will commence the call with some remarks on the performance of the
+company by Salil and Nilanjan. Subsequent to which, we will open up the call for questions.
+Please note that anything that we say that refers to our outlook for the future is a forward-
+looking statement that must be read in conjunction with the risks that the company faces. A
+full statement and explanation of these risks is available in our filings with the SEC, which
+can be found on www.sec.gov.
+I would now like to pass on the call to Salil.
+Salil Parekh
+Thanks, Sandeep. Good morning and good evening to everyone on the call. Thank you all for
+taking the time to join us.
+We had an excellent start to the financial year with 5.5% sequential growth and 21.4% year-
+on-year growth in constant currency terms.
+3We continue to gain market share with our Cobalt cloud capabilities and our differentiated
+digital value proposition driving a significant pipeline of opportunities for us.
+For example a premier online retailer in the U.S. leveraged Infosys Cobalt to embark on a
+cloud-driven transformation journey to enhance the customer experience and improve their
+security posture.
+Another example is European manufacturer who is reimagining their Digital workplace with
+best-of-breed network security and IT infrastructure powered by Infosys Cobalt.
+There are examples like this all across the spectrum in different sectors and that are driving
+Infosys Cobalt into the market.
+Clients continue to place an immense amount of trust and confidence in Infosys to help
+accelerate their digital transformation agenda, both on efficiency and the growth dimension
+of their business. The strong growth we have seen in the quarter lays a robust foundation for
+the year.
+Growth continues to remain broad-based across the segments, service lines and geographies.
+Each of our business segments grew in double-digits with several of them growing at 25% or
+higher. In terms of geography the U.S. geography grew at 18.4% and Europe grew at 33.2%.
+This indicates a healthy demand environment and is a reflection of how our industry-leading
+digital capabilities are relevant for our clients.
+Our Digital revenues were 61% of the total and grew at 37.5% in the quarter in constant
+currency terms. Within digital, our cloud work continues to grow faster, with our Cobalt
+cloud capability seeing significant traction with our clients.
+Our overall pipeline remains strong. We do see pockets of weakness, for example in the area
+of mortgages in Financial Services. We keep a close watch on the evolving macro
+environment in terms of the changes to the pipeline. Within our pipeline, we also have focus
+in addition to the growth areas in digital and cloud to the cost areas through automation and
+AI.
+4Our operating margins were at 20%. We have completed the majority of our compensation
+review for this year. Nilanjan, will also provide more details on the overall margin update.
+Some other highlights of our results are
+- We signed 19 large deals with a TCV of $1.69 bn. This is comprises of 50% net new
+work
+- Our onsite mix was at 24.3%
+- As we build capacity for the future, our utilization was at healthy levels of 84.7%
+- Our free cash flow was strong at $656 mn
+- Our quarterly attrition declined. Historically, Q1 attrition increases by three to four
+percentage points sequentially on a quarterly annualized basis; however, our attrition
+declined by one percentage point on a sequential basis - reflecting the impact of
+various initiatives we have put in place
+- We had a net headcount increase of over 21,000 employees attracting leading talent
+from the market, which is a reflection of our enhanced recruitment capabilities, solid
+brand and deeper penetration into various talent markets.
+Our Cobalt Cloud capability continues to be market leading. We have 360 technology and
+domain solutions, five of our assets have over 50 clients each, we have 150 industry focused
+solutions, 20 Infosys living labs, 50 experimentation programs, and 60,000 knowledge assets.
+Our ‘One Infosys’ approach is serving us well to bring the best of Infosys and service to our
+client’s needs.
+Earlier this month we announced the acquisition of BASE Life Sciences, a Denmark-based
+technology and consulting firm in the life sciences industry. BASE brings to Infosys domain
+expertise in medical, digital marketing, clinical and regulatory areas.
+With our strong growth in Q1 and our current outlook on demand opportunity and pipeline,
+we increase our revenue growth guidance which was at 13% to 15%, now to 14% to 16% for
+the full year. We keep our margin guidance at 21% to 23%. With the increased cost
+environment, we will be at the lower end of this margin guidance.
+Thank you and with that let me hand it over to Nilanjan for his update.
+5Nilanjan Roy
+Thanks Salil. Good morning everyone and thank you for joining this call in an early Monday
+morning.
+We had a strong start of FY2023 with a robust year-on-year growth of 21.4% in constant
+currency. All our business segments and major geos recorded double-digit growth with
+manufacturing, communication and EURS along with Europe region recording 25% plus
+growth.
+Sequentially, revenue growth was 5.5% which was led by a healthy volume growth and some
+RPP benefits. Digital revenues now constitute 61% of total and grew by 37.5% in constant
+currency.
+Client metrics were strong with increase in client counts across revenue buckets compared to
+the previous year. Number of $50 mn clients increased by 10 to 69 creating the next potential
+centurions. Number of $100 mn clients increased by 4 to 38 and the number of $200 mn
+clients have grown by 6 in the last one year. This reflects our ability to deepen mining across
+our large clients.
+We had another quarter of strong employee additions with over 21,000 to cater to the growth
+opportunities ahead. The fresher addition was particularly strong which resulted in drop in
+utilization to 84.7%. Onsite effort mix inched up to 24.3%. Voluntary LTM attrition
+increased marginally to 28.4%. Quarterly annualized attrition declined another by 1% from
+Q4 levels despite Q1 usually seeing an uptick due to seasonality.
+As announced earlier we have given competitive salary increases for majority of employees
+from April. Given the supply tightness and high prevailing inflation, salary increases across
+all geos this year are higher than historical levels. The increases vary based on job levels and
+performance of employees with top performers getting double-digit hikes. Salary hike for
+other employees is being done effective 1st July.
+Q1 margin stood at 20%, a drop of 150 basis points versus previous quarter. The major
+components of the sequential margin movements were as below:
+6Headwinds of
+- 1.6% due to salary increases,
+- 0.4% due to drop in utilization as we create capacity for future,
+- 0.3% due to increases in subcon, third party and other costs.
+These were offset by tailwinds of
+- 0.5% due to increase in RPP from higher working days, a reversal of a client's
+contractual provision in our FS segment partially offset by discounts.
+- 0.3% benefits from rupee depreciation benefits partially offset by cross-currency
+headwinds.
+Q1 EPS grew by 4.4% in rupee terms on a year-on-year basis.
+Our balance sheet continues to be strong and debt-free. Consolidated cash and investments
+were 4.4 bn at the end of the quarter after returning more than $850 mn to the shareholders
+through dividends. This has led to increase in ROE to 31%.
+Free cash flow for the quarter was $656 mn which is a conversion of 95% of net profits.
+Yield on cash balance remained stable at 5.3% in Q1. DSO declined by 4 days sequentially to
+63. DSO including net unbilled was 82 days an increase of 1 day versus Q4.
+Coming to segmental performance:
+We signed 19 large deals in Q1 with a TCV of $1.69 bn. This comprises of the 50% net new.
+We have signed 5 large deals in retail and CPG, 4 in Hi-Tech, 3 each in financial services and
+energy utility resources and services and 2 each in manufacturing and communications
+verticals. Region-wise 15 were in Americas and 2 each in Europe and RoW.
+In Financial Services clients continue to focus on digital customer experience, contact center
+transformation and virtual branches aimed at improving customer engagement. While the
+order pipeline remains strong across regions, we are seeing some slowness in mortgage
+industry and lending business due to increased interest rates. We remain watchful of impacts
+of emerging global developments on budget for clients.
+7In the retail segment the pace of Digital transformation large-scale cost breakouts and
+improving business resilience continues to be on the rise across various subsegments. Our
+focus on proactive engagement has helped us in creating a robust pipeline. Clients are
+monitoring the emerging macro situation and the impact of that on their business.
+In communications segment clients are focused on rapid digitization and protecting their
+assets from cyber threats, we see enormous potential to partner with them both on the digital
+transformation agenda as well as in the cost takeout front.
+Deal pipeline in energies, utilities, resources and services segments comprises of
+opportunities around cost takeouts, vendor consolidation, digital transformation, cloud-led
+transformation and asset monetization across industry sub-verticals.
+Manufacturing segment is seeing broad-based growth across geographies and industry sub-
+verticals. The sector has seen traction across energy, IoT, supply chain, cloud ERP and
+accelerated cloud adoption.
+In Q1 we have been ranked as leader in 9 ratings in the areas of Oracle Cloud, SAP
+S/4HANA, Public Cloud, Industry 4.0, employee experience and automation services.
+In this supply constrained environment, we continue to invest in our growth momentum
+which requires us to hire premium, skill talent while simultaneously investing in existing
+employees through competitive compensation increases across geos. Additionally, we expect
+normalization of costs like travel and other overheads. We will continue to focus on various
+cost optimization measures including rationalization of subcons, flattening of the pyramid,
+increasing automation, reducing onsite mix and increasing pricing.
+Whilst we retain our operating margin guidance of 21% to 23%, we expect to be at the
+bottom end of the range. The revenue guidance for the year has been revised to 14% to 16%
+from 13% to 15% earlier.
+With that we can open the call for questions.

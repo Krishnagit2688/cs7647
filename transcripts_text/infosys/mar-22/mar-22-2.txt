@@ -1,0 +1,183 @@
+
+Ladies and gentlemen good day and welcome to the Infosys Earnings Conference Call. As a
+reminder, all participant lines will be in the listen-only mode and there will an opportunity for
+you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing “*” then “0” on your touchtone phone.
+Please note that this conference is being recorded. I now hand the conference over to Mr.
+Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Hello, everyone, and welcome to the earnings call to discuss Q4 FY2022 earnings release. I
+am Sandeep from the Investor Relations team in Bangalore. Joining us today on this earnings
+call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; along with other members of
+the senior management team. We will start the call with some remarks on the performance of
+the company by Salil and Nilanjan. Subsequent to which we will open the call for questions.
+Please note that anything that we say, which refers to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risk that the company faces. A
+full statement and explanation of these risks is available in our filings with the SEC, which
+can be found on www.sec.gov.
+I would now like to turn it over to Salil.
+Salil Parekh
+Thanks, Sandeep. Good morning, good afternoon, and good evening to everyone joining on
+the call. Thank you for taking the time to join us today.
+We have had an exceptional year with an annual growth of 19.7% in constant currency terms,
+which is the fastest growth we have seen in 11 years. We are gaining market share. We are
+building on our leadership in cloud and digital, and we are a part of more and more programs
+that our clients are looking at in digital transformation.
+3Growth was broad-based across business segments, service lines and geographies. Each of
+our business segments grew in double digits. The top 3 grew in high teens, U.S. and Europe
+grew over 20%. The North America region crossed $10 bn in revenue, while Financial
+Services crossed $5 bn revenue milestones.
+Our digital revenues now account for 59.2% and grew at 41.2% for the year. Our digital
+revenues crossed $10 bn annualized on a run-rate basis. Within digital, our cloud work is
+growing faster, and our Cobalt Cloud capabilities have seen significant traction with our
+clients.
+Our growth has been accompanied by robust operating margins of 23.0%. We delivered these
+margins while maintaining focus on our employees with increased compensation and
+benefits.
+Our large deal wins were at $9.5 bn for the full year and were $2.3 bn for Q4. Our net new
+percentage was 40% for the year and 48% for Q4, helping us set up a strong growth
+foundation for financial year 2023.
+Our Q4 revenue growth was 20.6% YoY and 1.2% QoQ in constant currency terms. Our
+industry-leading performance in FY2022 would not have been possible without the relentless
+commitment from our employees. I am extremely proud as well as grateful for the
+extraordinary efforts in delivering success for our clients.
+Our last 12 months' attrition increased to 27.7%. Our quarterly annualized attrition declined
+by approximately 5 percentage points on a sequential basis.
+We recruited 85,000 college graduates in this financial year. In the fourth quarter, we had a
+net addition of 22,000 employees. We have an overall strong recruitment program. This is a
+reflection of our enhanced recruitment capabilities, solid brand and deep penetration into
+various talent markets. This increases our comfort to support clients in their digital
+transformation agenda as we look ahead.
+We have initiated our compensation review exercise for this financial year. We have planned
+this exercise so that we can focus on employee segments that need greater attention while
+also covering a broader group with regular increases. As in the past, we will look at
+4individual performance, skills and market benchmarks while determining individual
+compensation increases. We will focus on accelerated career growth, targeted development
+and opportunity to work on cutting-edge digital innovation globally.
+Our strategy launched 4 years ago has served us well. We have delivered industry-leading
+growth and industry-leading TSR.
+Looking ahead to the next phase to further enhance our leadership on the digital innovation
+curve, we plan to expand our capabilities in scaling our cloud business, expanding digital
+capability, expanding on our automation work and increasing relevance with our large clients
+and tech natives and also strengthen our employee value proposition. Our focus on staying
+ahead in the cloud and digital ecosystem, the focus on our employees and the costs give us
+strong confidence for the future.
+Our sustained momentum in FY2022, large deal wins, robust deal pipeline and client
+confidence give us comfort to guide for 13% to 15% growth in FY2023 in constant currency.
+As we look ahead – as we build our new strategy, that is looking at cloud and the digital
+ecosystem, our focus on employees and the costs related to the post-COVID work
+environment, result in our operating margin guidance to be at 21% to 23% for FY2023.
+In terms of our business segment performance, let me go through the highlights by segment.
+Financial Services segment grew at 14.1% in constant currency, with 8 large deal wins during
+the quarter and 27 large deal wins in FY2022. Our US business continues to lead the growth
+as we work on large transformation programs. Our overall large deal pipeline in Financial
+Services is healthy across the regions.
+Retail segment growth was at 16.5% in constant currency. As clients focus on digital and cost
+takeout programs. We are seeing integrated outsourcing deals and transformation programs in
+the areas of e-commerce, revenue growth management, supply chain, product life cycle
+management. We won 16 large deals from the segment in the last year and continue to have a
+healthy deal pipeline.
+5The Communications vertical grew strongly at 29.2% in constant currency. We see customer
+experience, IT and network simplification, lean and automated zero-touch operations, time to
+market and integrated data for digital enterprise as the key themes for clients in this segment.
+Energy, Utilities, Resources and Services segment growth increased further to 17.8% in
+constant currency. We see continued and increased emphasis on digital transformation,
+especially around customer experience, operational efficiency and associated legacy
+transformation. We won 4 large deals in the last quarter and 18 large deals in FY2022 from
+this segment.
+Growth in Manufacturing segment increased to over 50% in constant currency. There were 6
+large deal wins in this segment in the last quarter and 13 wins for the last year. We are
+helping clients across engineering, IoT, supply chain, cloud ERP and digital transformation
+areas.
+Hi-Tech growth accelerated further to 20.9% in constant currency. We have seen an increase
+in deals based on edge computing, digital marketing and commerce. Cybersecurity is another
+area of focus for clients due to increased threat perception.
+Life Sciences vertical grew by 16.2% in constant currency. Clients are driving digital
+transformation of clinical trials to reduce cycle times through direct data capture, digital
+patient engagement to accelerate drug discovery, and reducing costs.
+In the last quarter, we were rated as a leader in 11 ratings in the areas of cloud services, big
+data and analytics, IoT and engineering, modernization and artificial intelligence.
+We announced the acquisition of oddity, a Germany-based digital marketing and experience
+and e-commerce agency. Together with Wongdoody, this will further strengthen our creative
+branding and experience design capabilities.
+With respect to capital allocation, the Board has proposed a final dividend of Rs.16 per share,
+taking the total dividend for financial year 2022 to Rs.31 per share, an increase of 14.8% over
+the past year.
+6I want to express Infosys' support for all the people impacted by the humanitarian crisis in
+Europe. The company advocates for peace between Russia and Ukraine.
+While Infosys does not have any active relationships with local Russian enterprises. We have
+a small team of less than 100 employees based in Russia, which service a few of our global
+clients. In light of the prevailing situation, we made a decision to transition these services
+from Russia to our other global delivery centers.
+To support this humanitarian assistance initiatives in the region, Infosys has committed $1
+million towards Ukrainian relief efforts and is launching a program to digitally reskill up to
+25,000 individuals.
+With that, let me hand it over to Nilanjan for his update.
+Nilanjan Roy
+Thanks, Salil. Good evening, everyone, and thank you for joining the call.
+We navigated yet another year of a challenging environment with strong growth of 19.7% in
+constant currency, which is highest in a decade. The incremental revenue added this year was
+higher than the incremental revenue added in the previous 3 years together. This was backed
+by broad-based growth across segments and robust growth in our digital portfolio at 41.2% in
+constant currency.
+Operating margin for the fiscal stood at 23.0%, which was at the midpoint of our guidance
+band of 22% to 24%. In the backdrop of various supply side pressures, we rolled out various
+measures to reduce attrition – higher compensation increases, higher promotions, skill-based
+interventions, etc. in addition to higher subcons.
+Free cash flows for FY2022 crossed $3 bn. DSO reduced by 4 days to 67 days. Capex
+increased marginally to $290 million on the back of continued focus on optimizing the infra
+creation-related spend. Consequently, FCF conversion as a percentage of net profit was 103%
+for FY2022.
+7FY2022 EPS grew by 14.3% in dollar terms and 15.2% in INR terms. Return on equity at
+29.1% improved by 1.7% over the prior year.
+Coming to Q4 performance -
+Revenues grew by 20.6% YoY in constant currency and 1.2% sequentially. Growth was
+broad-based across verticals and geos and was in double digits.
+Although volume growth remained healthy in Q4, revenue growth in Q4 was impacted by
+usual seasonality, COVID impact during the early part of the quarter and the client related
+contractual provision, which we expect to recover in the future. This also impacted Q4
+margins.
+Mining of large clients was extremely strong in FY2022. $100 mn client count increased to
+38 compared to 32 in FY2021. We had 12 clients giving $200 mn annual revenues compared
+to 7 in FY2021.
+We have added ~22,000 net employees, including trainees during the quarter, the highest ever
+in the company's history, as we made headroom to capture the robust demand environment
+ahead. Consequently, utilization in Q4 declined to 87.0% while on-site effort mix inched up
+to 24.0%. Voluntary LTM attrition increased to 27.7%. While LTM attrition continues to
+increase due to the tail effect, quarterly annualized attrition saw a decline of approximately
+5% after flattening in the previous quarter.
+Q4 margins stood at 21.5%, a drop of 200 basis points versus previous quarter. The major
+components of the sequential margin movement were as follows:
+- 1.6% impact due to lower calendar working days, client contractual provision as
+explained above and other pricing puts and takes,
+- 0.6% impact due to lower utilization as we create capacity for the future,
+- 1% due to higher visa costs, third-party costs and other one-offs, which we benefited
+in Q3,
+and these were offset by
+- approximately 1.1% benefit due to salary-related benefits, including lower working
+days, leave costs and others.
+8Q4 EPS grew by 9.2% in dollar terms and 13.4% in rupee terms on a YoY basis.
+Our balance sheet remained strong and debt-free. Consolidated cash and equivalents
+increased further to $4.9 bn at the end of the quarter. Free cash flow for the quarter was
+healthy at $761 million, and yield on cash balance remained stable at 5.29% in Q4.
+In line with our capital allocation policy, the Board has recommended a final dividend of
+Rs.16 per share, which will result in a total dividend of Rs.31 per share for FY2022 versus
+Rs.27 per share for FY2021, an increase of 14.8% per share for the year. Including the final
+dividend and recently concluded buyback over the last 3 years, we have returned 73% of FCF
+to shareholders under our current capital allocation policy.
+Our accelerated investments in the last few years in strengthening our digital footprint,
+enhancing large deal capabilities, localization, talent building has enabled us to gain
+consistent market share. With the acceleration of digital disruptions across industries, we see
+further scope to engage more closely with clients and capitalize on the expanding market
+opportunities.
+We have identified areas of investments, including doubling down our focus on digital
+portfolio, scaling our cloud offerings and further enhancing our capabilities in emerging
+technologies. We also remain committed to offer a compelling value proposition to
+employees through reskilling, incentivization and a holistic career growth. We plan to
+neutralize the impact of some of these through aggressive cost optimization and value-led
+pricing driven by service and brand differentiation. This, along with post-pandemic
+normalization of some expenses, like travel, facilities, etc, is reflected in the revised margin
+guidance for FY2023 of 21% to 23%.
+With the pandemic hopefully behind us, we hope to see many of you in person over the next
+few months.
+With that, we can open the call up for questions.

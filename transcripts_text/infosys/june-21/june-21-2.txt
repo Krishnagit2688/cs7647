@@ -1,0 +1,187 @@
+
+Ladies and gentlemen good day and welcome to the Infosys Earnings Conference Call. As a
+reminder, all participant lines will be in the listen-only mode, and there will an opportunity for
+you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing “*” then “0” on your touchtone phone.
+Please note that this conference is being recorded. I now hand the conference over to Mr.
+Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Thanks Margreth. Hello everyone and welcome to Infosys Earnings Call to discuss Q1 FY22
+Earnings Release. I am Sandeep from the investor relations team in Bengaluru.
+Joining us today on this call is CEO and MD, Mr. Salil Parekh; COO, Mr. Pravin Rao; CFO,
+Mr. Nilanjan Roy; along with other members of the senior management team.
+We will start the call with some color on the performance of the company by Salil, Pravin and
+Nilanjan, before opening the call for questions.
+Please note that anything that we say, which refers to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risk that the company faces. A
+complete statement and explanation of these risks is available in our filings with the SEC,
+which can be found on www.sec.gov.
+I would now like to pass it on to Salil.
+Salil Parekh
+Thanks, Sandeep.
+Good evening and good morning to everyone on the call. Thank you for joining us today. I
+trust each of you and your families are safe and well.
+3I am delighted to share with you that we have had a landmark first quarter, with robust YoY
+growth of 16.9% and sequential growth of 4.8% in constant currency terms. This has been the
+fastest growth we have seen in 10 years.
+We continue to gain significant market share with this growth being essentially organic and
+especially in the area of digital transformation. This is a clear reflection of Infosys’ resilience
+and client relevance that has grown stronger with the unwavering commitments of our
+employees and our differentiated digital portfolio.
+I would like to thank all our employees for their enormous dedication and contribution
+especially during another testing period with the second COVID wave in India.
+Some of the highlights of our results are:
+1. Revenues were $3.78 bn, which is a growth of 16.9% YoY and 4.8% sequentially in
+constant currency.
+2. Our digital business grew by 42% YoY and now constitutes 53.9% of our overall revenues.
+3. We had broad-based growth across all our sectors, service lines and geographies.
+4. Financial Services grew by 23%, Retail 22%, Life Sciences 21%, Manufacturing 19%, the
+North American geography by 21%.
+5. Our large deals were at $2.6 bn; large deals are deals over $50 mn in value.
+6. Operating margins were strong at 23.7%.
+7. We had a tremendous focus on our employee, especially related to the well-being and to
+the new talent expansion approach that we have with employees.
+8. Free cash flow was strong at $863 mn, 18.5% higher than the same quarter in the previous
+year.
+9. Attrition increased to 13.9%.
+10. We had a net headcount increase of 8,000, attracting leading talent from the market. We
+remain comfortable with our ability to support our clients in their digital transformation
+journey.
+Our sustained approach in building differentiated digital capabilities is helping us enable our
+clients to move with speed, becoming agile and create value as they connect with their
+customers, employees and partners with new digital constructs. For example, with the Cloud
+4becoming a strategic priority for businesses, more clients across industries are engaging with
+us to take advantage of Infosys Cobalt solutions and services specialized on the Cloud.
+With a strong start to the financial year, good large deals in Q1, strong pipeline, we are
+increasing our annual revenue growth guidance, which was at 12% - 14%, to 14% - 16% growth
+in constant currency. Our operating margin guidance remains unchanged at 22% - 24%.
+Last week, Infosys completed 40 years. I am delighted to share with you the vision of our
+founders and all the leaders that have helped shape the company are contributing to us being
+well-positioned for growth and being a strong and consistent partner for our clients in their
+digital transformation journeys. I would like to thank the founders, employees, clients,
+shareholders and all our stakeholders for their ongoing guidance, support and contribution.
+With that, let me turn it over to Pravin.
+Pravin Rao
+Thank you, Salil. Hello, everyone. Hope you and your family are well, safe and healthy.
+After a period of extremely concerning medical situation caused by the second wave of
+pandemic, India is gradually returning to normalcy. We have been extremely focused on
+employee well-being, extending every possible help to overcome any medical situation of our
+employees. We have ramped up vaccination drive for employees and their families. And so far,
+we have vaccinated 58% of our employees in India with at least one shot.
+We saw a sustained growth acceleration in Q1 with YoY constant currency growth of 16.9%.
+Growth was broad-based with 7 industry segments reporting strong double-digit growth,
+including the two largest, Financial Services and Retail, growing more than 20% YoY.
+Operating parameters continued to improve during the quarter.
+• Utilization improved further to new all-time high of 88.5%.
+• Onsite effort mix reduced further to a new low of 24.1%.
+However, subcon cost increased by 120bps due to stronger than expected growth, high attrition
+and demand for niche skills.
+5We won 22 large deals in Q1, totaling $2.6 bn - 9 in Financial Services, 4 each in Retail and
+Energy, Utilities, Resources and Services, 2 in Manufacturing and 1 each in Communications,
+Hi-Tech and Life Sciences segments. Region wise – 14 were from Americas, 5 were from
+Europe, 2 from RoW and 1 from India. The share of new deals in Q1 was 30%.
+Client metrics improved meaningfully with $100mn clients count increasing to 34, an increase
+of 9 YoY. We added 113 new clients in the last quarter.
+With growth coming back, demand for top talent has also increased. Voluntary last 12-months
+attrition increased from 10.9% last quarter to 13.9% in Q1. However, we not only backfilled
+attrition completely, but also added another 8,300 employees on a net basis, which is a
+testimony to the strength of recruitment engine at Infosys and our status as a sought-after
+employer.
+We are taking all necessary measures to enhance employee value proposition and improve both
+talent acquisition and retention. However, we expect attrition to be high in the near-term due
+to strong demand.
+In Q1, we on-boarded over 10,000 college graduates and for the full year, we have increased
+the college graduate hiring target to 35,000 globally to ensure unconstrained client deliveries.
+As communicated earlier, the salary revision for fiscal 2022 will kick off from July for majority
+of our employees.
+Moving to business segments.
+Industry-leading performance in Financial Services continued with steady increase in growth
+momentum aided by signings during the quarter. Growth is led by U.S., especially in
+subsegments like Banking, Mortgages, Wealth and Retirement Services. With the gradual
+opening of the economy, we are also seeing significant improvement in the Payments sector.
+There is visible acceleration in cloud adoption and we are working with many of our clients on
+cloud migration, cloud management and other cloud-related platform deals. With the
+combination of our domain + tech + ops + digital capabilities, we are well-positioned as a full
+stack digital transformation player.
+6Performance of the Retail segment improved meaningfully with both new deal signings during
+the quarter as well as ramp-up of previous deal wins. We are seeing aggressive investments by
+clients to uplift their digital capabilities. There is a huge opportunity for us to help them build
+omnichannel capabilities to compete with the digital native and right-size their cost structures.
+Clients continue to invest in analytics across supply chain, trade promotion fulfillment,
+personalization using new age tools that drive heavy analytics with a fraction of the cost.
+Communications segment performance improved compared to the previous quarter due to the
+combination of fresh signings and ramp up of prior won deal. With COVID accelerating the
+need for better connectivity, we are seeing improving deployment of 5G across the world. We
+are working with our customers in advanced IoT use cases and products.
+Energy, Utilities, Resources and Services vertical grew strong double-digits, along with
+impressive deal wins during the quarter. The overall outlook is improving across subsectors
+and geographies we operate. Clients are slowly getting back to normalized levels of
+discretionary spending, especially in areas involving customer experience, operational
+efficiency and associated legacy transformation. Cybersecurity is also becoming important
+with recent incidents in Energy and Utilities segments.
+Growth in Manufacturing segment was strong with tailwinds from deal wins in the past few
+quarters. Infosys grew market share through the pandemic across all sectors in Automotive,
+Aerospace and Industrial. We see emerging opportunities on various trends in the ER&D space
+resulting from increased spending on Digital in areas like Industrial IoT, Cloud adoption,
+IT/OT integration – making the manufacturing value chain smarter and faster. As mentioned
+earlier, we expect Daimler deal to start ramping up in the weeks ahead.
+Life Sciences segment also continued to grow at strong double-digit rates. Our recent offerings
+like personalized medicine solutions for complex biotherapies, commercial insights platform
+to help drive commercial efficiencies and digital health platform for patient engagement
+initiatives would help in accelerating digital adoption across pharma value chain.
+Share of digital to overall revenues increased further to 53.9% in Q1, with very strong growth
+of 42.1% YoY in constant currency terms. There is a pent-up demand to restart delayed
+projects, in addition to the continuation of the pandemic-related drive towards digital
+7transformation of enterprise infrastructure and customer experience. Clients have recognized
+that some of the adaptations they have made to their business are going to be permanent, and
+they are increasing their investment in digital channels and self-service products and tools.
+In the last quarter, Infosys was ranked as leader in 10 digital service-related capabilities across
+Cloud Services, Modernization, Artificial Intelligence and Supply Chain by industry analysts.
+With that, I will hand over to Nilanjan.
+Nilanjan Roy
+Thanks, Pravin. Hello, everyone and thank you for joining the call. I trust each of you and your
+families are safe and well.
+We are encouraged with our Q1 performance which had significant and broad-based
+acceleration in growth as we begin the year. At 4.8% CC growth, we clocked the highest
+sequential Q1 revenue growth in the last 11 years. On a YoY basis, revenue growth accelerated
+to 16.9% in constant currency terms, which is the highest growth in any quarter over the last
+10 years. This growth is on the back of a relatively strong Q1 FY21 performance, which was
+the peak of pandemic-induced revenue impact.
+Operating margin for Q1 was 23.7% and increased by 100 basis points over Q1 FY21, while
+being 80 basis points lower compared to Q4 FY21. The major components of the sequential
+movement were:
+• 10-basis-point benefit due to currency movement,
+• 40-basis point benefit due to increase in utilization
+These benefits were offset by
+• 50-basis-point impact due to increase in subcon and third-party costs, and
+• 80 basis points impact due to costs primarily related to employee hiring, promotions,
+retention and well-being costs.
+EPS grew by 26.1% in dollar terms and 22.6% in INR on a YoY basis.
+8DSOs for the quarter improved by one day to 70 on the back of robust collections.
+Consequently, free cash flow continued to increase and was $863 mn in Q1, an increase of
+18.5% YoY. FCF conversion stood at 122% of net profit.
+Driven by healthy cash generation, consolidated cash and investments was $5.076 bn, after
+returning approximately $1 bn of final dividend and initiation of buyback.
+Consequently, ROE increased to 29.3% in Q1 compared to 27.4% in Q4. I am happy to share
+that ROE has increased by over 3.4% in last two years, driven by a robust capital allocation
+policy.
+Yield on cash balance continued to decline, the yield was 4.9% in Q1 compared to 5.1% in Q4
+and 6.1% in Q1 last fiscal.
+Now let me talk about the progress made on the buyback plan. We initiated share buyback on
+June 25 after securing shareholder approval during the AGM on June 19. Out of the maximum
+buyback size of Rs.9,200 Crores, till June 30, we had completed Rs.690 Crores or
+approximately 7.5% of the buyback by end of Q1. During this period, we bought back 4.4 mn
+shares at an average price of Rs.1,572. Till date, we have completed Rs.1,542 Crores of share
+buybacks and bought back 9.8 mn shares at an average price of Rs.1,569.
+As the pandemic situation is improving in many parts of the world and businesses slowly return
+to normalcy, we expect some of the discretionary costs, including travel, facilities, etc, to start
+normalizing in the coming quarters. In Q2, we will also rollout compensation hikes for majority
+of employees. With the talent market remaining heated, we are anticipating continuing costs
+relating to employee retention, acquisition, and well-being in the short-term. However, given
+our focus on structural levers to improve efficiency and cost structure, we remain confident of
+our margin guidance band of 22% - 24% for the full year.
+Driven by strong Q1 and visibility driven by deal signings, backed by robust deal pipeline, we
+are increasing our revenue growth guidance for the year to 14% - 16% from 12% - 14%
+previously.
+With that, we can open the call for questions.
+9

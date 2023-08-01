@@ -1,0 +1,156 @@
+
+Ladies and gentlemen good day and welcome to the Infosys Limited Earnings
+Conference Call. As a reminder all participant lines will be in the listen-only mode.
+Should you need assistance during the conference call, please signal and operator by
+pressing “*” and then “0” on your touchtone telephone. After today’s presentation there
+will be an opportunity to ask question. To ask a question you may press “*” then “1”
+on your telephone keypad. To withdraw your question please press “*” then “2”. Please
+note that this conference is being recorded. I now hand the conference over to Mr.
+Sandeep Mahindroo. Thank you, and over to you, sir.
+Sandeep Mahindroo
+Thanks, Inba. Hello, everyone, and welcome to Infosys earnings call to discuss Q3
+FY23 financial results. Let me start by wishing everyone a very happy New Year.
+Joining us here on this call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy
+and other members of the senior management team. We will start the call with some
+remarks on the performance of the company by Salil and Nilanjan, subsequent to which
+we will open up the call for questions.
+Kindly note that anything which we say that refers to our future outlook is a forward-
+looking statement that must be read in conjunction with the risks that the company
+faces. A full statement and explanation of these risks is available in our filings with the
+SEC, which can be found on www.sec.gov.
+I now like to pass it on to Salil.
+Salil Parekh
+Thanks, Sandeep. Good evening and good morning to everyone on the call. Thank you
+for joining us.
+We are delighted to share with you that our Q3 performance was strong with year-on-
+year growth of 13.7% and quarter-on-quarter growth of 2.4%. This performance was in
+a seasonally weak quarter for us and amid a changing global economy. We continue to
+gain market share.Growth in Q3 was broad-based, with most industries and geographies growing in
+double digits in constant currency. Growth in constant currency for nine months of
+FY23 was 17.8% compared to the same period of FY22. Our large deal value was $3.3
+bn, the highest in eight quarters. With 32 large deals, this is the largest number of large
+deals in our history, 36% of this is net new. Our pipeline of large deals remain strong.
+Our digital revenue grew at 22% in the quarter in constant currency and are now close
+to 63% of our overall revenue. Our core services revenue grew at 2.4%. We are seeing
+growth in both areas of our business, digital and core services. This is a testament to
+our industry-leading digital capabilities, including our Cobalt Cloud capability and our
+industry-leading automation capabilities, both of which are resonating with our clients.
+Our large deal pipeline is seeing increased traction for automation and cost efficiency
+programs. Our results reflect our deep-rooted client relationships, coupled with client-
+centric strategy, differentiated digital and cloud capabilities, strength in automation and
+the ability to pivot our business rapidly to changing client needs.
+Our cloud revenues continue to have healthy growth this quarter. Our clients are
+focused on accelerating the digital and cloud transformation, both to grow and to
+become operationally more efficient. They trust us to partner with them through the
+complexity of managing this change because of our differentiated capabilities. Our
+industry-leading cloud offering, Cobalt, is playing a key role in helping them navigate
+the digital transformation.
+Two examples of this,
+- Cobalt is helping accelerate business growth and resilience for a large telco and
+making their decision-making more data driven.
+- We are supporting a leading aerospace company by automation of their customer
+experience area, leveraging a modernized technology infrastructure, driving
+material cost efficiency.
+Strong growth was accompanied by stable operating margin at 21.5%. This was driven
+by healthy revenue growth and cost optimization benefits. Our operating margin for the
+first nine months of FY23 was at 21%, in-line with our margin guidance.Our voluntary quarterly annualized attrition continues to decline steadily and reduced
+by 6 percentage points sequentially to well below 20% for this quarter.
+We are encouraged by the immense confidence and trust that clients have in us. The
+signs around us, around the slowing global economy are visible. Some areas such as
+mortgages and investment banking and financial services industry, telco, high-tech and
+retail are more impacted and that is leading to delays in decision-making and
+uncertainty in spending in these areas. We are confident that the strength of our digital
+and cloud capabilities and our automation capabilities will continue to position us well
+in the market. We are keeping a close watch on the global economy.
+Driven by our growth of 17.8% in constant currency for the first nine months of FY23
+and strong large deal value for Q3, we are increasing our revenue growth guidance,
+which was at 15% to 16% earlier to 16% to 16.5%, despite the changing global
+economic conditions. We are retaining our operating margin guidance for FY23 at 21%
+to 22%. We anticipate to be at the lower end of this range.
+Thank you. And with that, let me request Nilanjan to share other updates.
+Nilanjan Roy
+Thanks, Salil. Good evening, everyone and thank you for joining this call. Let me start
+by wishing everyone a very happy and safe 2023.
+Q3 was another quarter of resilient performance. Our revenue grew by 13.7% year-on-
+year and 2.4% sequentially in constant currency terms, despite seasonal weakness. Most
+of our business segments and geos grew in double digits year-on-year in constant
+currency. Specifically, manufacturing grew by 36.8%, EURS by 25.9% and Europe
+grew by 25.3%.
+Digital revenues constitute 62.9% of total revenues and grew by 21.7% year-on-year in
+constant currency. Core revenue saw another quarter of growth reflecting the
+accelerated client focus on cost take-out.
+Client metrics continue to remain strong with year-on-year increases in client counts
+across revenue buckets. Number of $50 mn clients increased by 15 to 79, number of
+$200 mn clients increased by 5, while number of $300 mn clients increased by 3 overthe same quarter last year, reflecting our strong ability to mine top clients. During the
+quarter, we added 134 new clients.
+Utilization, excluding trainees, reduced to 81.7%, reflecting seasonality and employees
+joining the bench post completion of their training. On-site effort mix remained stable
+at 24.5%.
+Quarterly annualized attrition continued to trend downwards and reduced further by
+another 6% during the quarter. This is the lowest quarterly annualized attrition in the
+past seven quarters. Consequently, LTM attrition reduced to 24.3% as compared to
+27.1% in Q2. We expect attrition to reduce further in the near-term.
+Revenue growth was 17.8% in constant currency terms over nine months FY23.
+Operating margin for the same period was 21.0%, in-line with the lower-end of our full
+year guidance as called out earlier.
+Q3 operating margin remained steady at 21.5%. The major components of QoQ margin
+movement are as follows:
+Tailwinds of
+- approximately 40 basis points due to benefits from Rupee depreciation and cross
+currency, offset by lower benefits from revenue hedges.
+- 70 basis points from cost optimization, including lower subcon.
+This was offset by headwinds of
+- 30 basis points from higher SG&A and
+- the balance 80 basis points due to seasonal weakness in operating parameters,
+higher third-party costs, furloughs etcetera.
+Q3 EPS grew by 13.4% in Rupee terms on a YoY basis.
+DSO increased by three days sequentially to 68, reflecting higher billing during the
+quarter. Our balance sheet continues to remain strong and debt-free. ROE increased by
+2.2% YoY to 32.6%. Free cash flow for the quarter was $576 mn, a conversion of 72%
+of net profit. YTD FCF was $1.8 bn, which is implying a conversion of 81% of net
+profits.Yield on cash balances increased to 6.3% in Q3. Q3 marked the 30th consecutive
+quarter of delivering positive forex income despite the volatile currency environment.
+Consolidated cash and investments declined from $4.79 bn last quarter to $3.91 bn,
+consequent to $1.32 bn being returned to investors towards interim dividend and
+buyback.
+We initiated the buyback on December 7th and till date have bought back $31.3 mn
+shares worth ₹4,790 crores or 51.5% of the total authorization of ₹9,300 crores at an
+average price of approximately ₹1,531 per share compared to the maximum buyback
+price of ₹1,850 per share.
+Coming to segment performance
+We signed 32 large deals in Q3, which is the highest ever. TCV was $3.3 bn, the highest
+in the last eight quarters with 36% net new. 7 large deals were in Retail, 6 each in
+Financial Services and Communications, 5 each in EURS and Manufacturing, 2 in Life
+Sciences and 1 in Hi-Tech. Region-wise, this was split by 25 in the Americas, 5 in
+Europe and 2 in the rest of the world.
+Growth in Financial Services was impacted due to a higher-than-normal furloughs and
+some specific project closures. Deal pipeline continue to be strong and oriented towards
+cost takeout and tech/ops transformation transformation. Our competitive position in
+the industry as demonstrated in the past years, remains very strong.
+Retailers are seeing uncertainty on consumer spending as a result of high inflation, high
+interest rates and softer economy. However, at the same time, direct-to-consumer and
+digital commerce are opening up many new opportunities on the back of our growing
+presence in leading e-commerce platforms and also our very own Infosys Equinox.
+We have healthy deal flow in the Communications segment, along with continued
+steady pipeline. However, cost pressures and economic concerns continue on the client
+side impacting discretionary budgets.
+Energy, Utility, Resources and Services Segment reported strong growth along with
+healthy level of large deal wins during the quarter. The deal pipeline is strong and on
+increasing trend versus the previous quarter, given medium-term growth visibility.Manufacturing segment continues to be robust, supported by healthy pipeline of deals
+in both traditional and new technology areas. We are helping clients across engineering,
+IoT, supply chain, cloud ERP and digital transformation, including helping clients
+accelerate their journey to the cloud.
+We continue to see caution around budget and spending for consumers in the Hi-tech
+segment, especially around discretionary spend areas.
+For Digital service capabilities in Q3, we have been ranked as leader in 7 ratings for
+our cloud services, digital engineering services and Salesforce implementation services.
+We have also been positioned as a major player in 7 ratings for our IoT and engineering,
+security and automation services.
+We believe, the structural levers for medium to long-term growth for the industry
+remains intact and Infosys is well positioned to support its customers in their
+transformational journey.
+With strong revenue performance in the first nine months of the year, the revenue
+guidance for FY23 has changed to 16% - 16.5%. Operating margin guidance band
+remains at 21% - 22% for the year. And as mentioned previously, we expect to be at
+the lower end of the range.
+With that, we can open the call for questions.

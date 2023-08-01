@@ -1,0 +1,377 @@
+:
+Ladies and gentlemen, good day and welcome to ICICI Bank Q3-2021 Earnings Conference
+Call. As a reminder, all participant lines will be in the listen-only mode. There will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal for an operator by pressing ‘*’ then ‘0’
+on your touchtone phone. Please note that this conference is being recorded. I now hand
+the conference over to Mr. Sandeep Bakhshi -- Managing Director and CEO of ICICI Bank.
+Thank you. And over to you, sir.
+Page 1 of 35ICICI Bank Ltd
+January 30, 2021
+Sandeep Bakhshi:
+Good evening to all of you and welcome to the ICICI Bank Earnings Call to discuss the
+results for Q3 of FY2021. Joining us today on this call are Vishakha, Anup, Sandeep Batra,
+Rakesh and Anindya.
+Thank you all for joining us today. We hope that you are safe and in good health. India has
+embarked on what we hope would be the last stage of its fight against the Covid-19
+pandemic with the launch of the nationwide vaccination drive. We would like to extend
+our gratitude to the relentless efforts of the medical and research fraternity, healthcare
+staff and all essential service providers who have helped to put up a strong fight against
+Covid-19. I would also like to take a moment here to thank our employees for their service
+to customers in these challenging times.
+The Bank’s Economic Research Group’s proprietary Ultra Frequency Index, which
+comprises several high frequency indicators, reached a record high of 106.3 for the week
+ending January 17. The index has remained above 100 for the last four weeks indicating
+that economic activity has crossed pre-COVID levels. Several high frequency indicators
+such as rural unemployment rates, rail freight revenues, power consumption, e-way bill
+generation and electronic toll collections were above the pre-Covid levels consistently in
+the last four weeks. The month of December registered the highest ever monthly
+collections of GST primarily on the back of festive season sales and rise in collections on
+imports. The record agricultural output across kharif and rabi seasons last year, steady rise
+in rabi crop sowing in the current season and increase in tractor sales point towards a
+strong rural economy. There has also been an uptick in property registrations in December
+compared to September.
+These trends are also reflected in the business and results of ICICI Bank, as we continue to
+steadily grow our business, within our well-defined framework.
+Page 2 of 35ICICI Bank Ltd
+January 30, 2021
+1. Growth in the core operating profit in a risk-calibrated manner through the
+focused pursuit of target market segments
+The core operating profit increased by 14.8% year-on-year to 80.54 billion Rupees in Q3
+of 2021. The profit after tax increased by 19.2% year-on-year to 49.40 billion Rupees in Q3
+of 2021 from 41.46 billion Rupees in Q3 last year.
+2. Further enhancing our strong deposit franchise
+Deposit growth continued to be strong, with 22.1% year-on-year growth in total deposits
+at December 31, 2020. During the quarter, average current account deposits increased by
+26.5% year-on-year and average savings account deposits by 15.9% year-on-year. The
+liquidity coverage ratio for the quarter was 146%, reflecting significant surplus liquidity.
+Our cost of deposits continues to be among the lowest in the system. Our 360-degree
+customer coverage, digital platforms and efforts towards process decongestion have
+played an important role in the growth of our deposit franchise.
+3. Growing our loan portfolio in a granular manner with a focus on risk and
+reward
+The continued pickup in economic activity and tailwinds from the festive season,
+combined with the Bank’s digital initiatives and extensive franchise reflected in an increase
+in disbursements across retail products during this quarter. Mortgage disbursements
+increased further in this quarter over the previous quarter driven by our efforts to offer a
+convenient and frictionless experience to customers by digitising the entire underwriting
+process, with instant loan approvals. Disbursements of auto loans have continued to
+increase from the September levels and have crossed pre-Covid levels in December. Till
+January 27, 2021, we have disbursed about 120 billion Rupees under the ECLGS 1.0
+scheme and about 6 billion Rupees has been disbursed under the ECLGS 2.0 scheme. The
+overall retail loan portfolio grew by 15.4% year-on-year and 6.8% sequentially. The growth
+of the performing domestic corporate portfolio was 9.6% year-on-year and 8.5%
+sequentially. Overall, the domestic loan portfolio grew by 13.3% year-on-year and 7.5%
+sequentially. The overseas branches portfolio and within that, the non-India linked
+Page 3 of 35ICICI Bank Ltd
+January 30, 2021
+corporate portfolio, declined both year-on-year and sequentially in line with the approach
+which we have articulated earlier.
+4. Leveraging digital across our business
+We have continued to reimagine existing digital journeys in order to decongest service
+delivery and enhance the customer experience. The ICICI STACK helps us to curate and
+offer hyper-personalised solutions to our customers suiting their life-stage and business
+needs. During this quarter, we expanded our state-of-the-art mobile banking app, iMobile,
+to iMobile Pay which offers payment and banking services to customers of any bank.
+iMobile Pay can be used for making payments using UPI and also offers instant banking
+services such as opening savings account, investments, loans and credit cards. We have
+seen about half a million activations of iMobile Pay from non-ICICI Bank customers since
+it was launched just two months ago. We offer bespoke digital solutions for corporate and
+institutional customers which enable us to tap into their ecosystems. The steady increase
+in adoption of these solutions and fund flows through our digital financial supply chain
+and trade platforms have contributed to the growth of our deposit franchise. We have
+launched an online platform called ‘Infinite India’ offering not only banking solutions but
+also other value added services for foreign companies looking to establish or expand
+business in the country.
+5. Protecting the balance sheet from potential risks
+The indicators around economic activities have been positive and this reflects in the trends
+of our portfolio. The trends in collections and overdues across loan portfolios continued
+to improve during the third quarter of the current fiscal year. Rakesh will expand on this
+later.
+Loans amounting to 82.80 billion Rupees at December 31, 2020, compared to 14.10 billion
+Rupees at September 30, 2020, were not classified as non-performing pursuant to the
+Supreme Court’s interim order. In addition, the total fund based outstanding to all
+borrowers under resolution as per RBI’s framework, not included in these proforma NPA
+numbers, is 25.46 billion Rupees or about 0.4% of the total loan portfolio at December 31,
+Page 4 of 35ICICI Bank Ltd
+January 30, 2021
+2020. These are in line with or better than our expectations of NPA additions and loans
+under resolution.
+During Q3 of 2021, the Bank made contingency provision amounting to 30.12 billion
+Rupees for borrower accounts not classified as non-performing pursuant to the Supreme
+Court’s interim order and utilised 18.00 billion Rupees of Covid-19 related provisions made
+in earlier periods. Accordingly, the Bank held aggregate Covid-19 related provision of
+99.84 billion Rupees at December 31, 2020 compared to 87.72 billion Rupees at September
+30, 2020. This includes contingency provision for proforma NPAs amounting to 35.09
+billion Rupees at December 31, 2020 compared to 4.97 billion Rupees at September 30,
+2020.
+On a proforma basis, the provisioning coverage continued to be robust at 77.6% as of
+December 31, 2020.
+As mentioned in our previous earnings calls, our aim is to be proactive in provisioning
+with the objective of ensuring that the balance sheet is robust at all times. We have further
+strengthened our provisioning policies on NPAs during this quarter. Our contingency
+provisions on proforma non-performing loans during the quarter also takes into account
+this revised policy. The provisions during the quarter were higher by about 21 billion
+Rupees due to this more conservative approach.
+To summarise on asset quality: The provision coverage ratio on a proforma basis is robust.
+Less than 90-day overdues above the normal pre-Covid level are substantially lower at
+end-December compared to end-September. We are confident that the Covid-19
+provisions we hold as of end-December will completely cushion the balance sheet from
+potential credit losses which may arise due to the pandemic. As we have stated earlier,
+we expect credit costs to normalise in fiscal 2022 based on our current expectations of
+economic activity and portfolio trends.
+6. Maintaining a strong capital base
+The capital position of the Bank continued to be strong with a CET-1 ratio of 16.79%
+including the profits for nine months of the current fiscal year. This strong capital position
+Page 5 of 35ICICI Bank Ltd
+January 30, 2021
+does not include the market value of the Bank’s investments in listed subsidiaries, of about
+764 billion Rupees.
+Looking ahead, we see optimism in the economy supported by the indicators of
+resumption of economic activity and continued growth in digitisation. We believe our
+extensive franchise, high quality digital platforms and solutions, our approach of 360-
+degree customer centricity, our prudent risk management practices and our strong capital
+ratios put us in a good position to capture opportunities that will arise in the near and
+medium term. We will continue to focus on delivering consistent and predictable returns
+to our shareholders.
+With these opening remarks, I will now hand the call over to Rakesh.
+Rakesh Jha:
+Thank you, Sandeep. I will talk about balance sheet growth, credit quality, P&L details,
+capital adequacy, portfolio trends and performance of subsidiaries.
+A. Balance sheet growth
+The overall loan portfolio grew by 10.0% year-on-year at December 31, 2020. The
+domestic loan portfolio grew by 13.3% year-on-year and 7.5% sequentially at December
+31, 2020. The retail portfolio grew by 15.4% year-on-year and 6.8% sequentially. Within
+the retail portfolio, the mortgage loan portfolio grew by 15.0% year-on-year, business
+banking by 39.4%, rural lending by 24.6%, commercial vehicle and equipment loans by
+8.1% and auto loan portfolio by 6.9%. Growth in the personal loan and credit card portfolio
+was 9.1%. This portfolio was 636.56 billion Rupees or 9.1% of the overall loan book at
+December 31, 2020.
+The disbursements in the retail portfolio have increased substantially in Q3 compared to
+Q2. Sandeep has already talked about the trends in the mortgages and auto loans
+portfolios. While the disbursements in the commercial vehicle and personal loan portfolios
+have increased in Q3 compared to Q2, they continue to remain below pre-Covid levels.
+Credit card spends have reached pre-Covid levels in December led by increased spends
+Page 6 of 35ICICI Bank Ltd
+January 30, 2021
+in categories such as health & wellness, electronics and e-commerce. These trends
+resulted in healthy sequential growth across portfolios.
+The SME business comprising borrowers with a turnover of less than 2.5 billion Rupees
+grew by 24.6% year-on-year to 270.93 billion Rupees at December 31, 2020.
+The growth of the performing domestic corporate portfolio was 9.6% year-on-year and
+8.5% sequentially, driven by disbursements to higher rated corporates to meet their
+working capital and capital expenditure requirements. While various sectors and corporate
+clients contributed to this growth, some focus segments were highly rated PSUs and large
+established corporate groups.
+The overseas loan portfolio declined by 25.7% year-on-year in US dollar terms at
+December 31, 2020. The overseas loan portfolio was 6.2% of the overall loan book at
+December 31, 2020. We had mentioned in our previous quarter earnings call that we would
+be progressively exiting our non-India linked exposures in a planned manner. The non-
+India linked corporate portfolio reduced by 48.0% year-on-year and 14.1% sequentially at
+December 31, 2020.
+Coming to the funding side: We continue to focus on growing the daily average CASA
+balances and retail term deposits. Average savings account deposits increased by 15.9%
+year-on-year and average current account deposits increased by 26.5% year-on-year
+during the quarter. Total term deposits grew by 26.1% year-on-year to 4.8 trillion Rupees
+at December 31, 2020.
+B. Credit quality
+Loans aggregating to 82.80 billion Rupees, compared to 14.10 billion Rupees at September
+30, 2020, were not classified as non-performing at December 31, 2020 pursuant to the
+Supreme Court’s interim order. Of the 82.80 billion Rupees at December 31, 2020, 75.21
+billion Rupees was from the retail portfolio and 7.59 billion Rupees was from the corporate
+and SME portfolio. The reported gross NPA additions during the quarter were 4.71 billion
+Rupees.
+Page 7 of 35ICICI Bank Ltd
+January 30, 2021
+Recoveries and upgrades, excluding write-offs, were 17.76 billion Rupees in the current
+quarter. There were recoveries and upgrades of 9.33 billion Rupees from the retail portfolio
+and 8.43 billion Rupees from the corporate and SME portfolio. The gross NPAs written-off
+during the quarter were 27.36 billion Rupees. The gross NPAs sold during the quarter were
+0.88 billion Rupees.
+The net non-performing assets were 48.61 billion Rupees at December 31, 2020 compared
+to 71.88 billion Rupees at September 30, 2020. The gross NPA ratio was 4.38% and the
+net NPA ratio was 0.63% at December 31, 2020. The gross NPA ratio on a proforma basis
+was 5.42% at December 31, 2020 compared to 5.36% at September 30, 2020. The
+proforma net NPA ratio was 1.26% at December 31, 2020 compared to 1.12% at
+September 30, 2020.
+We had mentioned in our previous quarter’s earnings call that the corporate loans under
+resolution via the framework announced by RBI in August would be less than 1% of the
+total loan portfolio of the Bank. Excluding proforma NPAs, the total fund based
+outstanding to all borrowers under resolution is about 25.46 billion Rupees or about 0.4%
+of the total loan portfolio at December 31, 2020. Of the above fund based outstanding, 8.37
+billion Rupees was from the retail loan portfolio. The Bank holds provisions of 3.85 billion
+Rupees against these borrowers, which is in excess of the requirement as per RBI
+guidelines. Going forward, the asset classification of corporate and SME borrowers under
+resolution would depend on the timing of implementation of resolution schemes and
+payment performance in the interim. As you are aware that there is time till June 30, 2021
+to implement the resolution. Resolution has also been invoked for proforma NPA loans
+amounting to 8.88 billion Rupees.
+Compared to the normal pre-Covid trend, the percentage of the retail EMI products and
+credit card portfolio which was overdue for less than 90 days was about 1.5% higher at
+December 31, 2020 compared to about 4% higher at September 30, 2020. The percentage
+of the performing rural portfolio which was overdue at December 31, 2020 was about 1.5%
+higher than the normal pre-Covid trend compared to about 1% higher at September 30,
+2020. The percentage of the SME and business banking portfolio overdue for less than 90
+days was similar to the pre-Covid levels at September-end and remains so at December-
+end. In the domestic and overseas corporate loan portfolio, less than 2% of the portfolio
+Page 8 of 35ICICI Bank Ltd
+January 30, 2021
+was overdue for less than 90 days at December 31, 2020 compared to less than 3% at
+September 30, 2020.
+C. P&L Details
+Net interest income increased by 16.0% year-on-year to 99.12 billion Rupees. Interest on
+income tax refund was 1.96 billion Rupees this quarter compared to 0.26 billion Rupees in
+the previous quarter and 0.16 billion Rupees in Q3 of last year. We have reversed the
+interest accrued on proforma NPAs and the same is reflected in the net interest income
+for the current and previous quarter. The net interest margin was at 3.67% in Q3 of 2021
+compared to 3.57% in the previous quarter and 3.77% in Q3 of last year. The impact of
+interest on income tax refund and interest collections from NPAs was about 11 basis points
+this quarter compared to about 3 basis points in the previous quarter and about 10 basis
+points in Q3 of last year. The domestic NIM was at 3.78% this quarter compared to 3.72%
+in Q2 and 4.04% in Q3 last year. International margins were at 0.34%. The cost of deposits
+was 3.97% in Q3 compared to 4.22% in Q2.
+Non-interest income, excluding treasury income, declined by 3.0% year-on-year to 39.21
+billion Rupees in Q3 of 2021.
+ Fee income was 36.01 billion Rupees in Q3. Compared to a decline of 30.8% year-on-
+year in Q1 of 2021 and 9.7% year-on-year in Q2 of 2021, fee income grew by 0.1% year-
+on-year in Q3 of 2021. The sequential growth in fee income was 14.7% reflecting the
+continuing normalisation in customer spending and borrowing activity
+ Dividend income from subsidiaries was 3.56 billion Rupees in Q3 of 2021 compared to
+3.67 billion Rupees in Q3 of last year
+On Costs: The Bank’s operating expenses increased by 3.7% year-on-year in Q3. The
+operating expenses increased by 12.6% sequentially. The employee expenses increased
+marginally by 0.4% year-on-year. The Bank had 92,103 employees at December 31, 2020.
+We expect the employee count to increase during Q4 of 2021. Non-employee expenses
+increased by 5.5% year-on-year in Q3 of 2021 due to increase in retail business related
+costs and technology related expenses partly offset by decrease in advertisement and
+sales promotion expenses. We would expect business related expenses to increase in
+Page 9 of 35ICICI Bank Ltd
+January 30, 2021
+future quarters as business volumes increase further from the current levels. We continue
+to make investments in technology and to grow our franchise.
+The core operating profit increased by 14.8% year-on-year to 80.54 billion Rupees in Q3
+of 2021. The core operating profit grew by 15.9% during 9M of 2021.
+The treasury income was 7.66 billion Rupees this quarter compared to 5.42 billion Rupees
+in Q2. The treasury income this quarter includes 3.29 billion Rupees from sale of 2.2%
+stake in ICICI Securities compared to 3.05 billion Rupees in Q2. These stake sales were
+undertaken to meet the minimum public shareholding requirement by March 2021, as
+required by applicable regulation.
+During Q3 of 2021, the Bank made contingency provision amounting to 30.12 billion
+Rupees for proforma NPAs. We utilised 18.00 billion Rupees of Covid-19 related provisions
+made in the earlier periods. Accordingly, the Bank held aggregate Covid-19 related
+provision of 99.84 billion Rupees at December 31, 2020 compared to 87.72 billion Rupees
+at September 30, 2020. This includes contingency provision for proforma NPAs amounting
+to 35.09 billion Rupees at December 31, 2020 compared to 4.97 billion Rupees at
+September 30, 2020. On a proforma basis, the provisioning coverage continued to be
+robust at 77.6% as of December 31, 2020.
+At December 31, 2020, the total outstanding Covid-19 related provisions, provisions for
+non-fund based outstanding to NPAs, general provisions on standard assets and other
+standard asset provisions were 164.01 billion Rupees or 2.3% of loans. This includes
+contingency provisions of 35.09 billion Rupees on proforma NPAs.
+As Sandeep mentioned, we are confident that these provisions will completely cushion
+the balance sheet from the potential credit losses which may arise due to the pandemic.
+The profit before tax increased by 11.2% to 60.78 billion Rupees in Q3 of 2021 compared
+to 54.65 billion Rupees in Q3 last year. The tax expense was 11.38 billion in Q3 of 2021
+compared to 13.19 billion Rupees in the corresponding quarter last year. The tax expense
+declined due to lower effective tax rate in Q3 of 2021 mainly because of higher gains from
+sale of stake in subsidiaries in fiscal 2021 which are not subject to tax. The profit after tax
+Page 10 of 35ICICI Bank Ltd
+January 30, 2021
+grew by 19.2% to 49.40 billion Rupees in Q3 this year compared to 41.46 billion Rupees in
+Q3 of last year.
+The consolidated profit after tax was 54.98 billion Rupees this quarter compared to 48.82
+billion Rupees in Q2 and 46.70 billion Rupees in Q3 last year. The consolidated RoE was
+14.6% this quarter.
+D. Capital
+The CET1 ratio, including profits for 9M of 2021, was 16.79% at December 31, 2020
+compared to 16.54% at September 30, 2020. Including profits for 9M of 2021, the Tier 1
+ratio was 18.12% and the total capital adequacy ratio was 19.51% at December 31, 2020.
+E. Portfolio information
+We are focused on growing our loan portfolio in a granular manner with a focus on risk
+and reward. Our retail is built based on proprietary data and analytics in addition to bureau
+checks, and well-priced in relation to the risk. Our strong deposit franchise enables us to
+offer competitive pricing to the selected customer segments. We have given further
+information on our portfolio in slides 31 to 34 of our investor presentation.
+The loans and non-fund based outstanding to corporate and SME borrowers rated BB and
+below (excluding proforma NPAs) was 180.61 billion Rupees at December 31, 2020
+compared to 161.67 billion Rupees at September 30, 2020, details of which are given on
+slide 35 of the investor presentation.
+Other than four accounts, two in construction and one each in the telecom and power
+sectors, the maximum single borrower outstanding in the BB and below portfolio was
+about 6 billion Rupees at December 31, 2020.
+On slide 36 of the presentation, we have provided the movement in our BB and below
+portfolio during Q3 of 2021. In Q3 of 2021:
+Page 11 of 35ICICI Bank Ltd
+January 30, 2021
+ The rating downgrades from investment grade categories were 22.39 billion
+Rupees. The downgrades were largely from the construction sector;
+ There was a net decrease in outstanding of 1.45 billion Rupees;
+ There was a reduction of 1.50 billion Rupees due to inclusion of some borrowers
+in the proforma NPAs and devolvement of 0.77 billion Rupees of non-fund based
+outstanding to NPAs; and
+ There were upgrades of 0.27 billion Rupees from NPA to below investment grade
+categories
+Except one lease rental discounting account, all corporate and SME borrowers under
+resolution as per RBI’s framework were rated below investment grade at December 31,
+2020.
+The builder portfolio including construction finance, lease rental discounting, term loans
+and working capital loans was 225.57 billion Rupees at December 31, 2020 or 3.2% of our
+total loan portfolio. As mentioned in our previous calls, our portfolio is granular in nature
+with the larger exposures being to well-established builders. About 13% of our builder
+portfolio at December 31, 2020 was either rated BB and below internally or was classified
+as non-performing.
+The total outstanding to NBFCs and HFCs was 576.29 billion Rupees at December 31, 2020
+compared to 501.31 billion Rupees at September 30, 2020. The total outstanding loans to
+NBFCs and HFCs were about 6% of our advances at December 31, 2020. The details are
+given on slide 38 of the investor presentation. Our exposure is largely to well-rated entities
+with PSUs, long vintage, entities owned by banks and well-established corporate groups.
+The sequential increase in the outstanding to NBFC and HFCs during the quarter reflects
+this. The proportion of the NBFC and HFC portfolio internally rated BB and below or non-
+performing is about 1%.
+Coming to our overseas portfolio, excluding exposures to financial institutions and retail
+lending against deposits, the total corporate fund and non-fund outstanding of overseas
+branches, net of cash or bank or insurance backed lending, was 5.20 billion US dollars at
+December 31, 2020 compared to 5.47 billion US dollars at September 30, 2020 and 8.62
+billion US dollars at December 31, 2019. 69% of the outstanding at December 31, 2020
+Page 12 of 35ICICI Bank Ltd
+January 30, 2021
+was to Indian corporates and their subsidiaries and joint ventures. 16% of the outstanding
+was to non-India companies with Indian or India-linked operations and activities. The
+portfolio in this segment is well-rated and the Indian operations of these companies are
+target customers for the Bank’s deposit and transaction banking franchise, and we would
+continue to pursue risk-calibrated opportunities in this segment. 6% of the outstanding
+was to companies owned by NRIs or PIOs. 9% of the outstanding was to other non-India
+companies which is less than 1% of the total portfolio of the Bank.
+F. Subsidiaries
+The details of the financial performance of subsidiaries is covered in slides 43-44 and 63-
+68 in the investor presentation.
+Value of new business of ICICI Life was 10.30 billion Rupees in 9M of 2021 The new
+business margin increased from 21.7% in fiscal 2020 to 26.0% in 9M of 2021. The new
+business margin was 25.7% this quarter. The protection based annualised premium
+equivalent was 7.03 billion Rupees and accounted for 17.8% of the total annualised
+premium equivalent in 9M of 2021. The new business premium was 78.99 billion Rupees
+in 9M of 2021.
+Gross Direct Premium Income of ICICI General increased by 9.2% year-on-year to 40.34
+billion Rupees in Q3 of this year compared to 36.93 billion Rupees in Q3 last year. The
+combined ratio improved to 97.9% in Q3 of 2021 compared to 98.7% in Q3 of 2020. The
+profit after tax grew by 6.6% year-on-year to 3.14 billion Rupees this quarter from 2.94
+billion Rupees in Q3 last year.
+The profit after tax of ICICI AMC was 3.58 billion Rupees in the current quarter compared
+to 3.05 billion Rupees in Q3 of last year.
+The profit after tax of ICICI Securities, on a consolidated basis, was 2.67 billion Rupees in
+the current quarter compared to 1.37 billion Rupees in Q3 of last year.
+ICICI Bank Canada had a profit after tax of 5.1 million Canadian dollars in the current quarter
+which was at a similar level compared to Q2 and 22.1 million Canadian dollars in Q3 of
+Page 13 of 35ICICI Bank Ltd
+January 30, 2021
+2020. The profit after tax was higher in Q3 of 2020 due to recoveries from India-linked
+impaired corporate loans. The loan book of ICICI Bank Canada at December 31, 2020
+declined by 7.5% year-on-year and 3.7% sequentially.
+ICICI Bank UK had a profit after tax of 2.2 million US dollars this quarter compared to 8.0
+million US dollars in Q3 of last year and 4.9 million US dollars in Q2 of 2021. The loan book
+of ICICI Bank UK at December 31, 2020 declined by 28.9% year-on-year and 11.6%
+sequentially.
+ICICI Home Finance had a profit after tax of 0.03 billion Rupees in the current quarter which
+was at a similar level compared to Q3 of last year.
+With this we conclude our opening remarks and we will now be happy to take your
+questions.

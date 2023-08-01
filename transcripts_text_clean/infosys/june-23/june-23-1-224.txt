@@ -1,0 +1,170 @@
+
+Mr. Satish, if you're there, kindly go ahead and ask your question.
+I think Mr. Satish has some issue from his end.
+With that, we'll come to the end of this question system from all the shareholders. Now I will hand over
+back to Mr. Chairman.
+Nandan Nilekani
+Thank you for all the questions.
+While we provide the answers to the questions shortly, I would request the team to display questions
+received on the webchat and play videos which showcase the work done by Infosys during the past
+year.
+- 33 -[Video plays]
+We will begin the answers to the questions. In this round, we are answering the questions that were
+raised in the web chat.After one round of web chat questions, we will come back with a round of
+questions from the video and audio questions that were just asked.
+We'll start with my questions. I have three questions.
+First question is - Infosys donated to Open AI a few years back when they were a non-profit. Now
+they're incorporated for for-profit subsidiary. Is Infosys having a stake in that? If yes, how much does
+Infosys have? How is Open AI supporting Infosys as one of the early investors or donors? This
+question is from Ganesh Gopi.
+The answer is yes, Infosys was among the earliest supporters of the non-profit Open AI. And, we had
+made a donation several years back. We have no stake in the for-profit of the company. But we are
+delighted by the success that Open AI has achieved, and we wish them very good future with all the
+outstanding AI work that they're doing.
+Second question – what are the disruptions you foresee for industry in the near future, from
+Sreenivasa Rao Kilaru.
+It really is a very exciting time. There are a lot of changes happening in the world of technology. For the
+last decade, we had first whole migration for digital way of doing things using smartphones and so on.
+And then following that, we had the big wave of Cloud and Cloud migration, where Infosys plays with
+products like Cobalt. Recently, of course, there's the whole interest in AI and generative AI. Infosys is
+well-placed there with Topaz. So, all these changes are happening all at the same time. And we expect
+that in the next few years, all our global customers will have to fundamentally do a lot of changes to
+their technology and architecture. To leverage this, you will have to do things more efficient and
+become more cost-effective. At the same time, they will have to leverage all this, create transformation
+to create better business and better consumer experience. We're also at the beginning of many other
+mega trends. First is the whole green transition which includes decarbonization, which means that
+whole energy system for the world will migrate for the next several decades, from a hydrocarbon-based
+future to a renewable future means that the way we produce energy will go from having monolithic
+producers to millions of small producers, which has a huge impact on the grid means that instead of
+petrol pumps we will have gas stations, we will have charging stations. So, there's a huge
+decarbonization or climate change which is going to affect all our businesses. And of course, thanks to
+the geopolitics, people are now looking at how to make their supply chains more resilient, and allowing
+people to have multiple options, where they can produce and how it is shaped. Then of course, thanks,
+when also because of the whole security issues, you have issues of how to deal with cybersecurity, we
+have issues of how countries are going to become more able to defend themselves and so on. And of
+course, there's the whole telecom thing happening through the rollout of the 5g network. So, there are
+many, many disruptions or changes happening in the future. Now, I want to assure all of you that we at
+Infosys are fully seized of this, we are keeping a close eye on this. And we will make sure that we
+- 34 -understand these trends and changes and what they mean for our clients. We make sure that we can
+bring them best ideas and support that they can navigate the future successfully.
+Third question is from the Nani, who is a member of this Millennium Mans, Calcutta chapter, seems to
+be very strong group. She says, Sir, the world is divided as operations of AI is concerned. So which
+side do you belong?
+[No audio]
+And deep fakes, it will affect our elections and our politics. So, there are many short-term issues with
+AI. And of course, there are some people who believe that long-term AI could almost have an extinction
+risk for our humanity. Yet, Infosys believes that AI has many possible powerful use cases. And
+therefore, we will use AI using our Topaz infrastructure and our AI-first thinking to bring about
+transformation of our clients. And we will do that using responsible AI. We’ll make sure that the AI
+follows regulatory rules, privacy rules, and the accuracy rules that we need. So, we believe that AI can
+be a force for good with the appropriate guardrails. So, my question and answers, I now hand over to
+Salil to take his questions.
+Salil Parekh
+Thanks, Nandan. Now, to the questions that we have received from the web chat, I have a few that I
+will go through.
+The first from Mr. Vipul Kumar Shah. Will generative AI result in loss of jobs for coders or will it
+increase productivity, and what will be the impact on the profit of the company?
+Generative AI has a huge potential for impact with our clients. We see a lot of different projects that are
+already coming into the work that we're doing. We are working with both generative AI platforms, large
+language models, which are open source, and we are working with generative AI with different
+companies have put forward. We see productivity improvements, depending on different areas that
+could range from 10% to 30%. We also see a huge level of new type of work, for example, generative
+AI leveraging within companies, large areas of information, which are then sourced through for better
+usage. That data being used more precisely, for their purposes. We see that in vision, we see that in
+software development in various areas. So, our view is most times when new technologies are coming,
+that they have an impact which changes how our clients look at new technologies, and that expands
+the type of work that those new technologies are providing within clients. And there's also the need to
+of course, look at technologies over the past generations and making sure that they are integrated in.
+So overall, we see an exciting future that is unleashed by generative AI.
+Next question, Mr. Krishnendu Chakraborty. What will be Infosys view on future complete remote
+office or Metaverse, or similar platform?
+- 35 -Here, we have really built a flexible approach to how our employees are working. Over the last several
+months and quarters, we've seen a steady increase in employees that are starting to come back into
+the office. We also see that there are office locations in newer areas that we've set up, for example in
+Vizag, for example in the Navi Mumbai, where we are seeing more and more employees starting to
+come into these offices. We believe over time, there will be more need for social connect and social
+capital. There are several clients who are requesting that the teams be working on campus for their
+projects and that is happening. And this is going on all around the world and within India for our
+employees.
+The next question from Mr. Munirathnamma Raghavendra. Where do we see Infosys in the next five
+years across different sectors, and the impact of AI into those sectors?
+Earlier what I shared on generative AI and Topaz; Topaz really has become the platform, the
+foundation on which all of our AI and generative AI work is being done. We have tremendous level of
+large templates, use cases and real client examples beyond generative AI on AI, as well. Each of these
+are impacting different industries in different ways. We see, for example, Financial Services industries
+are leveraging AI in a fast way to rework what their internal approach to data and information is looking
+like. We see a different approach coming in Telecom, we see a different approach coming in Utilities.
+And overall, we see the industries are all getting impacted in a way that will leverage more and more of
+AI, which is supporting data analytics, machine learning and overall generative AI into the future.
+Our next question from Mr. Sajit Chellappan – What is the long-term strategy for work from home
+policy for India-based employees?
+Again, building on the previous point, our focus so far has been to make sure that we have a flexible
+approach for our employees. And we've seen a tremendous positive reception from the employees all
+around India on this. We are making sure that the employees have the ability to work from home or
+work hybrid. In some cases, where clients are requiring it, we have employees and teams that are
+working within the campus. On a long-term basis, we see a mix of where people will work, where there
+will be a need for increased social capital to connect with people, to work with teams, to do new work
+jointly, and for mentoring and coaching of individuals. And we see the flexibility that will enable more
+and more employees to be part of the work system. So, we are seeing that as really the way the future
+is evolving. And we are also keeping a close track of how our employees are relating to it, and how our
+clients are relating to it to build this strategy as we go ahead.
+Next question from Mr. Vasudeva Rao. The question is, why are we not going for big acquisitions.
+COVID provided a good opportunity to acquire. Any plans in the future to go for big acquisitions?
+So here, our view is we have a very good balance sheet and a good position overall, with respect to
+how we can look at acquisitions. Our approach has been to look at things which will fit in strategically
+within a digital or Cloud or AI framework. And then look at what will be the way to integrate it, then we
+look at the culture of the company. And then we look at what is the method of running it day to day
+once the company has been acquired. Based on those, of course the price value, we make the
+- 36 -decision. We’re here today, looking across different sizes of acquisitions. As a potential company falls
+into the right buckets for those, we will continue to do acquisitions. We've also been mindful, as we've
+seen over the last two years, where some of the acquisitions that were initially of high value, the value
+has come down. So, we are now looking more carefully at the future of acquisitions.
+Our next question from [unclear audio] – what are the growth opportunities in Middle East and South
+America? And what are the current revenue percentages in in these markets?
+We have a presence in Middle East and South America. Those are low revenue percentages. We've
+taken a focus in the past few years, where it's been much more on North America, European, and other
+parts of Asia Pacific, specifically Australia and New Zealand to develop those markets. We've also built
+strategic joint ventures in Japan and in Singapore to expand our markets. We are now looking at the
+future where there's a huge set of opportunities in the Middle East. And we want to scale that market up
+as well. And we will see more and more focus into the Middle East as we go ahead.
+Our next question is from [unclear audio] – when will our investments in Metaverse start yielding
+revenue? How large do we expect revenue stream in percentage terms?
+As you may be aware, we have created what we call the Metaverse Foundry, which is widely accepted
+within our client base. Today, we are seeing more and more use cases and interest in that. However, it
+is at an early stage today of development. And we see over time, more and more interest in this.
+Next question is from Mr. Ramesh Babu Satrasala – The question is because of the slowdown in the
+economy for software and export, how is the impact on profit and fresh hires in the coming quarters?
+So here, the overall demand environment, as was discussed earlier, is changed. With the global
+economy slowing down and the GDP rate slowing down, we see now more attention of clients moving
+from digital and cloud transformation to cost efficiency and automation. And we are fortunate that even
+in the consolidation area, we have a lot of opportunities that are coming in. We just announced you may
+have seen a few weeks ago a memorandum of understanding with BP, the original British Petroleum,
+where there's a huge benefit to Infosys from consolidation and a tremendous opportunity in the future.
+We have also announced jointly with our client just a couple of days ago, a very large transformation
+and efficiency program in the Denmark market with Danske Bank. These are the sorts of opportunities
+we see coming about, and therefore we see our focus into those areas will continue to give us benefits.
+Those are the questions I had and now I pass it on to Nilanjan.
+Nilanjan Roy
+Thanks, Salil.
+The first question I have is, why are our margins dropping when most of our competition is doing fairly
+well? Is large deals eating the margins? What is the strategy to maintain good margin while having
+good growth? And this is a question from Jagirda Hanumesh Vasudeva Rao.
+- 37 -So, in FY 23, as you're aware, we had margin impacts from salary increases. We had some costs
+coming back like travel and our utilizations dipped. Also, large deals which were struck in prior years we
+had the initial impact of that. But as you know that our aspiration continues to be to give, you know,
+robust and strong growth, and robust and strong margins. So, we are working on the margin side
+continuing to look at levers like automation, looking at Pyramid optimization onsite-offshore mix. And
+from the growth side, as you are all aware, we have delivered industry-leading growth over the last few
+years. And we continue to aspire towards that.
+The next question is how many MSME vendors were engaged during the financial year and what is the
+transaction value of business with such MSME vendors? Is there any delay in payment to such vendors
+in FY 22-23? If so, what is the value? This is a question from Mr. N. Nanchiappan.
+As on March 31, 2023, the outstanding value of dues to MSMEs was ₹97 crore and the value of
+payment made after the due date along with interest thereon during the year was ₹33 crore.
+The third question is how prepared is the company to hedge the risk of dollar depreciation?
+As you all know that we have a very strong natural hedge in many markets which we operate. The
+revenue and the costs are matched. So, you have salaries in the local currency as well as the revenue.
+At what level of market risk is remaining, we hedge that through a very robust treasury policy which is
+governed by the Audit Committee. And you've seen the impact of that over the last few years which we
+have reduced the volatility of the Forex line tremendously due to this policy.
+With that, I pass on to Manikantha.

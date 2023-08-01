@@ -1,0 +1,45 @@
+:
+We have a next question from the line of Nitin Aggarwal from Motilal Oswal. Please go
+ahead.
+Nitin Aggarwal:
+So one question is, like, on the trend and recoveries and upgrades. What is really driving
+this, and what have we changed in our underwriting approach to enable like, negligible
+credit cost on a successive basis, while the entire system is reporting a very benign credit
+cost but numbers for ICICI is almost zero to negligible credit costs is way better than
+everybody else?
+Anindya Banerjee:
+This year, one aspect that we have benefited from is pretty strong recoveries on the
+corporate side. We were able to complete the resolution of some of the older corporate
+NPAs. And that's why we split out the corporate and retail additions and deletions for
+you, and those deletions on the corporate side would also reflect into some level of write-
+backs. On the retail side, I think our experience with the portfolio has been pretty good
+Page 14 of 18both in terms of the performance in terms of overdues and bounces and so on, and at the
+same time, also, in terms of the collections of delinquent accounts. Again, because we
+have accelerated our provisioning on these portfolios significantly, they become
+delinquent, we provide and then as the collection efforts continue, the customers become
+regularized again. So, when we have a granular portfolio, a lot of delinquency and
+recovery can happen in a much quicker manner than in a larger, chunkier corporate
+portfolio, where it can take several years to resolve an account.
+Nitin Aggarwal:
+Secondly, while you talked about the growth opportunities in the retail business, but how
+do you see the growth prospects in the corporate banking going into FY2024 and
+FY2025?
+Anindya Banerjee:
+Very difficult to predict. I think this year, of course, as you would have seen our wholesale
+banking growth has been higher than in the previous years. I think for the system also,
+there has been a recovery in corporate credit growth, I guess, post the turn in the
+monetary environment and some shift from bond markets to banks. We are seeing
+certainly opportunities for lending in some of the sectors like NBFCs, real estate, which
+has become a significantly stronger sector in the last three, four years. So there are those
+opportunities. The public sector companies continue to invest as well. So these are some
+of the opportunities which are there. And we really look at sort of for each corporate
+client, what is the overall ecosystem opportunity, and lending is a part of that.
+Nitin Aggarwal:
+If you can just share some color on the treasury losses this quarter, very small digit also
+40 odd crores?
+Anindya Banerjee:
+Actually, we don't really look at booking large treasury gains in our core SLR and other
+portfolios. We had on other portfolios some profit, but we had a mark-to-market on our
+security receipts portfolio, which are the security receipts with underlying assets that we
+would have sold to the asset construction companies over the years, there was a small
+negative on that account, which gets reflected in the treasury line item.

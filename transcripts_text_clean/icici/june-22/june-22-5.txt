@@ -1,0 +1,62 @@
+:
+The next question is from the line of Nilanjan Karfa from Nomura. Please go ahead
+Nilanjan Karfa:
+Anindya, just going back to the yield question, will you have some walk in terms of the
+incremental loans that we do at a higher rate because the yields have declined on a
+sequential basis, even after including the reasons that you gave. If you can just help us
+walk through that decline.
+Anindya Banerjee:
+No, I think we already explained it that lending rates have been pretty competitive across
+segments over the last few quarters. That will now start reversing out as the benchmarks
+pick up. Further, there would have been some mathematical impact of the day count,
+which has been seen in the past as well. Beyond that, really, there is no other factor.
+Nilanjan Karfa:
+Okay. So, if the reasons continue like this, do you think when the back book reprices along
+with the reset debt, do you expect the reset to also be slightly muted?
+Anindya Banerjee:
+No. The reset will be to the extent that the benchmark changes. So, it will entirely reflect
+the change in the benchmark. There is no change in the spread.
+Nilanjan Karfa:
+Page 13 of 23The second one I wanted to ask is on the SME portfolio. Even though there is a sequential
+decline, I think the growth is quite robust. Could you help understand which are the
+segments where you are seeing a lot of demand? Secondly, across both SME and
+corporate loans, could you share what percentage is the working capital loan and how this
+has changed through this quarter because the commodity prices have also been quite
+volatile?
+Anindya Banerjee:
+If you look at our portfolio, we have been quite consistently growing the SME portfolio for
+the last 4 years or so. We had made a lot of changes in the way we approach this category
+of customers over the last 5 years in terms of distribution, our credit underwriting, our
+portfolio granularity and so on. This is probably one of the portfolios where the credit
+outcome so far post COVID has been somewhat better than what we may have originally
+anticipated. So, we are quite comfortable with growth in this portfolio. One of the other
+things that we have done over the last 3 years is invested heavily in digital propositions
+for this segment of customers. We have also seen a fairly high increase in digital adoption
+in this segment. Those are the areas that have driven this growth. It is a mix of working
+capital and sort of term loans. I don't think that there is anything specific to call out in terms
+of increase in working capital requirement in this quarter as such because the growth rates
+have been quite in line with what we have seen in the past adjusted for the period of
+dislocation during the pandemic.
+Nilanjan Karfa:
+Let me squeeze in a third one. If we look at the segmental disclosure, and while we
+obviously don't talk about how the equities are split between these businesses, but
+generally speaking, if you look at the profitability of each of the segments, which is the
+segment that you are seeing the profitability sort of jump quite a bit? Would you say that,
+for example, the corporate or the wholesale segment is actually doing a little better than
+retail? And do you think that's going to persist through the next couple of quarters?
+Anindya Banerjee:
+No, I don't think so. If you look at the improvement in profitability for what is reported in
+the corporate segment, I think part of that is due to actually a write-back of provisions as
+Page 14 of 23we continue to get recoveries out of past NPLs in that portfolio. On the retail side, of
+course, if you look at it on a year-on-year basis, there is a sort of multiple jump in the profit.
+For the sequential decline, I think 75%-80% of our cost base sits in retail. So, the sequential
+increase in costs that we discussed earlier in response to another question would largely
+reflect in retail. Also, as we mentioned in the first quarter, we do see the seasonally higher
+addition to NPLs in the KCC portfolio, which was Rs. 7.55 billion in this quarter, and the
+provisioning on that would also form part of the segmental result. But I don't think in terms
+of long-term profitability trend, there is anything to call out. The last thing I would like to
+say is that we are increasingly trying to organize ourselves around ecosystems. So, there
+is a lot of sort of how should I say it, for the regulatory requirements we would be reporting
+a segmental basis, but the way we are organized internally is much more around cross-
+functional teams and looking at particular customer ecosystems where these distinctions
+are quite blurred in that sense.

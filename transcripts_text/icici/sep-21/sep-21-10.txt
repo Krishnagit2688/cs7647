@@ -1,0 +1,88 @@
+:
+Thank you. The next question is from the line of Gaurav Kochar from Mirae Asset
+Management. Please go ahead.
+Gaurav Kochar:
+I have a few questions. Firstly, on margins, quarter-on-quarter there was a 11 bps
+improvement in margins. If I look at the CD ratio, it has moderated further to 78%. So,
+taking maybe a four to six quarter view or a medium term view, assuming your loan growth
+picks up and the CD ratio moves towards 85% sort of a mark, what is the outlook on
+margins? Also in that context, the share of unsecured credit right now is 10%, if I add up
+the personal loans and credit cards. Any sort of target internally that you would have built
+there? And say in the next two years, what would this be as a percentage of the overall
+loan portfolio? And as a result, what kind of margins can we look at from a 12-18 month
+or two-year perspective? That’s my first question.
+Rakesh Jha:
+So, it’s a very dynamic market and it’s very difficult to have a target on margins. At any
+point of time, we are always looking at protecting the margins first, and then seeing the
+opportunities to improve it. In the next year, something which all banks, including us, will
+face is that a lot of our loans will be linked to external benchmarks. So, we’ll have to see
+how the repo rate moves, how the T-bills move, and with respect to that, how the cost of
+deposits moves for the Bank. That’s an additional factor which has come in with loans
+being linked to external benchmark. Otherwise, definitely we are still sitting on surplus
+liquidity on the balance sheet. As that gets deployed, over time we would see some benefit
+on the margins from that side. On business mix, our unsecured portfolio had been growing
+at a faster pace than the overall portfolio prior to Covid-19, some bit of a slowdown
+happened during the pandemic period. We believe we should get back to more normal
+levels of growth on that side, but we don’t have any specific target on NIM in a two-year
+period.
+Page 29 of 32ICICI Bank
+October 23, 2021
+Gaurav Kochar:
+Sure, but directionally you believe the margins can go up further from here, given the
+levers?
+Rakesh Jha:
+In the medium term, we would always work towards that, it’s going to be a function of a
+lot of things and some of those are not under our control as well.
+Gaurav Kochar:
+Sure, understood. And the next question is on provisions. Looking at the loan book,
+provisions are 80% of net NPA. Net NPA in corporate book are almost Rs. 20 billion. PCR
+on the retail book is 65% and apart from that, we are also carrying provisioning buffers. In
+FY2023, it’s very hard to estimate a credit cost of more than 100 bps, unless of course we
+see a third wave. What are your thoughts around this and in this year or maybe next year,
+do we see some writebacks from this Covid-19 buffer that you have made in the last 18
+months or so?
+Rakesh Jha:
+So, in two parts if I can take it. On the first one, we have said that through the cycle number
+that we look at on credit cost, is for it to be 25% of our core operating profit, which would
+be like 120-125 basis points of our loans. So, we should get back to that level once the
+pandemic is behind us for sure, because that is what we aim for while we build our
+portfolio. Regarding the Covid-19 provisions, it’s an assessment that we will keep on doing
+on a quarter-on-quarter basis. The portfolio of course has performed better than what we
+anticipated and it’s been better than what we would have taken into consideration while
+creating the Covid-19 related provisions. But we are not going to be in a hurry to unwind
+all of those provisions. We will assess it quarter by quarter, maybe at the year-end and
+we’ll take a call as to how we should do that. It’s something which gives strengths to the
+balance sheet so we don’t overthink around that.
+Page 30 of 32ICICI Bank
+October 23, 2021
+Gaurav Kochar:
+Sure, but the intent is to unwind it, maybe at a later date, if not today, but the intent is not
+to keep that buffer forever, is this my understanding is right?
+Rakesh Jha:
+Yes, once the pandemic is over then Covid-19 related provisions will not be there, whether
+we maintain some other contingency provision, we will assess all of that and see.
+Gaurav Kochar:
+Sure, got it and just on ICICI Bank UK, I didn’t hear it properly, is the dividend payout of
+USD 20 million or USD 2,200 million?
+Rakesh Jha:
+No, that was a capital repatriation of USD 200 million. So it was surplus capital in the ICICI
+Bank UK subsidiary. As I said, the loan book there has declined and the capital ratio was
+like 25%. So, USD 200 million of capital was repatriated back to the parent Bank during the
+quarter.
+Gaurav Kochar:
+Okay. So, this will not be part of the P&L, it will only be added back to the reserves, is it?
+Rakesh Jha:
+It will not be added back to the reserves, it will come in the capital adequacy. Investment
+in subsidiaries is reduced from the capital while computing capital adequacy. So that
+number of deduction has come down. And in the balance sheet, it would have resulted in
+a reduction in the investment.
+Gaurav Kochar:
+Alright understood. And just last question, if I can squeeze in, the closing liquidity on the
+balance sheet was around Rs. 1.5 trillion. Is the average also around the same number, or
+it’s a quarter-end phenomena when the liquidity is high typically?
+Page 31 of 32ICICI Bank
+October 23, 2021
+Rakesh Jha:
+For the average number you should look at the LCR number that we also disclose. That’s
+the daily average number which is 130% or so. It’s clearly higher than where we would
+ideally want to be.

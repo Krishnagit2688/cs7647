@@ -1,0 +1,61 @@
+-
+Thank you, Sai. The next question is from Supriya Roy who joins us from TechCircle. Supriya
+please go ahead.
+Supriya Roy
+Hi gentlemen. I want to know what fraction of the India business in this June quarter has been
+coming from the government sector in the country and if you could compare that to the June
+quarter the previous year. I understand the pricing is not quite affected by the volatility of the
+macroeconomic conditions right now, but how does the changing demands of the India clients that
+you have now and the kind of clients that you want to have in the near future who want to retain
+the pricing that you have in the India market, given again the whole backdrop of COVID-19
+situation. The second question is - I want to revisit the problem statement on attrition Pravin did
+mention that as and when supply does catch up there will be better opportunities. So could you
+just elaborate on what supply catching up is he referring to there as well, and I also want to further
+define the problem statement with there are lot of these media reports which go onto show data
+that lot of these heavily backed startups in the country are paying good engineers to the tune of as
+much as over maybe Rs.1 Crore 11 lakhs per annum and then you have engineers with two to
+three years of experience earning as much as Rs.52 lakhs or Rs.53 lakhs at these heavily backed
+startups on per annum basis. So how is Infosys’ approach beyond fresher hiring going to capture
+this sort of talent pool that the startups are well positioned to train as well as go on to balance the
+same excellent operating margin that are currently sustaining?
+Salil Parekh
+Let me start off and then Pravin and Nilanjan may join in. On the India business what you
+mentioned, as you know, and Nilanjan was sharing earlier, India business is small part just under
+3% of our revenue. We do not split out within that any of the sectors and what the percentage of
+that sector is, nor do we split out separately the pricing in that, suffice it to say what Nilanjan was
+sharing that we had a growth in all of our geographies including in our India geography in Q1. We
+of course, as all of us did, had an intense impact of the second wave and nonetheless our work
+there continued in many ways.
+In terms of attrition, let me start off and then of course Pravin will jump in. The thinking that we
+have there is we want to make sure that we do everything that we are doing, keeping employees
+in the forefront. Pravin mentioned number of different factors that we are looking at. Of course we
+have done a lot of work as Pravin and Nilanjan both mentioned- with the January increase in
+compensation with the one that kicks in, in July one with a lot of activity on promotions, all of those
+things are part of work we are driving with respect to making sure that we are an extremely
+attractive company for talent. Again, as Pravin mentioned, and I had shared earlier we had a net
+hiring of 8,000 people, so we continue to make sure that we fulfill the demand that we are seeing
+in front of us. In terms of what you said about the startups and some of the salary points, what we
+see today is that we have an extremely good training environment, what Pravin referenced earlier,
+three to four months, we also have a career path which is long with lots of interesting projects, and
+we are able to attract employees into that talent mix. Of course, we also are looking at what we are
+doing with compensation, we are also doing things which gives special bonuses where there are
+digital skills involved and we work with all of our employees to make sure that holistically both from
+an engagement perspective, team perspective and compensation perspective and training, we are
+doing everything that supports them. Pravin, is there anything else that you would like to add?
+External Document © 2021 Infosys Limited
+17Pravin Rao
+I think one clarification you wanted was around the supply. If you remember whole of last year, the
+growth for the industry was muted, people had stopped hiring and many of the campus hires’
+joining date was deferred. Only in the last quarter or so, with growth coming back people have
+started to resume hiring and many of the deferred candidates are being asked to join the
+company. There is a lead time because we have to hire, we have to train them, this training could
+be four to five months before we can deploy them on the project. So that is what I meant supply
+catching up, more people we hire, college graduates, train them and deploy them in projects then
+when the whole situation will ease and we will be able to meet with demand in a much more
+comfortable way so that is what I was referring from a supply perspective.
+Other question on the startup, as Salil mentioned we also have couple of specialist teams, one we
+call power programmer and the other one is called digital specialist. We hire people into these
+streams that have significantly higher compensation than what we do for normal college graduate.
+So, that is one way of for us to attract the right talent and we deploy these people on some of the
+most challenging projects which are very attractive for these people as well. So that is other way
+we tried to also try to compete and try to get the best of the candidates out there.

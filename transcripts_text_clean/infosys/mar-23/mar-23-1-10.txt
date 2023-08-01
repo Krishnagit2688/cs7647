@@ -1,0 +1,40 @@
+
+Thanks, Rukmini. The next question is from Sethuraman NR from Reuters News.
+Sethuraman NR
+Good evening, gentlemen. So, the question is, this weak, I mean, the soft outlook, is it going
+to drill down to your plans for hiring next year, as well as the increments and the variable pay?
+That is one. And do you see a recovery period over the next few quarters? Like, I mean, one or
+two quarters from where, you feel that the situation in North America will stabilize, or at least,
+if you have a hint? Also, is the softness overall coming from North America, or you are seeing
+pockets of softness from other regions as well, like Europe? And you also mentioned about the
+Generative AI. So, I just want to know whether this is in association with Open AI, where you
+have some stake, or how it's going to play?
+Salil Parekh
+I'll take the second one, which is on the softness. Nilanjan will come back on the first one. And
+I'll also talk about Generative AI. So, firstly, our view today is from where we sit today, which
+is sort of in the middle of April, as we look out to our financial year. We will see how the
+economic environment, how the global environment evolves. It's not something that we have
+a clear view of what it will look like for the full year. We have a good approach to building
+what we consider our guidance, based on what work we have already got committed from
+Page 16 of 23Infosys Limited
+April 13, 2023
+clients, what we have seen from the past that's continuing and then what we typically see in
+Q3, Q4, and in most years. So that's how we have built our guidance, and that's the approach.
+I think on the geography, we do see, more impact in US and less in Europe. And that's in our
+numbers. You see the growth in the full year or even in quarter is stronger in Europe than in
+US, even though there is growth in both for the full year.
+On Generative AI, with clients, we have many projects going on. We are working on the
+Generative AI platform that the client has some interest in, where they have a preference. If
+they don't have a preference, we have a certain set of recommendations that we have. We work
+with both open-source platforms for clients, but also with platforms that they want, which could
+be open sourced or proprietary platforms.
+For our own work, we are working on open-source platforms today. And we have the ability
+to work on any Generative AI platform, because we have our software development libraries,
+and we can train them on that model.
+Nilanjan Roy
+On the first question, of course, as we build out the financial model for the year, we factor in
+lateral hiring. We factor in attrition, the questions around the freshers in the pipeline. And
+therefore, and of course, we have a margin guidance accordingly built in. So, this factors in
+many of these things, including things like compensation, travel. So, the model actually puts
+together all these various factors and has that flexibility to change each lever as per where the
+year will progress.

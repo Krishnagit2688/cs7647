@@ -1,0 +1,154 @@
+
+Ladies and gentlemen, good day and welcome to the Infosys Earnings Conference Call. As a
+reminder, all participant lines will be in the listen-only mode and there will be an opportunity
+for you to ask questions after the presentation concludes. Should you need assistance during
+the conference call, please signal an operator by pressing “*” then “0” on your touchtone phone.
+Please note that this conference is being recorded. I now hand the conference over to
+Mr. Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Thanks, Margreth. Hello everyone and welcome to Infosys Earnings Call to discuss Q3 FY22
+results. I am Sandeep from the Investor Relations team in Bengaluru. Let me begin by wishing
+everyone a very happy New Year.
+Joining us today on this earnings call, is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan
+Roy along with other members of the senior management team.
+We will start the call with some remarks on the performance of the company by Salil and
+Nilanjan, after that we will open the call for questions.
+Please note that anything that we say, which refer to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risk that the company faces. A
+full statement and explanation of these risks is available in our filings with the SEC, which can
+be found on www.sec.gov.
+I would now like to turn it over to Salil.
+Salil Parekh
+Good evening and good morning to everyone on the call. Wish you all a Happy New Year and
+trust you and your dear ones are well and safe. Thank you for making the time to join us today.
+I am delighted to share with you that we had an extremely strong quarter with 7.0% sequential
+growth and 21.5% YoY growth in constant currency terms. Our YoY growth was the fastest
+we have had in 11 years.
+3The growth was broad-based across industries, service lines and geographies driven by our
+differentiated digital and cloud capabilities. A strong broad-based growth in a seasonally weak
+quarter is a clear testament to the enormous confidence clients have in us to help them
+accelerate their business transformation.
+This has been made possible by the relentless commitment of our employees through these
+challenging times. I am extremely proud as well as grateful for their extraordinary efforts in
+delivering success for our clients.
+Our growth has been accompanied by resilient operating margins at 23.5%. We delivered these
+margins while keeping in the forefront our focus on employees with increased compensation
+and benefits.
+Our digital business grew by 42.6% and is now 58.5% of our overall revenues. Within digital,
+our cloud work is growing faster, and our Cobalt cloud capabilities are resonating tremendously
+with our clients.
+Some of the highlights of our results are
+1. Revenues at $4.25 bn, with a growth 21.5% YoY and 7.0% sequential in constant
+currency
+2. Broad-based growth across all our industries, service lines and geographies. All our
+segments reported a strong double-digit growth,
+3. Large deals at $2.5 bn,
+4. Onsite mix at 23.8% and utilization at 88.5%,
+5. Operating margins strong at 23.5%,
+6. Free cash flow at $719 mn,
+7. Attrition increased to 25.5%. Our quarterly annualized attrition was flattish on
+sequential basis.
+8. We had a net headcount increase of 12,450, attracting leading talent from the market.
+We have increased our annual college recruiting target to 55,000, and Nilanjan will
+comment more on this. We remain comfortable with our ability to support our clients
+in their digital transformation journey.
+4Financial Services grew at 15.5% in constant currency with broad-based growth across
+geographies and steady deal wins. Various subsectors like lending, mortgage, cards, payments
+are seeing increasing demand and clients are driving cloud transformation initiatives to build
+resilient and scalable platforms.
+Retail segment growth was 19.8% in constant currency. Across sub-verticals we see increased
+client spend on digital transformation including digital supply chain, omnichannel commerce
+and large-scale cost take out initiatives to improve business resilience. We signed six large
+deals in this segment during the quarter.
+The communication segment grew at 22.2% on constant currency. Segment performance
+continued to improve with ramp up of recently won deals. Client budgets are focused on digital
+and customer experience programs, increasing networking infrastructure, cloud adoption and
+security with emphasis on 5G roll out and innovation spend.
+Energy, utility, resources and services vertical continued its steady performance with 13.6%
+constant currency growth and 5 large deal wins. We are seeing gradual improvement across
+various businesses as consumer spending continues to increase and clients focus on increasing
+technology transformation around areas like customer experience, cybersecurity and workload
+migration to the cloud.
+The manufacturing segment growth accelerated to 48.4% in constant currency with continued
+ramp up of the Daimler deal and steady momentum in new deal wins. We see across the broad
+improvement within various subsectors and geographies and expect client focus to continue in
+areas like smart manufacturing, IOT, digital supply chain and connected products.
+High tech growth improved during the quarter to 18.9% in constant currency. Clients are seeing
+renewed momentum in terms of spending on digital transformation programs linked to
+customer, partner and employee engagement.
+Life Sciences segment performance also improved further to 29.2% growth. Adoption of digital
+health, telehealth and patient access programs are resulting in significant uptake of cloud, IoT,
+patient facing applications, patient portals and next generation CRM work.
+5We had a very strong performance on our income tax program in India. Over 5.8 crores or 58
+mn tax returns were filed using the new system, by the deadline of December 31, 2021. On the
+last day over 46 lakhs or 4.6 mn tax returns were filed and during the peak hour over 5 lakh or
+500,000 tax returns were filed. We are proud to be supporting the digital strategy for India and
+for the government and working on this program for future modules that will be developed.
+Across digital services in Q3 we have been ranked as a leader in 12 digital service-related
+capabilities from Artificial Intelligence and Automation, Cloud Services, IoT, Engineering,
+Modernization and Big Data and Analytics.
+The strong overall performance stems from four years of sustained strategic focus in areas of
+relevance for our clients in digital and cloud, continuing reskilling of our people and deep
+relationships of trust our clients have with us.
+With this strong momentum in the business and robust pipeline we are increasing our annual
+revenue growth guidance from 16.5% to 17.5% moving up to 19.5% to 20% in constant
+currency. Our operating margin guidance remains at 22% to 24%.
+With that, let me hand it over to Nilanjan for his update.
+Nilanjan Roy
+Thanks, Salil. Hello everyone and thank you for joining the call. Let me start by wishing
+everyone a very happy and safe 2022.
+Q3 was another successive quarter of continued acceleration in revenues at 7.0% constant
+currency QoQ growth and 21.5% constant currency YoY growth, the highest YoY growth in
+the last 11 years.
+Despite the Q3 seasonality, we registered strong broad-based growth across geographies and
+verticals. Our largest geography North America grew at 21.4% while growth in Europe
+accelerated to an impressive 27.2% YoY in constant currency terms. Retail, Communication,
+Manufacturing and Life Sciences also saw 20% or higher YoY growth in constant currency.
+We won 25 large deals, and large deals being those with over $50 mn TCV, totaling $2.5 bn of
+TCV - 6 in Retail, 5 each in Financial Services, Communications, and Energy Utilities
+6Resources and Services, 2 in Manufacturing and 1 each in Hi-Tech and Life Sciences. Region
+wise, 16 were from the Americas, 7 were from Europe and 2 from RoW. The share of new
+deals increased in Q3 to 44% within the large deal numbers.
+Client metrics improved further with $100+ mn client count increasing to 37, an increase of 8
+YoY. We added 111 new clients in the last quarter.
+Operating parameters remain robust. Utilization was 88.5% slightly lower than the previous
+quarter easing some of the supply side pressures. Onsite effort mix inched up marginally to
+23.8%.
+Q3 margins remained resilient at 23.5%, a marginal drop of 10 basis points versus previous
+quarter. The major components of the sequential margin movements were as below.
+• 80 basis points impact due to comp hikes and promotions and other employee
+interventions.
+• 40 basis points impact due to the utilization decline.
+These were offset by
+• About 20 basis points benefit due to the rupee and other cross currency movements,
+• 50 basis point benefit due to cost optimization, and
+• 40 basis points benefit due to SG&A leverage other one-offs included therein.
+Q3 EPS grew by 11.2% in dollar terms and 13.1% in rupee terms on a YoY basis.
+Although DSO increased to 71 days due to higher seasonal billing, an increase of 5 days versus
+the last quarter, it is still a reduction of 2 days versus Q3 of prior year.
+Free cash flow for the quarter was healthy at $719 mn. Free cash flow as a percentage of net
+profit was 93% for Q3 and 104% for the nine months till date.
+Yield on cash balances improved to 5.29% compared to 5.13% in Q2.
+7Our balance sheet remains strong and debt free. Consolidated cash and investments at the end
+of the quarter stood at $4.28 bn after paying over $840 mn of interim dividend during the
+quarter.
+Return on equity increased further to 30.4% an increase of 3% over Q3 of the prior year driven
+by robust performance and consistent capital returns through share buyback and increased
+dividend payout.
+On the employee front, voluntary 12 months attrition increased to 25.5% and as Salil
+commented while LTM attrition continues to increase due to the tail effect, quarterly
+annualized attrition was flattish compared to Q2. We will continue to invest in all aspects of
+talent retention including compensation, promotion, skill incentives, learning and career
+progression.
+We have also simultaneously increased the pace of hiring, talent reskilling and the usage of
+subcon to prevent any impact on client commitment. We have added 12,450 talented employees
+on a net basis in the last quarter, which is the highest ever. Our global college graduate hiring
+program for this fiscal has been increased to over 55,000 versus the previous quarter number
+of 45,000.
+In India over 93% of Infoscions have received at least one dose of the vaccine. Over 97% of
+our employees globally are presently working in remote environment, due to the heightened
+precautions against the new variant.
+Driven by robust demand environment and our continued market share gains, we are further
+increasing our revenue guidance for FY22 to 19.5% to 20% in constant currency terms from
+16.5% to 17.5% earlier and the margin guidance remains unchanged at 22% to 24%.
+With that we can open the call for questions.

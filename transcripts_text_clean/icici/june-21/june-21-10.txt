@@ -1,0 +1,131 @@
+:
+Thank you. We take the last question from the line of Jai Mundra from B&K Securities.
+Please go ahead.
+Jai Mundra:
+One question on merchant acquisition business which you have given reasonably good
+detail and looks like this is a clear focus area, if you can highlight what is the existing
+merchant base, how much is the addition on a monthly basis and do you think that you
+are the late entrant here and if you could also talk about the digital store management, it
+looks very interesting, are you managing this thing or this is through tie-up with some
+other Fintech? First question is on this merchant acquisition business?
+Page 33 of 38ICICI Bank Ltd
+July 24, 2021
+Anup Bagchi:
+I will just expand your question a little bit. See there are three kinds of large flows that
+are happening. There is a large corporate ecosystem where the flow happens, dealer-
+vendor, their own working capital that flow happens. Second one is the flow that
+happens on our business banking, SME and our trade customers who may have taken
+credit, may not have taken credit, but both of them are essentially B2B type. Now, you
+have this merchant, which is the B2C, when I am saying C it is the last leg, is essentially
+with consumers and there is a payment leg involved, so you will see that most of the
+solution on the merchant side essentially happens on the payment side. So, with the
+payment, first the flow happens to you, so that is one movement that happens. So, there
+is a large consumption basket which moves from savings account to current account or
+reduction in OD, etc., essentially to the business side every month and that is where the
+flow is. We have a decent market share there, so it is not right to assume that we have
+low market share, we have decent market share, but the other players were stronger
+than us for sure in this place. One big opportunity that is now coming is that there is a
+divergence because the number of payment modes have increased, number one and
+number two, if you look at the consumer behaviour that we are seeing, we are seeing
+scan to pay, pay to contact, UPI payment, etc., those are also expanding, so P2M
+transactions are expanding and as Sandeep talked about it in the opening remarks how
+our P2M is moving and sequentially it is jumping. The other thing that we can do the
+new merchant STACK that we have come out with and the super current account, we
+are giving instant settlement. Our instant settlement is something which is of great value
+to the customer and the reason why we are able to give instant settlement also is
+because the whole ecosystem belongs to us, both on the saving side as well as on the
+current account and the merchant side. So that is the one way of capturing this because
+there are new modes of payment which is happening that opens up newer ways of
+capturing that opportunity. The second one of course is that to aggregators, one
+captures that opportunity and you tie up with aggregators and there you partner with
+aggregators and then you capture this. Third of course is the traditional POS method.
+We think that from a POS perspective, they will be with very large retailers. As you go
+smaller and smaller, things will move towards scan and pay and other more contactless
+methods and that is where one big opportunity is there. From our perspective, that is the
+way we will be sort of thinking through this thing and making sure that the smaller
+Page 34 of 38ICICI Bank Ltd
+July 24, 2021
+merchants have a very strong proposition why they should deal with ICICI Bank, we will
+partner, we will create our own solutions and we will make them more efficient and
+effective and we will have more digital footprint, we will be able to lend them, so
+essentially everything we will be able to do as against some other players who might
+just be helping them with payment or some other players who will be helping just with
+lending and at this point of time, banks will be slightly better placed on lending, if one
+has digital footprint and underwriting methods because we have more data about our
+own clients. At this point of time, it is moving at a fast pace I think it is a very interesting
+area and an evolving area and not fully solved for. So that is the problem that we are
+trying to solve for and we think that there is a good play there.
+Jai Mundra:
+Sir, any vision, what is the merchant base as of now and how big could it be?
+Anup Bagchi:
+Merchant base, just to give you some sense, there is no sort of direct data available, but
+we would think that there will be close to 20 million merchants of all shapes and sizes,
+small, big, very large, etc., of which may be 8-10 million would be of a reasonably size,
+however there is no clear estimate available. We are sampling and I am just giving you
+a data, it may be of 2% here and there, but there is no real data available, but I think that
+would be the size. Our also estimate again, take it with a pinch of salt, because there is
+no such data available. The monthly movement from savings account on the
+consumption per month ranges between 2-2.5 trillion per month, so that is the kind of
+movement that happens on the savings account to the merchant account every month
+across all payment modes. So, this is across all payment modes. We might not have
+captured some, but that is our best estimate. We don’t know, this estimate could be
+higher, certainly not lower, but it may be slightly delta high. So that is the kind of money
+movement that is happening. But as you know payments in itself is not a profitable
+business. Payments generate a profit pool in terms of data which can then be used for
+underwriting, cross selling other products. We are in a unique position because we have
+deposit float and with that float we make some money which other players in the market
+may not be able to do as they don’t have a similar type of liability franchise. So I thought
+I will just give you some sense, may be 20 million merchants in total. Of it, 8-10 million
+Page 35 of 38ICICI Bank Ltd
+July 24, 2021
+could be some estimate. Don’t hold me to estimate because these are the estimates from
+our own sampling. This will give you some sense and certainly two trillion plus
+movement on consumption from savings account to merchant accounts per month
+across all payment modes. I am just trying to estimate the size of the market for that.
+Jai Mundra:
+Second question that is on floating rate book, so I think Rakesh mentioned that now the
+floating Repo rate/T-Bill linked loan is around 54% and that is a huge number, limited
+understanding suggest that I think Rakesh also mentioned that this should be NIMs
+accretive in a hardening cycle, provided RBI also increases the Repo rate, but any
+thoughts as to what could be the unwanted consequences because I suspect that the
+liability may not be this dynamic at this point of time?
+Rakesh Jha:
+So, the risk here is essentially that our deposit rates or deposit costs go up prior to RBI
+increasing the Repo rate, the lead and lag problem will be there and over the cycle
+hopefully it should average out. It is not something which should happen anytime soon,
+but when the tightening happens the market rates could go up before the repo rate at
+points of time specially on the wholesale deposit side. That is the risk of mismatch
+because on the liability side, like you rightly said, that is all fixed rate deposits or CASA
+deposits. There are no floating rate liabilities which are there. So we will have to manage
+that as and when that plays out. As I said over a period it should average out, but there
+could be a lag in that.
+Jai Mundra:
+And last thing on business banking and SME, you have cut out business banking from
+retail, as of now the proportion is around 5% of the book I am not a guidance, but what
+is your 2-3 years vision? How big can this be? Business banking and SME if you have a
+number as to what could be their proportion of the total Bank’s loans?
+Page 36 of 38ICICI Bank Ltd
+July 24, 2021
+Rakesh Jha:
+In terms of proportion, we don’t have a target there. In terms of the business opportunity
+for both the business banking and SME segment, we believe there is huge opportunity.
+Our own market share in this segment in the past has been somewhat lower than the
+share that we have in other businesses. We have been taking a lot of initiatives on the
+technology and digital side and Anup talked about many of them. I think these initiatives
+are really enabling us to grow not just on the lending business, but also on the current
+account and FX and transaction banking side. So it is a portfolio in which we believe
+there is lot of opportunity. We don’t have any specific growth target or portfolio
+composition that we want to reach there.
+Jai Mundra:
+And the last data keeping question Sir, if you can bifurcate restructuring, so you have
+given the outstanding restructuring, what was restructuring done in 1.0 and 2.0 and is
+there any residual pipeline for 2.0?
+Rakesh Jha:
+On slide 32 we have the aggregate restructuring under various frameworks such as
+Covid 1.0, Covid 2.0, extension of DCCO to projects under implementation, MSME
+schemes, etc. As there are so many schemes, we thought that it is better to give an
+aggregate number of fund based outstanding to performing borrowers which are loans
+which are under resolution. Going forward, I think like we mentioned that we will see
+some restructuring happening in the Covid 2.0 framework on the retail. For example, it
+could be for some of the existing NPAs or for new loans. So in the September quarter
+we will see some increase on account of that.

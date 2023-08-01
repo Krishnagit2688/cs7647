@@ -1,0 +1,1290 @@
+Chairman’s speech – Nandan Nilekani
+Dear shareholders, welcome to the 42nd Annual General Meeting of Infosys. As we gather again
+virtually to discuss the progress made in the year gone past, it is a pleasure to host you. On behalf of
+the Infosys Board of Directors, I thank you for making the time to join us today and for your continued
+support over the years.
+Fiscal 2023 has been a year of strong overall growth – 15.4% in constant currency, delivering US$ 18.2
+billion in revenues. Operating margin for the year remained healthy at 21%. And we generated US$ 2.5
+billion in free cash flows. Our digital business continued to expand and makes up 62.2% of our total
+revenue. We grew in double digits across most industry segments and across major geographic
+markets, 26% in Europe and 12% in the US. We had 95 large deals valued at US$ 9.8 billion for the
+year, of which 40% was net new. This promises a solid foundation to grow and build resilience in the
+months to come.
+For fiscal 2023, the Board has recommended a final dividend of ₹17.50 per share. Together with the
+interim dividend of ₹16.50 per share already paid, the total dividend per share for FY23 amounts to
+₹34, which is a 9.7% increase over FY22. With this, the Company has announced a total dividend of
+approximately ₹14,200 crores for FY23. A Company has completed the open market share buyback on
+February 13, at an average price of approximately ₹1,539 per share compared to the maximum
+buyback price of ₹1,850 per share. Including the recently concluded buyback and final dividend for
+FY23, the Company has returned approximately 86% of free cash flow to shareholders over four years
+starting FY20.
+The shareholders at the 41st AGM held on June 25th, 2022, reappointed Salil Parekh as CEO and MD
+effective July 1st, 2022, till March 31st, 2027. Salil is effectively steering Infosys towards growth and
+continued relevance through the changing economic macro environment. He has successfully
+institutionalized the ‘One Infosys’ approach to position our company to work with clients, both for their
+long-ranging digital transformation and for cost efficiency and resilience programs that are of vital
+importance to them to thrive in the near term.
+The shareholders also approved the appointment of Govind Iyer as an independent director, effective
+Jan 12, 2023, for a term of five years till Jan 11, 2028. The Board, based on the recommendations of
+the Nomination and Remuneration Committee, appointed D. Sundaram as Lead Independent Director
+of the Company, effective March 23rd, 2023, and recommends the appointment of Helene Auriol Potier
+as an Independent Director of the Company effective May 26th, 2023, for a period of three years,
+subject to the approval of the shareholders. Kiran Mazumdar-Shah, Lead Independent Director, retired
+as a member of the Board of Directors on completion of tenure effective March 22nd, 2023. We
+profusely thank Kiran for having been an integral member of the Infosys family, providing valuable
+guidance and leadership to the Board over the years. I am personally very grateful to her as she has
+been a tremendous ally, and an amazing colleague on the Board ever since I rejoined Infosys in August
+- 5 -2017. Uri Levine also retired as an independent director effective April 19th, 2023, upon completion of
+his term. The Bboard places on record its sincere appreciation over Uri’s contribution to Infosys.
+The receding pandemic brought an end to one set of challenges, but its aftermath has created new
+ones. The cocktail of inflation, interest rates, geopolitics, war, demand volatility, supply chain
+dislocations, the shift from efficiency to resilience and security, all morphing quickly and without warning
+is upon us. This means doing all we can to be more efficient in the present, as well as nurturing
+readiness for growth in the future. This is no mean task. The volatility of our times creates several
+probable future states, and businesses must be equally prepared to succeed in any one of those. That
+is why it is critical to be flexible and avoid making choices today that may shut key avenues in the
+future, and to reduce concentration risks that can make the business less adaptable to new realities
+that can emerge in the times to come.
+At Infosys, we understand what it takes to navigate this era of optionality. Through times rough and
+smooth, we have brought great focus to becoming better, becoming more efficient, and resilient in the
+present, while also securing our relevance in a progressive future. This has stood us in good stead. We
+understand what it takes to prepare for many eventualities, and we know our clients, our employees
+and you, our shareholders, count on us to be agile, adapt quickly and nimbly learn to thrive in any new
+reality. Not only are we committed to doing that, but we are also relentless in our efforts to set our
+clients up for success. A big part of that is helping them build their digital adaptability, so they can flex
+from strategy to execution in response to the fast-paced changes and intense uncertainty.
+With the One Infosys approach to orchestrating our collective capabilities, we started our transformation
+to become a digital-first Live Enterprise bringing the same advantage of digital agility and resilience to
+our clients as well. Our disproportionate investments in cloud through Infosys Cobalt cloud solutions are
+helping our clients bring its advantages into every facet of their own business, from re-energizing
+operations, to driving innovations for growth. In addition, Infosys acquired Base life science A/S, a
+consulting and technology firm in the Life Science space industry in Europe to scale its digital
+transformation capabilities with cloud-based industry solutions. Even more significantly, the Company's
+cloud capabilities have created the foundation for our clients to build their AI-first business.The
+immense potential of AI and more recently, advances in generative AI, we know from our own
+experience of rapidly evolving into an AI-first enterprise are not without their share of complexities.
+Several practical, ethical and intellectual property-related issues, when it comes to AI, remain
+,
+unresolved. We also know that the path to scaling AI in the enterprise is far from simple. And yet, the
+AI-first strategy we’ve embraced is already working for us. We have redesigned the organization to
+judiciously balance people, technology and process while also executing work by segmenting into
+cognitive tasks. Today, we are able to bring to our global clientele, the same ability to accelerate
+business value and amplify human potential using AI technology with Infosys Topaz™.
+While technology is core to everything we do, at its core, Infosys is a people company. Nurturing talent
+for the future is key to our continued success We spare no efforts to provide our employees ample
+opportunities to learn and grow, while assuring them of a safe workplace that is fair, rewarding and free
+.
+of discrimination and bias The well-being and intrinsic motivation of our very talented, diverse and
+multicultural workforce will propel us forward.We recruited over 50,000 college graduates in the year,
+.
+- 6 -bringing our total headcount to over 340,000 employees, of which 39% are women. Upskilling and
+reskilling them all for careers of the future is a top priority for us. Over the year, a training ecosystem
+enabled over 5.5 million learning days for our employees.Our people track and manage their own
+digital skills aided by a comprehensive score, Digital Quotient. Through accelerated learning, when they
+complete certified courses and gain substantial experience in the skill set or technology, they qualify for
+Skill Tags. As employees gather more Skill Tags, multiple career pathways into exciting technology
+spaces open for them within the Infosys ecosystem. Bridge programs and intelligent platforms like
+Accelerate and Marketplace automatically match employees with the roles of their aspirations.
+Matching a passion to deliver for clients and nurture our people is a commitment to the larger
+community. This is encapsulated in our shared purpose – to amplify human potential, and create the
+next opportunity for people, businesses and communities.It inspires us to be a sustainable business in
+every sense of the word. It drives us to nurture ambitious ESG aspirations, and to come together as
+One Infosys to realize it. From building a diverse workforce with strong, inclusive leaders to embracing
+positive climate change to helping our clients do the same and earning the trust of all our stakeholders
+through ethical corporate governance, we do our best to move us all forward.As a result of these
+efforts, and aligned to our ESG vision for 2030, we also continue to be responsive to the needs of
+society in new and innovative ways. As an example, digital skills taught through Infosys Springboard,
+Infosys’ flagship digital learning platform, is opening up a wealth of new opportunities for Brent
+Council’s business community in the UK, ensuring Brent businesses have the skills to thrive in the
+digital age. In a partnership with Harvard Business Publishing, students and young learners in India are
+now able to access resources including select Harvard Business Review articles, videos and podcasts,
+as well as 10 Harvard Management Mentor courses on Infosys Springboard. In the US, Infosys
+Springboard includes three learning tracks for the entire learner spectrum from K-12 through post-
+secondary and professional digital skills development.Today, we are empowering 8.5 million people,
+the world over, through our digital skilling initiatives.
+With mindful and planned efforts, Infosys continues to be carbon neutral for the fourth successive year.
+Through the work of Infosys Foundation we support a variety of social causes, including creating
+positive impact in healthcare, education, sustainability, and women empowerment. Internally within
+Infosys, our systems practices controls and procedures are well-governed not just to help us make
+effective decisions, but to comply with the law in letter and spirit, so we can effectively meet the needs
+and expectations of external stakeholders. This has always been the Infosys way.
+The digital transformation of every industry and every aspect of life over the last several years, has laid
+the foundations for the opportunities that are to emerge. Our clients trust us to enable them not only to
+make the right digital investments but to mine these to deliver greater value for them through the future.
+After all, Infosys today is ranked in the top three IT services brands, and among the top 150 most
+valued brands globally. The challenge to keep moving ahead in these particularly dynamic times no
+doubt is immense. But the opportunity, and our capability and confidence to harness it is tremendous
+too. We are well-prepared for the future that may be unpredictable, but it is also up to us to build. On
+behalf of the Board. I want to assure you that Infosys is geared in every way with its rich track record,
+dedicated workforce, strong capabilities, premium brand and a clear strategy to provide exceptional
+service and value to all our stakeholders. I want to thank all our employees, clients, co-founders, and
+- 7 -governments of the countries and states that we operate in for their unstinting support over the years.
+Infosys has gone from strength to strength because of your backing. And to each of our shareholders, a
+a big thank you. Your commitment to Infosys, the people we serve and the businesses we drive,
+inspires us to bring our best to work for you every day. Our sincere thanks to all of you.
+CEO’s address – Salil Parekh
+Good afternoon, good evening, all of the shareholders. Welcome to the Annual General Meeting. Over
+the next few minutes, I will share with you an update from our business perspective how the year was.
+We've had in this year a strong performancein a changing, evolving dynamic environment, and we
+have some leading capabilities in generative AI that I will also reference in the discussion.
+First, in terms of the year, we had a good growth over 15%, our digital business grew very nicely at
+25%. Our clients, which are over 100 million in revenue annually, were at 40. So good metrics and
+good dimensions to see the growth of the business. The operating margin was strong at 21%. And we
+had free cash flow of two and a half billion US dollars. We also had a good set of large deals, very
+strong 95 deals, each over 50 million in size, and the total of that at 9.8 billion, with 40% net new which
+helped us in building the foundation for the years to come. On the large client relationships, we have
+seen steadily growing numbers, 40 in the previous financial year, 38 before that, and 32 before that.
+As we look at our industries, we had good growth across most of our industries. In fact, all of them were
+growing. A very strong performance in manufacturing and energy utilities. We are also good
+performance in retail and the communication sector.
+Our employee base continues to expand at over 340,000 at the end of the year in March 2023. And of
+that, we also had a continued strong recruitment of college hires across the world, but more in India at
+over 50,000 college hires.
+If I look at the financial performance, and we want to share this in rupees, each of our metrics, if you
+look at total revenues, this is in rupees a growth of 20% net profit, very solid, operating profit, very solid.
+We saw the operating cash flow and the free cash flow reducing from previous years, but at a very solid
+level, given the dynamic nature of the industry and the macro-economic environment last year.
+In terms of our Balance Sheet, we continue to remain strong, debt-free and liquid. And that Balance
+Sheet is really the foundation of how we can position ourselves as a company into the future.
+When we look at total shareholder return across five years, we've had a strong performance both
+between the share price increase and the dividend yield. In addition, we have returned over the last
+four years, over ₹69,000 crore to shareholders between the buyback and the regular dividend in each
+of the last years. This is very well-aligned with the policy that we had put in place. This represents just
+approximately 86% of our free cash flow in that past four financial years. Our total shareholder return as
+- 8 -we compare with other peers stands very well as we look across the period of December 17 to March
+23.
+Now one of the things we've been focused on over the past several years is building out deep
+capabilities, especially in the digital space. We had put together a strategy representing the pentagon
+with different elements of digital. Today, we are really delighted that we have a leader capability in 56 of
+these categories when we look at different external agencies, which ranked various companies on their
+digital ratings.
+One of the most significant moves we've had in the past year, year and a half, two years was the push
+on the cloud. And that has been really the launch of Cobalt, which combines all of our cloud
+capabilities, whether it's infra as a service, software as a service, platform as a service, and in fact,
+software partnerships which come from many of these cloud providers.
+We have built tremendous capabilities on our own with our partners. And today, we are in the leading
+position of driving cloud-driven business innovation, which supports the transformation of our clients
+when they go on to the cloud journey.
+More recently, we have launched Topaz™. Topaz™ is really encompassing all of AI and especially
+generative AI capabilities. In generative AI, we have created leading capabilities using large language
+models, which are open source by nature, large language models, which come from different
+companies. We have today 50 active client projects where we are using generative AI. And this is
+becoming an increasing part of the new world, which is going to be defined on an AI-first basis.
+Here, we've also built a very strong group of ecosystem partners, which we work with on AI and also on
+generative AI. It’s not just generative AI, it's on AI operations on vision areas, several AI startups and
+the hyperscalers and how they are leveraging the AI capabilities. We believe this is really the
+foundation Topaz and generative AI offer large transformation, which will go into the future as the world
+changes and leverages AI and generative AI.
+One of the most critical reasons why we've had a strong performance this past year and over the past
+few years, is the concept we put in place of One Infosys. Here, all of our employees work directly for
+the benefit of our clients across all boundaries, departments, function. We are both focused on new
+transformation work and making sure that all of the work is getting delivered to our clients, leveraging
+all of that capability as one single Infosys, keeping the clients’ interests first in our mind.
+With that, I will conclude. First, the financial year 2023 was a strong year for our business. We have
+positioned the Company to work with our clients for digital transformation, but also more and more as
+they look at cost efficiency and the automation programs. We have developed a strong set of
+capabilities in generative AI, and overall in an AI-first approach via Topaz™. We have already
+extremely strong capabilities on cloud, which is based on Cobalt, which our clients are leveraging. And
+One Infosys is really the foundation of all of this work that we do within the Company and for the benefit
+of our clients. I want to in conclusion, thank you all of our shareholders, for your continued trust and
+support in the Company. With this sort of a foundation and your trust with us, we see a future which is
+- 9 -successful future for Infosys, working with more clients and enabling more of our employees for a future
+in an AI-first technology-driven world. Thank you. And back to you, Nandan.
+Nandan Nilekani
+Thank you, Salil. I now request Manikantha, the Company Secretary, to provide a summary of the
+auditor's report.
+
+A.G.S. Manikantha
+Dear shareholders, thank you for joining our 42nd AGM today and for taking time to participate in the
+proceedings. Before we go live with the Q&A, here are some points to note for your convenience. When
+your name is called and you're projected on the screen, please mention your name, folio number and
+the location from where you're joining and proceed to ask your question. Each shareholderwill have
+two minutes for their questions. To avoid repetition, the Board will respond to all the questions at the
+end. Once you have asked your question, you can switch to watch the proceedings. The Board will be
+taking questions from shareholders in two or three sets, depending on the number of questions on the
+video.
+With that, I will request the first shareholder, Celestine… Celestine, kindly go ahead and ask your
+question, please.
+Celestine
+Okay. I want to just greet [unclear audio] non-independent promoter Mr. Nandan M. Nilekani and, MD
+and CEO, Salil Parekh, other Board members, my fellow shareholders attending this e-meeting. I am
+- 11 -Mrs. C.A. Mascarenhas. I am speaking from Mumbai. First, I thank the Company Secretary, A.G.S.
+Manikantha and his team for sending me an e-annual report and also registering as a speaker at my
+request. Thank you so much, and giving me this beautiful platform, where I can interact. I come to the
+Annual Report, very exhaustive, but self-explanatory adhering to all the [unclear audio] corporate
+norms. The working is very good, there is no any, it is par excellence speaks, market capitalization
+speaks, dividend of ₹34. Also with it, buyback in the open market it amounts to, I don't know, 86% of
+the free cash flow. What a wonderful company! Now I congratulate for all the awards, all our documents
+in the annual report. Congratulations, which to say 10 times, for obtaining ESG corporate award and we
+got Platinum Award. I am reading so many Balance Sheets, I'm not able to find this sort of award, I
+don't know, Infosys, I am so pleased, very, very happy. We are recognized by… top performer in 2023
+by Sustainalytics. And, also our company has topped the charts of ESG leadership rankings and was
+featured in the Crisil Sustainability Yearbook 22 for the second consecutive year. Keep it up, very good.
+I would like to know that we are in some international ESG list, platform listed there if you could throw
+lights. Now the currently, the changing what is our motto like, changing game with intelligence. How
+much is invested, how much like total, I want total percentage in AI, our level in metaverse, machine
+learning, any acquisition of any companies which are seasoned in this field, throw some light. I don't
+want to ask many questions because ESG is covered and then all that CSR. So all is told, and there's
+full report on…How many employees are in the design operations, how many are in the [unclear audio]
+sector, and what is the attrition level? Also, total attrition level on the whole and if it is high, how do we
+plan to keep our staff so that they don't do hop here and there. Next is, Infy has grown from strength to
+strength and I feel still the best is yet to come. This is not over, it has grown and it is best going to
+come. So, I don't want to ask further questions, I want to sit and take [unclear audio] in the way of
+acquisitions, in the way of dividends and in buybacks. With this I support [unclear audio] I wish my
+Company all the best. Especially, I wish all the Infoscions good health because health is [unclear
+audio]. Once again, I say thanks to the entire team for giving this patient hearing.
+A.G.S. Manikantha
+Thank you, ma’am.
+May I now request the next shareholder, Mr. Shailesh?
+Shailesh, Sir, kindly go ahead and ask your question.
+Shailesh
+Yes, Sir. Respected Chairman, distinguished directors, the management team members and the
+members of Infosys.
+Sir, let me first congratulate the entire Company for getting one more year of excellent results
+financially and in all other activities. Sir, the presentation by the Chairman was excellent. And it was
+further supplemented by the Managing Director. Sir, I have become wiser, as far as our company’s
+working is concerned and more satisfied than what I was. Now, I wish to also appreciate the services of
+- 12 -the secretarial department, which has enabled me to participate in this meeting. Sir, with this, I would
+like to ask two or three questions. Sir, my first question is that there are frequent changes in
+technology, particularly in recent times, and this trend is likely to continue. Sir, what I would like to
+understand is how fast our employees get adjusted to this changing situation in such a fast way. Are we
+encountering any problem in this particular situation? Sir, my second question is regarding the world
+economic growth, which is likely to remain low in the current year also. Sir, our business has a direct
+relation with the GDP, world GDP. Sir, my question is that I'm sure some of our businesses must have
+also been affected, not canceled but delayed. Sir, what I would like to know is which of the verticals of
+our business has remained unaffected or least affected and which vertical has been affected to the
+maximum. And Sir, my last question is regarding the security, cyber security. Our business is so very
+sensitive and data preservation etc. is extremely important. And we also hear many cases that this
+safety and security is breached. Sir, what I would like to know is what steps we are taking in this
+particular field. And Sir, lastly, before I end, I would like to appreciate the excellent work being done by
+Infosys Foundation under the leadership of Mrs. Sudha Murty. I would also like to add that all our
+promoters in their individual capacity also, they are working to the society in a very big way. Well, the
+nation is proud of all of you. And I hope you will continue to make the progress as you have been doing
+in the last so many years. With all this, my pranaam and best wishes to all of you.
+A.G.S. Manikantha
+Thank you, Sir.
+May I now request the next shareholder, Shrenik Mehta.Sir, kindly go ahead and ask your question.
+Shrenik Mehta
+[Missing audio] Mehta from port city of Jamnagar. Age-wise, I'm 70+, and I'm a minority shareholder.
+Academically I am M.Com LLB, advocate, and I'm a long-term investor in share market also, as well as
+I'm a sub broker on NSE. That is my short introduction. My DP ID is IN30097410028000.
+Our beloved Chairman, Nandan Nilekani Saheb, Salil Parekh Sir, the Board of Directors, Mr.
+Manikantha, our Company Secretary and his secretarial team. First of all, I would like to convey my
+thanks to all of you for giving me an opportunity to speak at the 42nd AGM. My questions are: Sir, it is
+said by our very good, loved Motilal Oswal Financial Services, share market ke baare mein bola jaata
+hai, bhaav Bhagwan hai. [It is said about the share market, that price is God]. If so if I translate into
+English, shaayad [maybe] Nandan Nilekani doesn't know Gujarati, price is like, for share market, price
+is like a God. Now I am coming to the Infosys. From all-time high, today, our Nifty has again touched
+back. And IT index is minus 8% whereas our Infosys price are minus 22% as on today. That much
+underperformance, Nandan Nilekani, Salil Parekh Sir, and Manikantha, our company's price has done.
+And [unclear audio], I have put much more weightage in my total portfolio of my total holding. So it is
+quite concerning to me.
+Now, let me come to second point. Sir, during last three-four AGMs, me and other shareholders are
+requesting the Board of Directors to do buyback through tender route. Then again also, after so many
+requests, you have not accepted our request and last buy back was through open market operation.
+So, we don't get direct benefit. Now Manikantha, question to you. If I'm not mistaken, from 1st April
+- 13 -2024, recently Sebi has passed an order that from 1st April 2024, all buyback will be through tender
+route. Kindly confirm whether my understanding is correct or not, because personally, me and my
+Jamnagar Chamber of Commerce have represented to SEBI that buyback should be compulsorily by
+tender route, not by open market operations. Kindly confirm in your answer.
+I think dividend policy, I think 85% you are returning back, so, I don't have much question about it.
+But now, Mr. Salil Parekh and Nandan Nilekani. What about organic growth and inorganic growth for
+future? About Salil Parekh’s address, much talk about artificial intelligence but as I'm a student of
+commerce and law, I don't understand much but as a shareholder, I would like to know, will artificial
+intelligence support our working or it will distract our working? Please throw some light in simple
+language, who can understand, a student of commerce and law.
+Manikantha, now question is to you. Every time, I have to cast my vote through these my demat
+account. When I go, that NSDL site shows my email and my mobile number is not registered. Then I
+lodge a complaint with my deposited participant, Marwadi Shares. They say we have already registered
+your number. Then I lodge complaint with NSDL. They say we have also registered your mobile
+number and email id perfectly. Toh bola problem kahaan hai, Sir? [Sir, where is the problem?] So, why
+e-voting site says so? Uske kehne ka matlab yeh hai, NSDL ka. [What the NSDL is saying is…] I got
+reply from NSDL, ke jo aapka transfer agent hai, transfer and register, KFin Tech, woh puri tarah se
+hamara data uthathe nahin hai. Iski wajah se aapka email and mobile number does not show. [Your
+register and transfer agent, KFin Tech does not take the data completely. This is why your email and
+mobile number do not show] while you want to do e-voting. Phir unhone koi special password bhi de
+diya. [Then they gave me some special password.] Then I was able to cast my vote and register myself.
+And last point, Sir, you are doing so much of Corporate Social Responsibility work. I'm from Jamnagar
+district. It is my humble suggestion that do some corporate social responsibility in my district of
+Jamnagar, in consultation with Member of Parliament, Mrs. Poonamben Maadam. Thank you for giving
+me an opportunity and as a shareholder, I'm quite happy. But, my price, share price of Infosys are not
+going and you are not doing buyback by tender route. So, these are my two grievances, please. Thank
+you all.
+A.G.S. Manikantha
+Thank you, Mr. Mehta. Now, may I request Mr. Kaushik. Kaushik, kindly go ahead and ask your
+question.
+- 14 -Kaushik
+Yeah. So good evening, everyone. I am honored to have the opportunity to speak with you all today. I
+want to start by thanking the Board of Directors for giving me this chance to addressyou all once again.
+As many of you will remember, my name is Kaushik Sowcar, and I'm a chartered accountant from
+Mumbai. I have been facing physical challenges due to dystonia, which has affected half of my body
+paralyzed, impacted my right hand, my right leg and speech. However, I have not let this challenge
+impact my passion for accounting. However, I do need your support to continue to be self-reliant. I have
+been reaching out to you for last few years. But it seems that my request has gone unheard. I
+understand that you may be having been busy with other things, important things. But I would like to
+know the reason why my request has not been given the attention it deserves. I want to make it clear
+that I'm not looking for any freebies, free money. I'm simply asking for help to ensure that I continue to
+work to the best of my abilities. As a practicing chartered accountant, I value independence and self-
+reliance, and I hope that you can appreciate my desire to maintain the independence. Thank you for
+considering my request. I strongly believe that with your support, I can make significant contribution to
+our organization and positively impact society. I eagerly await your response and sincerely appreciate
+the time and attention you have given me today. If you're interested and willing, I would greatly
+appreciate the opportunity to meet you in person. Thank you. Thank you so much.
+A.G.S. Manikantha
+Thank you, Mr. Kaushik. Now, may I request Mr. Santosh? Santosh, can you kindly go ahead and ask
+your question?
+Santosh Kumar Saraf
+Maananiya aadyakshji, upasthith netayein and sadasgan, adhikarigan, aur mere shareholder bhaiyon
+behenon, jo aaj video conference ke through present hai, main Santosh Kumar Saraf se, aap sabhi ka
+namaskar karta hoon. Aur visheshkar hamare Manikantha ji ko bhi namaskar karta hoon, jinke ache
+[unclear audio] aur unke team bhi bahut ache hai, unko bhi dhanyavaad deta hoon.
+[Respected leaders, Board members, and fellow shareholders, who are all present on video conference
+today, namaskar from me, Santosh Kumar Saraf. Namaskar also especially to Manikantha and team
+and thanks to them for enabling this.]
+Sabse pehle dhanyavaad deta hoon, Sir, is saal aapne jo [unclear audio] jo dividend diya hai, who high
+dividend hai, iske liye dhanyavaad deta hoon. Doosra, Sir, main aapko iske liye bhi dhanyavaad deta
+hoon ke aapke yahan 39.4% women employees hai, out of 3,40,000. Aur iske saath dukh is baat ka
+hain ki women employees toh 40% hai, female directors sirf 12% hai. Toh main chahunga future mein
+ek director aur laake isko kam se kam aage badhane ka koshish karenge. Jaise aapne kahaan women
+empowerment ke liye aap kaam kar rahen hai, toh directors ke andar women empowerment nahin dikh
+raha hai. Iska dhyan rakhenge, Sir.
+- 15 -[First of all, thank you, Sir, you gave high dividend this year, thank you for this. Secondly, I would also
+like to thank you because Infosys has 39.4% women employees out of a total of more than 3,40,000
+employees. But, it is also sad that even when women employees make up 40%, female directors on the
+Board is only 12%. So, I hope that in the future, you will hire a woman director to increase this. You
+said you were working for women empowerment, but this women empowerment is not seen among
+directors. Hope you will keep this in mind, Sir.]
+Sir, last year, aapke active clients 1,872 hai, Sir, Toh isme abhi new client kitne hai? [unclear audio]
+Agar aapke pass report hai, toh batane ki cheshta kariyega Sir.
+[Sir, last year, you had 1,872 active clients. How many of these were new clients. If you have the
+reports, please share with us.]
+Sir, how many employees work from home? Percentage kya hai, unke numbers kya hain jo abhi work
+from home kar rahe hai, Sir? Aur Sir, iske saat mein yeh hai, Sir, ke aapke yahaan jo buyback jo aapne
+kiya, uska value, how many billion? Aapne highest price mein, 1539 mein buyback kiya Sir lekin
+humein mila nahin, milta toh aaj humein kaafi help hogi. Toh future mein, hum chahunga Sir aap
+buyback jab bhi karen, toh is route se karen, tender ki route se, jaise Wipro wale kar rahen hai. Usse
+aap actual benefit jo shareholder ko dena chahenge, who unko milega. Otherwise kya hain ki
+immediate jo sell karte hai, unko mil jaata hai. Hum jo bache long-term investors, jo aapka shares
+bechna nahin chahte hain bazaar mein, who loser hote hai. Sir, iske baare mein zaroor vichar kariyega.
+[unclear audio] Zaroor vichar kariyega, jo aapke loyal shareholder hai, woh toh bazaar mein maal
+bechte nahin hai. Actually, unko tender ki through agar milta hai, toh benefit hota hai, otherwise benefit
+nahin hota.
+[Sir, how many employees are working from home. What is the percentage of those who are currently
+working from home? Also, Sir, what is the value of the buyback you have done? Your buyback was
+done at the highest price of 1,539 but we didn’t get it. IF we had got it, it would have been good. In
+future, I hope you will do the buyback through the tender route, like Wipro does. By doing this, the
+actual benefit that you want to give shareholders will reach them. Else, whoever sells immediately will
+gain. For us, your long-term investors, who don’t want to sell in the open market, we become losers.
+Sir, please think about this because your loyal shareholders, they won’t sell in the open market. If they
+get it through the tender route, they will benefit. Otherwise, they don’t get any benefit.]
+Main zyaada say nahin loonga. Sir, main yeh chahunga ki is saal kitne new employees aapne add kiye
+hai, unke numbers kya hain aur Sir, unke female percentage kya hai. Zyaada samay nahin lete hai, ek
+baar phir hamare jitne bhi director hai, jitne bhi adhikari hain aur jitne bhi shareholders jo video
+conference pe hai, unko aur unke parivaar ko shubhkaamnayein deta hoon. Aur Bhagwan se prarthana
+karta hoon, jo 2023 ka financial year hai, who sabhi ke liye healthy, wealthy, prosperous ho. Ek baar
+aur Secretary and unke team ko dhanyavaad deta hoon, unke kadhi mehnat ki kaaran, dry run ki
+kaaran hum meeting attend kar sakte hai. Namaskar.
+- 16 -[I won’t take too much time. I would also like to know how many new employees were added this year,
+and what was the percentage of female employees among them? I once again wish the people on the
+call and their families all the best and wish the financial year 2023 will make them healthy, wealthy and
+prosperous. Thank you once again to the secretarial team, whose hard work, and dry runs, helped us
+participate in this meeting. Thank you.]
+A.G.S. Manikantha
+Thank you, Sir.Thank you, Mr. Santosh. Now, may I request Mr. Dharav?Mr. Dharav, can you kindly
+go ahead and ask your question?
+Dharav Jamedar
+Yeah. Good evening and greetings of the day to the respected Chairman and all the Board members of
+the company. My name is Dr. Dharav Jamedar. I'm from Surat, Gujarat. My DP ID is IN303028. First of
+all, I would like to congratulate each and every stakeholder of my Company on performing
+tremendously well, outperforming the peers and posting robust numbers, both on Q-o-Q and Y-o-Y
+basis. Sir, every year it is an honor and a memorable moment to get an opportunity to have an
+insightful conversation with you on different aspects. I would also like to acknowledge and appreciate
+the efforts of corporate secretarial department. Some of my questions which I would request you to
+address are first, apart from the cloud capabilities and differentiated digital services, which segment
+might be the third pillar to the stellar growth in the coming years. Second, what is my Company's
+strategy of maintaining higher ROE despite suffering from the issue of lower margins? Third, how is my
+Company going to improve its free cash flow conversion in this particular fiscal year? Fourth, apart from
+leveraging more on generative AI capability, what are the steps that my Company is taking to improve
+the productivity within the company?Fifth, considering the company's BFSI segment has only 2%
+exposure in USA’s regional banks, which segment of yours do you think shall be highly and which
+segment will be least impacted by the case, case being that US goes in recession? Six, what according
+to you, shall be the role of IT services five years down the line factoring in all the recent developments
+of AI and many such things related to it? Seven, what steps has my company taken for the well-being
+of its employees in this last fiscal year? I wish all the best to my Company for this current fiscal year.
+Thank you, Sir.
+A.G.S. Manikantha
+Thank you, Mr. Dharav. Now, may I request Ms. Shruti. Ms. Shruti, kindly go ahead and ask your
+question.
+Shruti Saraogi
+Good afternoon, respected Chairman Sir, and members of the Board. I am Shruti Saraogi, a proud
+shareholder of Infosys, folio number 300693 joining in from Kolkata, and a member of the Kolkata
+chapter of Millennium Mams. I have two questions, Sir. An important part of our operations is human
+resources. As we know, there is a shortage and attrition rates are high in the industry. Do you think it
+- 17 -would be a good HR policy to provide accommodation? Theoretically, if we put up a campus in Mysore
+with the new Mysore-Bangalore highway, the distance is only one hour. This could be on the lines of
+the GIFT city in Gujarat, where all facilities are available. This would help reduce attrition rates. Please
+share your views on that. Secondly, about AI replacing humans in many work areas and being a
+threat. On which side of the opinion spectrum are you and why? Thank you so much, Sir.
+…
+A.G.S. Manikantha
+Thank you, Ms. Shruti. Now, may I request Mr. Om Prakash? Mr. Om Prakash, kindly go ahead and
+ask your question.
+Om Prakash
+Yeah, right.Thanks to our secretarial team for helping me register as a speaker shareholder. Sir ji, this
+is my first AGM only due to virtual. Thought I am your very old shareholder, it is just an opportunity for
+me to speaks and join this AGM virtually sitting in Kolkata. New technology ka kamaal hain Sir ji. [It is
+the magic of new technology, Sir]. If possible, please follow this type of virtual AGM in next year also.
+Sir ji, what a performance! Mind-blowing performance! Iske liye aapko, aapke sabhi Board of Directors
+ko, aur employees ko bahut bahut dhanyavaad. [For this, thank you and Board of Directors and
+employees too.]
+- 18 -On equity of ₹2,074 crore, our total income is ₹127873 crore, matlab [meaning] one lakh twenty-seven
+thousand eight seventy-three crore on a standalone basis and our net profit is ₹23,268 crore. It means
+EPS is ₹55.48, 10% more than previous year and dividend is ₹34, means 62% distribution of net profit.
+Very good distribution Sir ji. Thank you once again. You are an Indian MNC. Beauty of our Company.
+Our total income is increasing every year. Our net profit is increasing every year. Our EPS is increasing
+every year. Our dividend is increasing every year. And our equity is decreasing every year. This is the
+beauty of our Company. Ek shareholder ko aur kya chahiye, Sir ji? Bahut bahut dhanyavaad iske liye.
+[What more does a shareholder want, Sir? Many thanks for this.]
+Sir ji, today my dream come true. Today, I’m interacting with a scientist, an innovator, a good human
+and a donor. Mr. Nandan Nilekani Sir. Sometime back, I came to know from media that you donated a
+good amount of money to IIT Mumbai. Acha laga Sir sunke. [Felt good to hear that, Sir.] It will be
+helpful in developing a new crop of students. You developed Aadhaar card, which is helping today our
+country too much. Thank you, Sir ji.
+Mr. Salil Parekh, you are also a great person, you are helping our country in several ways. You
+developed new software for our Income Tax department, which is working well today. Sir ji, ek-do
+question hai. Driverless car – How much it has been developed? Second: Artificial intelligence, which is
+also called AI. Unemployment increases after 2-3 years. How it will affect human life, means what is its
+side effects?Third, any modification in guidance? Previously, you have given downward guidance.
+You have sent your new contracts 2-3 times back. Iske baad aapke guidance mein kuch change hua
+kya? Iske liye thoda sa bataiyega. [After this, is there a change in your guidance, please tell.]
+Thank you. Thank you, Sir ji. At last Sir ji, please maintain your smile and be cheerful. We are always
+with you as a long-term investor. Thank you. Thank you.
+A.G.S. Manikantha
+Thank you, Mr. Om Prakash. May I now request Srirama Vinoda Adilakshmi? Ma’am, kindly go ahead
+and ask your question.
+Srirama Vinoda Adilakshmi
+Good evening, Chairman Sir and members of the Board. I'm a member of Millennial Mams, Bangalore
+Chapter, and a proud shareholder of Infosys. I would like to ask you two questions. My first question is,
+recession is looming large in America. It is affecting revenues, given that the North American business
+grew only 6%. Sir, in this condition, what is your view about Infosys in the next three years? And my
+second question is how is Infosys investing in employee upskilling and reskilling to adapt to emerging
+technologies and meet changing client demands? Thank you.
+A.G.S. Manikantha
+- 19 -Thank you, ma'am. May I now request Mr. Hiranand Kotwani? Sir, kindly go ahead and ask your
+question.
+Hiranand Kotwani
+Thank you. Thank you. It's great pleasure to join you, Infosys. Highly respected and humble, our
+Chairman and other dignitaries attending this meeting. So many questions have been asked, nothing
+more to add. Just one question to Mr. Chairman, because his address was too good. And Salil has
+already given us a picture. The question remains not to ask. But, certainly I have one question
+regarding to the fluctuation in dollar. Mr. Chairman, what is the contingency plan, if the dollar crashes?
+How you will see the future growth of industry, particularly IT, globally? How the growth and future of
+our organization will be? Thank you and good luck ahead.
+A.G.S. Manikantha
+Thank you, Mr. Hiranand. May I now request Mr. Alex? Mr. Alex, kindly go ahead and ask your
+question.
+Alex Punnen
+Good afternoon, everyone. Good evening, everyone. Thanks for this opportunity. So I am Alex Punnen
+joining from Bangalore. I’m a minority shareholder, actually. So I’m also a software developer for
+around 20 years. So my question is related, something related to generative AI. I had to ask this
+actually, I couldn’t sleep. So basically, I’ve been using this and I know the power of this actually. So it
+increases productivity by around 30 to around 90%, depending on how it is used.So, the thing is that,
+which Chairman Nandan Nilekani Sir and Salil Parekh Sir have told about Infosys Topaz™ and
+- 20 -externally how clients are using it and are needing that. But, my question is internal looking. So if you
+don’t adapt to this, this is going to be a threat, actually to our Company, actually. So maybe this is
+already getting reflected in the market. I’m not really sure. But what is the plan, short-term and long-
+term of Infosys in leveraging this technology for increasing productivity and quality? And, there are a lot
+of implications to this. So what is our Company doing related with this? So it’s a hard question, but I
+had to ask this because, yeah, this is on top of my mind, actually. But thanks once again, for this
+opportunity.
+A.G.S. Manikantha
+Thank you, Mr. Alex. Now, I will request Mr. Athanu Saha. Athanu, kindly go ahead and ask.
+Yes. Namaskar.Good evening. And also good early morning to our world. Because Infosys it works
+never sleep. Sir, I Athanu Saha, a shareholder of Infosys. My respected Chairman, and Board
+independent directors, andmy Company Secretary and his total team, and all personalities and all my
+shareholders present in this virtual meeting.
+Sir, I thank you that I get this opportunity to speak. Sir, today, it’s 28 June, 2023. Our company
+organizing its 42nd Annual General Meeting. Sir, previous shareholders, they arise number of questions,
+so not necessary to repeat. So, my just two or three questions. How many MSMEs participated in this
+year? And how Infosys manage its Metaverse Foundry and explain cost of sales in this financial year,
+and how we do return and returning to green initiative and sustainable all developments? And how our
+companycombat with climate change situations? Dhanyavaad. I, Athanu Saha, with a good year
+ahead, with good result, and good health to everybody. Now, I am hand over to our moderator. It’s
+Infosys, which Navigate our Next. Dhanyavaad. Namaskar.
+A.G.S. Manikantha
+Thank you, Mr. Athanu Saha. Now, I will request Mr. Sadananda Shastri. Sir, kindly go ahead and ask
+your question.
+Sir, kindly unmute and ask your question.
+Hello.
+- 21 -Hello.
+Sadananda Shastri
+Good evening, I'm Sadananda Shastri from Bangalore. My number is 11702201.
+First of all, I thank the Board for having given a nice performance. But however, a profit growth of
+growth is 1,962 crore, which is lesser than earlier years. I'm sorry to say shareholders are losing
+dividend benefits in the form of TDSthat even though they are not liable for it. It may be due to lack of
+the guidance from the Company's team concerned. Lot of confusions are being cropped up in
+submitting Form 15 H. What particulars he coordinators team is required, we do not know. Neither they
+will disclose it nor rectify it. With this, I have lost many thousands. During our earlier years, proper
+t
+guidance from the team is needed, Sir. Sir, I will go by page-wise from the report, purely from the
+report, I will not deviate anything. [Unclear audio]
+Report page no.19, in revenue geography, India has secured the least place – 2.6% How do you uplift
+this? Is there any negligence in the Indian market?
+Page no. 22, in the column Term Ending Date of Chairman, you have used the abbreviation NA. How
+do you justify the word NA when all other directors are having ending date? Is the word NA
+appropriate?
+Page no. 45, it is pitiable to note revenue growth is negative of 0.4. How the company will bring it up to
+positive in the current year?
+Page no. 46, you have said 1,357 employees disclosed their disability. What is its meaning? Does it not
+affect the image of the Company?
+Page no. 58, Board’s report, an excellent amount of income of 268 crore is taken out from profit
+towards comprehensive item to make round the other figure to 23,000. What is this item, Sir?
+- 22 -Page no. 163, in transfer of reserves, it is said that you have not transferred any amount to reserves.
+Does it not speak about the stability of the company?
+Page no. 66, that is resignation of directors. Many stalwarts like Mrs. Kiran Majumdar, Mr. Ravi Kumar,
+Mr. Mohit, etc. are leaving the Company. How do you safeguard the image of the Company?
+Page no. 70, out of 98 subsidiaries, some like Unit 15 – Shanghai, 33 – Base life, 38 – Malaysia, 53 –
+Turkey, 88 – Germany, are incurring loss. How do you struggle hard to bring these to a positive line?
+However, Panaya is shining now, thank you very much for that.
+Page no. 81, in the remuneration of managerial personnel, 287 crore, more powerful [unclear audio]
+profit. Why can't the personnel adopt the ethics and follow the other company's CEO sacrifice in the
+interest of company first as well as company's employees?
+Page no. 83, congrats for the company’s second place in top 10 in remuneration. In what way this rank
+benefits to the Company? Do we see first rank in the next year?
+Page no. 219, Balance Sheet, why there is a large variation in investments in standalone and
+consolidated, that is, 23,686 crore versus 12,569 crore.
+Lastly, page no. 301, in other expenses, 130 crore increase in credit loss. Can the company adopt
+strategies to reduce interest to nil, whether this would be a hit for the current year profit? Thank you
+very much, Sir. See you next year inour Bangalore only, in a physical meeting. Thank you very much.
+A.G.S. Manikantha
+Thank you, Mr. Sadananda Shastri. Now may I request Mr. Manoj to kindly go ahead and ask the
+question.
+Manoj Kumar Gupta
+Hello. Hello. Can you hear me?
+Manikantha
+Yes, Sir, we can.
+Manoj Kumar Gupta
+Good evening.Good evening. Respected Chairman, Board of Directors, fellow shareholders. My name
+is Manoj Kumar Gupta, I've joined this meeting from my residence, Kolkata.
+- 23 -First of all, I thanks to you and your team for the excellent result of the Company for the year 2022-23.
+But I have a great respect to you, Mr. Nilekani. But I could not recognize you, after seeing you today
+through VC. That is, last five years, everything has changed. Your hair has become white. Because
+when I meet you five or six years back in Delhi, you looked like as a young man. Today, your age is
+saying that you become between 60 to 70. But anyway, I wish to God for your healthy and prosperous,
+safe long life. And thanks to our MD, Mr. Parekh, whose nice presentation that the shareholders will
+inspire and the market will boost tomorrow because on his presentation. He has given a nice
+presentation. And thanks to Mr. Manikantha and his team for their excellent job to [unclear audio] the
+small shareholders, to help the small investors to join this meeting through VC. Such type of people
+should be in the corporate sector that can help the people too. Please convey my best wishes to our
+founder, that his son-in-law has become the PM of UK. Because I know that one thing, those have
+ruled on us for 200 years. Now we have got a chance to rule on them, after 200 years. So, please
+convey our best wishes to him. That his son-in-law has got success, ultimately, to be PM. And, thanks
+for your dividends, Sir.
+And what's your policy for CSR? Have you any plan to expend some amount in this part of the country
+to do something for the community and the society under the CSR? And, Sir, there was a media report
+some days back after the close down of the work from home, several young generation people
+tendered their resignation in TCS and Infosys. Sir, what is the status, how many people have tendered
+their resignation, after shutdown of window of work from home. And Sir, have you got any other work of
+the government like the Income Tax? Have you any plan to bid to get further job of the government of
+India or any state government?
+And I have no plan to say of the cybercrime itself. Have you any plan further to launch any buyback and
+plan for new campus in northeast? Northeast is growing up after become the anti-government. So, think
+about that to launch some new campus in Northeast to give a young generation chance to take a
+campus.
+Any plan to split the shares, increase the liquidity in the market? Sir, have you any plan to tie up with
+the IRCTC for railway work through Infosys? Thank you, Sir, once again, thanks to your Company
+Secretary and his team for their support to the small investors to help join this meeting through VC.
+Namaskar.
+A.G.S. Manikantha
+Thank you, Mr. Manoj.
+May now I request Mr. Ashish to kindly go ahead and ask the question?
+Ashish
+Respected Chairman and Board of Directors, firstly, I thank the Company Secretary to connect this
+AGM today.
+I hear the news about the employees working at home three days and three days in office. [Unclear
+audio] Why are we working at home?
+Also, you have gone for buyback. You are going to the open market. Why are you not going through
+tender offer route? Small shareholders can participate. I cannot understand that point, Sir. Please clear
+it. Also, I have given my vote. I do not want to take your time. If you can reply to my queries by name, I
+am thankful to you. Thank you so much.
+A.G.S. Manikantha
+Thank you, Mr. Ashish. Now, I will request Mr. Keerthi Shah.
+Keerthi Shah
+Chairman Sir, my name is Keerthi Shah. Good afternoon. You are showing a steady performance every
+year. Last quarter also, you have a turnover of ₹32,000. This quarter also it is ₹30,000 crore and
+profitability is also ₹6,000 crore, same. What is your plan for the future? Revenue will be increased. Net
+profit will be increased. What is your future plan? Why steady growth only?
+Chairman Sir, I have sent you so many emails. But you are not replying with full details. Why?
+Chairman Sir, you have to follow corporate governance. You are not following corporate governance,
+Sir. Kindly, I expect you are now following the corporate governance. I will remind you once again.
+Kindly follow the corporate governance and then reply in full detail to my email. I wish you all the best.
+Thank you very much.
+A.G.S. Manikantha
+Thank you, Sir. May I now request Mr. Redappa?
+Mr. Redappa, kindly go ahead and ask your question.
+Redappa Gundluru
+Thank you. Thank you. Thank you.
+Mr. Nandan Nilekani Sir – dynamic leader, Aadhaar chairman, my company’s backbone. Thank you.
+Namaste Sir.
+Salil Parekh ji, Nilanjan Roy ji and Manikantha ji, and all the other directors, independent directors,
+auditors, scrutinizer of this AGM and my fellow shareholders of this video conference. Good evening.
+Namaste. Sir, my name is Redappa Gundluru. I'm from Hyderabad. I'm a financial advisor with the
+Motilal Oswal. Sir, as a shareholder, I'm very happy about the company’s performance for financial year
+2022. As usual, Sir, thank you so much. Chairman Sir, you have given very good speech about my
+company’s performance during the last financial year. I would like to share my experiences about the
+physical AGM. Nandan Sir and Salil Sir, you are both the backbone of my company. I have very good
+memories and very good photographs from physical AGM 2018-19. Nandan Sir is a very good person. I
+have requested for a photograph, and he immediately accepted. He asked the security people to allow
+and took the photograph. It was a wonderful moment of my life, Sir. Thank you so much. That's the
+reason I'm waiting for this AGM for the last one year. Thank you so much.
+Sir, I would like to thank this corporate governance. Earlier, a shareholder spoke about the corporate
+governance. I'm not agreeing with that. Our corporate governance is very wonderful. Ethically,
+accountability, transparency of accounts, everything is there, Chairman Sir. Please keep it up and
+special thanks and kudos to my Company Secretary, Manikantha and all the KMPs of my company.
+Nandan sir, I wanted to highlight the work you are doing for the society and the IIT technology.
+Wonderful, Sir. Nowadays, IIT students are very much needed to develop our country. I congratulate
+you for this wonderful and generous donation to the IIT for supporting the infrastructure and
+improvements, research and deep technology startup ecosystems. It shows you are the technology
+person. My company is technology, but you are developing another society for IIT students. Really, I
+am touched, Sir. Wonderful decision by my company’s Board. Thank you so much and congratulations
+Sir.
+Despite of adverse of macros, enterprises continue to reevaluate to their cost to structure and
+strengthen their business to resilience. Additionally, they are adopting technology investments to foster
+agility. Sir, there’s no need to tell about my company’s financials. Wonderful, strong and consistent
+performance. Thanks for dividend. Congratulations to the wonderful team, the CEO team and technical
+members. All people are wonderful, Sir.
+- 26 -Sir, we have received very wonderful awards. Congrats for many more awards and achievements.
+Also, CSR is very wonderful, Sir. No need to say about our work with the Foundation and I have also
+gone through the all the separate annual report for the Foundation. Thank you so much, Sir.
+Mr. Chairman, I have three questions:
+First question, Sir – what is the future vision for the next of couple of years?
+And in last few quarters, Infosys has seen high profile exits at Delivery level. Since high-level exists are
+at Delivery level, could you potentially halt project timelines in the short-term?
+Third question, Sir – Financial year 2024 revenue guidance was 4-7% Y-o-Y. CCA optically looks soft
+versus peers. Does the company see at revising any guidance for the coming quarters?
+Another question, Sir. Any updates on mega deals which are 500-million US dollar?. Please comment.
+Infosys is at the forefront of adoption for technologies. What is the current percentage top-up line and
+what is the growth expected in financial year 2024-25?
+Yeah, I have a couple of questions. I'm going to conclude. Thank you.
+Sir, another question. Infosys margins may remain subdued over the next three years - financial years
+2024 to 2026. What are the levers available to get back to financial year 2016 or 2022 levels?
+Another question – strong growth in digital revenue but at the same time, a decline in core and non-
+digital revenue. How does the company plan to maintain growth in digital and non-digital revenues?
+Another question – the management sounded cautious about the outlook demand scenarios from North
+America during Q4 financial year 2023. How is the outlook after Q1 FY24?
+Final question Sir – In Q4 financial year 2023, there was weakness in Retail, Hi-Tech, Financial
+Services and Telecom segments due to unexpected ramp down. So, what is the outlook after Q1
+financial year 2024? These are my observations. And I have already submitted all the resolutions and
+thank the Company Secretary department, Manikantha and other employees and teams for the
+wonderful support for the smooth functioning. Thanks once again, Mr. Chairman Sir. I'm happy to see
+you healthy and fine. And all the Board of Directors, I wish all the best and hopefully, in the coming
+financial year, under your leadership, my company will achieve many more higher awards and
+recognitions and many more milestones under the leadership of my one and only leader, Nandan
+Nilekani. He’s the strong pillar of my company with the support of all the Board of Directors. Thank you,
+Salil Sir, in the last five years, very wonderful, you are hardworking Sir. Thank you so much for giving
+this opportunity. I wish good health to all the Board of Directors. Thank you, Manikantha ji.
+A.G.S. Manikantha
+Thank you.
+- 27 -May I now request Mr. Manoj?
+Mr. Manoj, kindly go ahead and ask your question.
+Good afternoon, Sir.
+Yes, we can hear. Kindly go ahead Sir.
+Manoj Kumar
+First question is what is our future outlook on core? Number one, how are we are geared up to tackle
+upcoming recession in the US and European market and adverse impact of foreign currencies? Second
+one is what are our plans to achieve sustainable financial growth and next point is return on earning
+targets for upcoming three to five years. That is what I just want to understand. And another one is that
+question has already been answered I think. How are we geared up for the technical disruption?. So
+that, with Salil Sir’s good presentation, I got the answer well in advance.
+Last question is while going through the Balance Sheet and P&L, I was just wondering what is the
+reason for 84% increase in travel expenses, and what is the reason for 60% increase in cost of
+software Y-o-Y. I found that these two are major factors which have brought gone down our profitability
+by 2%.
+Although, there is an increase in revenue from operations of 20%, our PBT has dropped by 2%. I feel
+these are the two major causes – 84% increase in traveling expense and 60% increase in cost of
+software Y-o-Y. So, I just want to understand the reason for that. Thank you.
+A.G.S. Manikantha
+Thank you, Sir.
+May I now request Mr. Srikantha?Sir, kindly go ahead and ask your question.
+Srikantha
+Respected Chairman, MD, Board of directors, employees of Infosys and fellow shareholders,
+namaskar.
+So, I was in for a very pleasant surprise when I met my auditor few days ago while I was filing my IT
+returns. The IT portal has been done so well, so effective by our own company, that earlier we had to
+give all the details to our auditor, like what are our earnings, expenses and everything. But now, to my
+surprise, everything is captured there. Even a small amount of ₹25 dividend from a company is
+captured there. This is fantastic. My congratulations and applause to the team who have done the hard
+- 28 -work here. And in fact, I remember last year, there were a lot ofglitches and trouble, but you're able to
+overcome everything and this is quite wonderful. I think all the auditors would be very happy. With that,
+I have only two questions.
+Sir, Infosys is known for giving special dividends on reaching each and every milestone. I remember
+when Infosys reached 25 years’ operations, they declared a fantastic special dividend. Likewise for 30
+years. Now that you have completed 40 years, I am yet to hear something of that. So please, please do
+that. And coming to the question. This question was asked by a few shareholders regarding this
+buyback. See when Infosys announced a buyback of ₹1,850 per share, and it went to the market for the
+buyback and got it around ₹1,500 or so, why was this done? See, instead of going for a buyback, you
+could have awarded the shareholders with a special dividend. These are my two questions. Thank you,
+Sir. Namaste.
+A.G.S. Manikantha
+Namaste, Sir. Thank you. May I now request Mr. Bharat Raj?
+Mr. Bharat Raj, kindly go ahead and ask your question.
+Bharat Raj
+Good evening, Mr. Chairman. I'm calling from Hyderabad. First of all, thanks to Mr. Manikantha for
+arranging a wonderful VC. Sir, first of all, congrats to the Board for completing $15 billion company. I'm
+very proud. Under the leadership of Mr. Salil, we are doing wonderful. Salil Sir, you successfully
+completed five years. I hope you remember at the physical AGM, you successfully completed three
+years like a marriage contract. Now, you've completed five years. Sir, I wish you that you retire from my
+company. I am telling you in advance that you should retire from my company. Under your leadership,
+Mr. Nilanjan Roy, wonderful performance and he's taking care of the dividend payouts and everything. I
+know how painful it is for him to arrange all these funds, but he is very maturely and very intelligently
+handling the financials, Sir. Thank you.
+Sir, I thank my Chairman Mr. Nilekani for giving ₹350 crore to the IIT. Wonderful Sir. This is the
+beginning in the country. I hope more entrepreneurs will come and contribute something to the society.
+Regarding this dividend payout, thank you very much Sir.
+When ex-CEO Mr. Vishal Sikka came, he gave two bonuses. Mr. Parekh, I’m expecting some
+something from you Sir. When can we expect bonus for you, Sir? Please look up to the bonus, Sir. Stop
+buyback and take care of at least one bonus because you successfully completed five years. At least
+this year, declare one bonus. One more thing. I want to bring your notice, Sir. You are a great leader.
+There is something I have seen in the Balance Sheet in page number 83. There are 78 sexual
+harassment cases. Last year, it was 25. It jumped to 78. I don't know what is happening under your
+leadership, Sir. Please look into the issue. Next time this shouldn’t be happening. Discrimination cases
+are also 111. I'm very sorry Sir. You're a very good leader. If anything happens, somebody will point at
+- 29 -you. My intention is that my leader, my Dhoni, the captain of our team should not be in this position.
+You are the best leader, and you are captain of my team. We will always support you. I support
+everything for you and all the resolutions, Sir. Mr. Chairman, I requested Mysore visit and you
+successfully arranged it. Now, I am requesting Mangalore visit. Whoever is attending the AGM, please
+arrange a Mangalore DC visit only for those. In 2019 physical AGM, you said you will look into the
+issue. Now COVID is also over. So, whoever is attending the AGM, please arrange a visit to Mangalore
+and inform to Manikantha too, Sir. We hope we will visit next year for physical AGM.
+Our prime minister is going all over the world Sir but why is my company not giving an opportunity to
+arrange a physical AGM? Next year, I hope we will have a physical AGM, get together and great gala,
+Sir. We will be happy to see you and meet personally. Once again, all the best for the upcoming year
+and my best wishes to the entire Manikantha’s team. God bless you. Thank you for giving this
+opportunity. Thank you, Sir.
+A.G.S. Manikantha
+Thank you, Mr. Bharath.
+May I now request Mr. Dilip. Mr. Dilip, kindly go ahead and ask your question.
+Dilip
+Yes.
+A. G. S. Manikantha
+We can hear you. Kindly go ahead and ask your question.
+Dilip
+Namaskar Sir. Nandan Nilekani Sir. Salil Sir aur aapke secretary staff ko bahut bahut dhanyavaad
+jinhone itna efforts karke aur iss meeting ko arrange kiya. Theen theen chaar chaar baar call karke
+humse trial liya. Itne badiya arrange kiya yeh VC. Fellow shareholders ne sab cheez bol diya. jyada
+bolne ke liye nahi hain. Main Jaipur, Pink city se bol raha hu. Aur, ek hi request thi aapse. Sir, ye jo
+open market se aapne jo shareholder buyback ki, uski jaga ye shareholders se kyun nahi ki jaate?
+Shareholder tho already loss mein hain, aur aap open market se ₹1,500 bhaav mein 1,850 ka share
+khareed rahe hain. Toh, yeh Sir, shareholders ke saath mein yeh galat hain dekhajaye toh.
+Baaki toh sir, jo decision aap logon ne liya woh soch ke liya hoga. Lekin thoda sa minority shareholders
+ka bhi dhyan rakhna chahiye. Baaki sab ko bahut bahut dhanyavaad iss opportunity ke liye. Thank you,
+sir.
+[Thank you to Nandan Nilekani Sir, Salil Sir, and the entire Company Secretary team for all the efforts
+you made to organize this meeting. The team called us several times for trial runs and made wonderful
+- 30 -arrangements. My fellow shareholders have already discussed everything. I do not have much to add. I
+am calling from Jaipur, the pink city.
+I have a request, Sir. Why do not you go to the shareholders instead of going to the open market? The
+shareholders have already made losses, and you buy back a share worth 1,850 for 1,500 . That is
+completely wrong. That being said, I understand that any decision you made was well thought out. But
+please also think about the minority shareholders. Thank you for giving me this opportunity. Thank you,
+Sir.]
+A. G. S. Manikantha
+Thank you, Mr. Dilip.
+May I now request the next shareholder, Abhirup Nandy?
+Abhirup Nandy
+Yeah, good evening, everyone. I'm Abhirup Nandy, shareholder from Kolkata. Namaskar.
+Respected Board members and key managerial personnel, I have connected from the City of Joy,
+Kolkata. I'm very grateful regarding the financial performance. It is very strong whether it is growth or
+cashflow. All have been very strong. Very happy with the financial performance. I just want to know
+what our company is doing regarding the adoption and integration with the upcoming process of e-
+rupee and how it is adopting with the digital form of currency that RBI has launched. And what is our
+plan regarding our expansion of Cloud business, whether there is any plan for expansion? Rest, I'm
+very happy with the corporate governance of the company and also with the financial performance.
+That's all from my side. I'm Abhirup Nandy signing off. Namaskar.
+A. G. S. Manikantha
+Thank you, Mr. Abhirup.
+Now, I will request Mr. Satish Shah.
+Mr. Satish, if you can kindly go ahead and ask your question.
+Satish Shah
+Hello. Hello.
+A. G. S. Manikantha
+- 31 -Yes, Sir. We can hear you.
+Satish Shah
+Hello.
+A. G. S. Manikantha
+Mr. Satish, are you there?
+Satish Shah
+Hello. Hello.
+A. G. S. Manikantha
+I think we have difficulty hearing Mr. Satish. Now, may I request, Ms. Suman Agarwal?
+Suman Agarwal, can you kindly go ahead and ask your question?
+Suman Agarwal?
+Suman Agarwal
+Can you hear me now?
+A. G. S. Manikantha
+Yes, I can hear you. Kindly go ahead now.
+Suman Agarwal
+Very good evening, Chairman Sir and all the Board members present. I am Suman Agarwal, member of
+Millennium MAMS joining from Kolkata and a proud shareholder of our company.
+Sir, I would like to understand how the company is going to grow in the next five years. Will it be
+through inorganic growth, new verticals or the existing verticals? Please share your views. Thank you.
+A. G. S. Manikantha
+Thank you, madam.
+- 32 -May I now request Mr. Satish? Satish, if you have joined back, kindly go ahead and ask your question.
+Mr. Satish?
+Satish Shah
+Hello… Hello…
+A. G. S. Manikantha
+Yes, Sir. We can hear you.
+Mr. Satish, hello.
+Satish Shah
+Hello… Hello…
+A. G. S. Manikantha
+Hello, Sir. We are able to hear you. Go ahead and ask your question.
+Satish Shah
+Hello… Hello…
+A. G. S. Manikantha
+Mr. Satish, if you're there, kindly go ahead and ask your question.
+I think Mr. Satish has some issue from his end.
+With that, we'll come to the end of this question system from all the shareholders. Now I will hand over
+back to Mr. Chairman.
+Nandan Nilekani
+Thank you for all the questions.
+While we provide the answers to the questions shortly, I would request the team to display questions
+received on the webchat and play videos which showcase the work done by Infosys during the past
+year.
+- 33 -[Video plays]
+We will begin the answers to the questions. In this round, we are answering the questions that were
+raised in the web chat.After one round of web chat questions, we will come back with a round of
+questions from the video and audio questions that were just asked.
+We'll start with my questions. I have three questions.
+First question is - Infosys donated to Open AI a few years back when they were a non-profit. Now
+they're incorporated for for-profit subsidiary. Is Infosys having a stake in that? If yes, how much does
+Infosys have? How is Open AI supporting Infosys as one of the early investors or donors? This
+question is from Ganesh Gopi.
+The answer is yes, Infosys was among the earliest supporters of the non-profit Open AI. And, we had
+made a donation several years back. We have no stake in the for-profit of the company. But we are
+delighted by the success that Open AI has achieved, and we wish them very good future with all the
+outstanding AI work that they're doing.
+Second question – what are the disruptions you foresee for industry in the near future, from
+Sreenivasa Rao Kilaru.
+It really is a very exciting time. There are a lot of changes happening in the world of technology. For the
+last decade, we had first whole migration for digital way of doing things using smartphones and so on.
+And then following that, we had the big wave of Cloud and Cloud migration, where Infosys plays with
+products like Cobalt. Recently, of course, there's the whole interest in AI and generative AI. Infosys is
+well-placed there with Topaz. So, all these changes are happening all at the same time. And we expect
+that in the next few years, all our global customers will have to fundamentally do a lot of changes to
+their technology and architecture. To leverage this, you will have to do things more efficient and
+become more cost-effective. At the same time, they will have to leverage all this, create transformation
+to create better business and better consumer experience. We're also at the beginning of many other
+mega trends. First is the whole green transition which includes decarbonization, which means that
+whole energy system for the world will migrate for the next several decades, from a hydrocarbon-based
+future to a renewable future means that the way we produce energy will go from having monolithic
+producers to millions of small producers, which has a huge impact on the grid means that instead of
+petrol pumps we will have gas stations, we will have charging stations. So, there's a huge
+decarbonization or climate change which is going to affect all our businesses. And of course, thanks to
+the geopolitics, people are now looking at how to make their supply chains more resilient, and allowing
+people to have multiple options, where they can produce and how it is shaped. Then of course, thanks,
+when also because of the whole security issues, you have issues of how to deal with cybersecurity, we
+have issues of how countries are going to become more able to defend themselves and so on. And of
+course, there's the whole telecom thing happening through the rollout of the 5g network. So, there are
+many, many disruptions or changes happening in the future. Now, I want to assure all of you that we at
+Infosys are fully seized of this, we are keeping a close eye on this. And we will make sure that we
+- 34 -understand these trends and changes and what they mean for our clients. We make sure that we can
+bring them best ideas and support that they can navigate the future successfully.
+Third question is from the Nani, who is a member of this Millennium Mans, Calcutta chapter, seems to
+be very strong group. She says, Sir, the world is divided as operations of AI is concerned. So which
+side do you belong?
+[No audio]
+And deep fakes, it will affect our elections and our politics. So, there are many short-term issues with
+AI. And of course, there are some people who believe that long-term AI could almost have an extinction
+risk for our humanity. Yet, Infosys believes that AI has many possible powerful use cases. And
+therefore, we will use AI using our Topaz infrastructure and our AI-first thinking to bring about
+transformation of our clients. And we will do that using responsible AI. We’ll make sure that the AI
+follows regulatory rules, privacy rules, and the accuracy rules that we need. So, we believe that AI can
+be a force for good with the appropriate guardrails. So, my question and answers, I now hand over to
+Salil to take his questions.
+Salil Parekh
+Thanks, Nandan. Now, to the questions that we have received from the web chat, I have a few that I
+will go through.
+The first from Mr. Vipul Kumar Shah. Will generative AI result in loss of jobs for coders or will it
+increase productivity, and what will be the impact on the profit of the company?
+Generative AI has a huge potential for impact with our clients. We see a lot of different projects that are
+already coming into the work that we're doing. We are working with both generative AI platforms, large
+language models, which are open source, and we are working with generative AI with different
+companies have put forward. We see productivity improvements, depending on different areas that
+could range from 10% to 30%. We also see a huge level of new type of work, for example, generative
+AI leveraging within companies, large areas of information, which are then sourced through for better
+usage. That data being used more precisely, for their purposes. We see that in vision, we see that in
+software development in various areas. So, our view is most times when new technologies are coming,
+that they have an impact which changes how our clients look at new technologies, and that expands
+the type of work that those new technologies are providing within clients. And there's also the need to
+of course, look at technologies over the past generations and making sure that they are integrated in.
+So overall, we see an exciting future that is unleashed by generative AI.
+Next question, Mr. Krishnendu Chakraborty. What will be Infosys view on future complete remote
+office or Metaverse, or similar platform?
+- 35 -Here, we have really built a flexible approach to how our employees are working. Over the last several
+months and quarters, we've seen a steady increase in employees that are starting to come back into
+the office. We also see that there are office locations in newer areas that we've set up, for example in
+Vizag, for example in the Navi Mumbai, where we are seeing more and more employees starting to
+come into these offices. We believe over time, there will be more need for social connect and social
+capital. There are several clients who are requesting that the teams be working on campus for their
+projects and that is happening. And this is going on all around the world and within India for our
+employees.
+The next question from Mr. Munirathnamma Raghavendra. Where do we see Infosys in the next five
+years across different sectors, and the impact of AI into those sectors?
+Earlier what I shared on generative AI and Topaz; Topaz really has become the platform, the
+foundation on which all of our AI and generative AI work is being done. We have tremendous level of
+large templates, use cases and real client examples beyond generative AI on AI, as well. Each of these
+are impacting different industries in different ways. We see, for example, Financial Services industries
+are leveraging AI in a fast way to rework what their internal approach to data and information is looking
+like. We see a different approach coming in Telecom, we see a different approach coming in Utilities.
+And overall, we see the industries are all getting impacted in a way that will leverage more and more of
+AI, which is supporting data analytics, machine learning and overall generative AI into the future.
+Our next question from Mr. Sajit Chellappan – What is the long-term strategy for work from home
+policy for India-based employees?
+Again, building on the previous point, our focus so far has been to make sure that we have a flexible
+approach for our employees. And we've seen a tremendous positive reception from the employees all
+around India on this. We are making sure that the employees have the ability to work from home or
+work hybrid. In some cases, where clients are requiring it, we have employees and teams that are
+working within the campus. On a long-term basis, we see a mix of where people will work, where there
+will be a need for increased social capital to connect with people, to work with teams, to do new work
+jointly, and for mentoring and coaching of individuals. And we see the flexibility that will enable more
+and more employees to be part of the work system. So, we are seeing that as really the way the future
+is evolving. And we are also keeping a close track of how our employees are relating to it, and how our
+clients are relating to it to build this strategy as we go ahead.
+Next question from Mr. Vasudeva Rao. The question is, why are we not going for big acquisitions.
+COVID provided a good opportunity to acquire. Any plans in the future to go for big acquisitions?
+So here, our view is we have a very good balance sheet and a good position overall, with respect to
+how we can look at acquisitions. Our approach has been to look at things which will fit in strategically
+within a digital or Cloud or AI framework. And then look at what will be the way to integrate it, then we
+look at the culture of the company. And then we look at what is the method of running it day to day
+once the company has been acquired. Based on those, of course the price value, we make the
+- 36 -decision. We’re here today, looking across different sizes of acquisitions. As a potential company falls
+into the right buckets for those, we will continue to do acquisitions. We've also been mindful, as we've
+seen over the last two years, where some of the acquisitions that were initially of high value, the value
+has come down. So, we are now looking more carefully at the future of acquisitions.
+Our next question from [unclear audio] – what are the growth opportunities in Middle East and South
+America? And what are the current revenue percentages in in these markets?
+We have a presence in Middle East and South America. Those are low revenue percentages. We've
+taken a focus in the past few years, where it's been much more on North America, European, and other
+parts of Asia Pacific, specifically Australia and New Zealand to develop those markets. We've also built
+strategic joint ventures in Japan and in Singapore to expand our markets. We are now looking at the
+future where there's a huge set of opportunities in the Middle East. And we want to scale that market up
+as well. And we will see more and more focus into the Middle East as we go ahead.
+Our next question is from [unclear audio] – when will our investments in Metaverse start yielding
+revenue? How large do we expect revenue stream in percentage terms?
+As you may be aware, we have created what we call the Metaverse Foundry, which is widely accepted
+within our client base. Today, we are seeing more and more use cases and interest in that. However, it
+is at an early stage today of development. And we see over time, more and more interest in this.
+Next question is from Mr. Ramesh Babu Satrasala – The question is because of the slowdown in the
+economy for software and export, how is the impact on profit and fresh hires in the coming quarters?
+So here, the overall demand environment, as was discussed earlier, is changed. With the global
+economy slowing down and the GDP rate slowing down, we see now more attention of clients moving
+from digital and cloud transformation to cost efficiency and automation. And we are fortunate that even
+in the consolidation area, we have a lot of opportunities that are coming in. We just announced you may
+have seen a few weeks ago a memorandum of understanding with BP, the original British Petroleum,
+where there's a huge benefit to Infosys from consolidation and a tremendous opportunity in the future.
+We have also announced jointly with our client just a couple of days ago, a very large transformation
+and efficiency program in the Denmark market with Danske Bank. These are the sorts of opportunities
+we see coming about, and therefore we see our focus into those areas will continue to give us benefits.
+Those are the questions I had and now I pass it on to Nilanjan.
+Nilanjan Roy
+Thanks, Salil.
+The first question I have is, why are our margins dropping when most of our competition is doing fairly
+well? Is large deals eating the margins? What is the strategy to maintain good margin while having
+good growth? And this is a question from Jagirda Hanumesh Vasudeva Rao.
+- 37 -So, in FY 23, as you're aware, we had margin impacts from salary increases. We had some costs
+coming back like travel and our utilizations dipped. Also, large deals which were struck in prior years we
+had the initial impact of that. But as you know that our aspiration continues to be to give, you know,
+robust and strong growth, and robust and strong margins. So, we are working on the margin side
+continuing to look at levers like automation, looking at Pyramid optimization onsite-offshore mix. And
+from the growth side, as you are all aware, we have delivered industry-leading growth over the last few
+years. And we continue to aspire towards that.
+The next question is how many MSME vendors were engaged during the financial year and what is the
+transaction value of business with such MSME vendors? Is there any delay in payment to such vendors
+in FY 22-23? If so, what is the value? This is a question from Mr. N. Nanchiappan.
+As on March 31, 2023, the outstanding value of dues to MSMEs was ₹97 crore and the value of
+payment made after the due date along with interest thereon during the year was ₹33 crore.
+The third question is how prepared is the company to hedge the risk of dollar depreciation?
+As you all know that we have a very strong natural hedge in many markets which we operate. The
+revenue and the costs are matched. So, you have salaries in the local currency as well as the revenue.
+At what level of market risk is remaining, we hedge that through a very robust treasury policy which is
+governed by the Audit Committee. And you've seen the impact of that over the last few years which we
+have reduced the volatility of the Forex line tremendously due to this policy.
+With that, I pass on to Manikantha.
+A. G. S. Manikantha
+Thank you, Nilanjan. I had a few questions from the web chat.
+There were two shareholders who were asking of how to view the statutory registers. The questions
+were from Supriya and Pankaj Gupta.
+The shareholders may note that all the information of the company is actually available on the website
+of the company. So, therefore, I request all the shareholders to look into the website of the company
+and also the Stock Exchange website for information dissemination and there are registers which are
+also filed with the Ministry of Corporate Affairs. So, shareholders can actually take the information from
+those publicly available information. In spite of that, if there are any specific questions or information
+which is required, you can refer or you can send a query to investors@infosys.com and we will answer
+that suitably.
+- 38 -There was a next question from Sujata Kiran. The question is what is assurance from the company
+side against any allegation which may bring down the share price of the company such as insider
+trading and all that?
+The answer is our robust policy framework always ensure compliance with applicable rules and
+regulations. We have also updated our compliance frameworks in response to the requirements of
+regulator and remain proactively engaged with them. Our robust Whistleblower Policy and program also
+ensures that any allegation is investigated in an objective manner. This framework serves to the
+interest of all the stakeholders.
+Those were the questions which was directed at me. With that, I'll hand over to Mr. Chairman.
+Nandan Nilekani
+Thank you, Mani. And now we'll come to the second round of questions. These are the questions that
+were asked in the video conference, and we will answer them in the same order.
+I had two questions. First question is our ratio of female directors is only 12% against 40% at employee
+level. Can we increase this please? This is shareholder Santosh.
+Santosh, this AGM we have the resolution for Helene’s appointment placed before the shareholders for
+approval. Post that approval, if it is obtained, the ratio of female directors will go to 25%.
+Second question – what is your view on AI replacing humans in the workforce?
+We believe that AI has the potential to make a big improvement in the productivity of people. And we
+have found that the more qualified, the more experienced a person is, you can derive more benefit from
+AI like automatic code generation and all that. So definitely productivity will go up. But we believe that it
+will be used to amplify the productivity of existing people. Therefore, we feel that we'll be able to benefit
+from this much more. At the same time, we agree we have to become more efficient and share the
+efficiencies with our clients. So, we will take this, and Infosys is on the path to applying AI in a very
+rapid way with our AI-first strategy that we are rolling out across the company at the moment. Thank
+you. Now I'll hand over to Salil.
+Salil Parekh
+Thanks, Nandan.
+I have a few questions from the questions asked in the video and by some audio.
+The first question from Mr. Sadananda Sastry, for me, what is the revenue by geography, India? India
+has the least place. How do we uplift this?
+- 39 -So, here we are doing some extremely strategic work to make India fully digital, as is being driven
+across the entire government. We are working on the GST program, on the Income tax program. And
+we will continue to work on such strategic programs as they become as the government is doing more
+of them. And we have really very strong expertise in those areas. So, this will continue to increase. We
+are also looking at the private sector where more and more of this digital work is starting to happen
+across the country.
+Next question, also from Sadananda Sastry.
+The question was about many senior employees leaving the company. How will the company take care
+of the image?
+Here, we are extremely solid in terms of the strong bench of leaders that Infosys has. We feel that that
+group of leaders that Infosys has produced over the years through its own leadership development and
+through the work hey do with clients in Delivery, in markets, really prepares them to do more and more
+work. And we have made sure that those leaders step up and take that on. We feel good about the fact
+t
+that we have such a deep leadership bench, and we will continue to work on that as we go ahead.
+Our next question from Abhirup – what are the company's plans on expanding the Cloud business?
+Cloud is really absolutely core to what we are driving. We discussed earlier, the Cobalt platform, the
+capability set, whether it's on Infra-as-a-service, Software-as-a-service, Platform-as-a-service, we really
+have the leading market capability in Cloud. We see good traction for Cloud activity overall with clients.
+We see that there is a Cloud becomes the underpinning for transformation, as companies are looking to
+move into the digital age, into the AI age. That becomes the base foundation that will be needed. And
+with our strong partnerships with several of the large Cloud companies, we believe we are well-
+positioned to play in that and this will continue to grow.
+Next question from Suman Agarwal. Question is how is the company going to grow in the next five
+years, organic versus inorganic?
+Now, here, over the past several years, we made about eight or so acquisitions. Those acquisitions are
+well-integrated. We feel that approach will continue into the future. We will look for acquisitions which fit
+the strategic direction, the cultural fit and the value, the ability to integrate. Based on that, we will
+continue the acquisition approach and the organic approach will continue. We will continue to work with
+our clients to expand as they look for the cost and efficiency and automation programs in this
+environment and also look to expand on transformation programs as they continue to make changes in
+the business. So, both dimensions will carry on into the next few years.
+- 40 -Next question from Shailesh – Which are the verticals in the business which have been least affected
+and also significantly affected by the current macro-economic conditions?
+So, here what we have shared in the past, we have seen industries such as Financial Services in
+mortgage and asset management, and investment banking, the Telecom sector, Hi-Tech, some areas
+of Retail, those are the ones that are most impacted within this environment that we have seen, what
+we reported in the end of Q4 and before that. We will see as we go ahead and how these evolve into
+the future quarters.
+Next question from Celestine – How is the company managing employee attrition?
+What we've seen over the last four quarters, Q4 and before, attrition has steadily been coming down
+each quarter on a quarterly basis. We see a lot of the initiatives that we've put in place, and also the
+overall economic environment, both of them relating to the attrition coming down, our employee
+engagement scores are continuing to go up and we believe that with that we will have a good control on
+attrition in the coming quarters. And we will make sure that that becomes translated as we look at the
+recruitment cycle and bringing in more employees from outside.
+Our next question from Santosh – Can you please provide detail on how many new clients were added
+in the last financial year?
+So here, in a specific point, in the last financial year, we have added 458 new clients.
+Next question from Dharav – Apart from the Cloud capability and digital, does the company have other
+pillars on which it sees future growth?
+So very clearly, the digital approach which comprises Cloud, digital, then also data and analytics,
+cybersecurity, IoT (Internet of Things), those are really good growth drivers. We are now seeing much
+more focus on generative AI that we have discussed quite a bit in all the questions and answers and
+overall becoming more AI-driven, AI-first and clients are looking at that. Then, in this environment,
+which is a different macro environment, there is more and more attention to cost efficiency, automation
+and consolidation. So, we are fortunate that we have both types of growth drivers where people are
+looking at transformation, they can look at Digital, Cloud and AI. And when they're looking at efficiency,
+they can look at cost, automation, consolidation and both engines are available with Infosys.
+Our next question also from Dharav – Considering the FSI segment has small share in US regional
+banks, what do you expect impact on Infosys?
+- 41 -So, we have a diverse portfolio in Financial Services, large global banks, regional banks, mid-sector
+banks, in cards, in payments, investment banks, asset managers, really very broad and diversified
+client base in the FS business. Now within US, less than 2% of our revenue has this exposure into the
+regional banking, and there we are therefore comfortable that that exposure is not going to because it's
+less than 2% not going to impact us in an overall scale of the business.
+Next question also from Dharav – What steps has company taken for wellbeing of employees?
+So here, Infosys, over the years has been extremely focused on wellbeing of employees. We have
+internally programs, for example, on health assessment and lifestyle enrichment. We have wellness
+programs for physical wellbeing and social wellbeing. And we also have wellbeing rates, where across
+locations, we track it and support employees in driving that. We are seeing a good traction overall on
+employee wellbeing within the company today.
+Next question from Redappa – A strong growth in digital with decline in core, how does the
+management have a plan to have growth both in digital and core?
+What we saw last financial year in some quarters, we actually saw good growth in core and digital. And
+now in this environment, as we see more and more focus on cost efficiency, automation and
+consolidation, we will see more and more attention to core services. But keeping in mind the overall
+macro condition, we will balance and make sure our focus on digital transformation and on core
+services remain strong.
+Next question from Shrenik Mehta – Please provide company strategy on both organic and inorganic.
+So here, similar to the point we discussed earlier, we have an approach to both organic and inorganic.
+In acquisitions, we have a focus on what will fit strategically and culturally in terms of value and
+integration. And on organic growth, we have a lot of focus on the areas we've discussed on Cloud, on
+digital, on AI-first, and on cost and efficiency in this environment.
+Next question from Shri Rama Vinodha – How is the company investing in employees for reskilling
+and upskilling?
+So there, we've always had, over the last several years a strong focus on skilling. We have Mysore
+campus where we have in-person training for all of our new employees. Over the last few years, we put
+in place the Lex capability which allows online training through mobiles for all employees. We measure
+reskilling by each of our different departments to make sure that employees have the opportunity of
+reskilling, and then the projects that become available to employees to drive through that reskilling. We
+are tracking internally, something called a Digital Quotient, that allows us to measure what is the
+- 42 -change in the type of skills every employee has, and that allows them to then become more and more
+relevant for the new types of work our clients are doing.
+Next question from Alex. What is the plan of the company in internally using AI for increasing
+productivity and quality?
+So there, what we discussed on generative AI is applicable both with our clients, but also within the
+company, where we are leveraging large language models both on the open source and dedicated
+generative AI platforms to improve productivity in software development. We've already seen
+places where that improvement is visible within our teams. We're also taking our own software
+development modules and approaches, especially in our product business and putting them through
+the large language model to enhance productivity. And you will start to see the impact of this as we go
+through the next few quarters and years to make the benefit available internally to our productivity.
+Those are the questions I had. With that, I'll pass it on to the Nilanjan.
+Nilanjan Roy
+Thank you, Salil.
+The first question I have we have requested multiple times for the company to do buybacks using
+tender offer mode. SEBI has come up with new regulations that the buybacks need to be done through
+tender offer. Please confirm if further buybacks will be like that. And the shareholder name is Shamit
+Mehta.
+So as you all know, we have a five-year capital allocation policy which we've laid out for the financial
+year 2024 period. And within that there are three components: there's a dividend component, a special
+dividend and a buyback component. And these allow predictability and consistency of returns. And as
+we've said, we've already returned 86% back and the Board looks at multipleelements looking at EPS
+accretion, looking at share price, yield on a cash return and then determines the most appropriate way
+to return this capital back. As regards the latest SEBI mandates on buybacks, we will continue to see
+that and how they will be implemented over the next year or two years.
+The next question is from Sadananda Sastry on page 301, Other expenses ₹133 crore increase in
+ECL. How do we reduce it?
+So, as you know, the company makes provisions for expected credit losses based on historical
+performance on the macro-economic conditions in terms of the geographies we operate in, and the
+sectors we operate in, and therefore makes the provisions appropriately. This is as per the relevant
+accounting standards.
+- 43 -Does the company have plans of doing CSR activities in the eastern part of the country? This is from
+shareholder Manoj Kumar.
+So, as you know, our CSR policy encompasses work around women empowerment, around health,
+education, and of course, sustainability, targeting the underprivileged. We also look at criteria around
+scaling up of these projects, and making sure that they have an impact and follow our overall themes.
+We have also started doing many projects in the east of the country, and if they meet these criteria, we
+will continue to expand there.
+The next question is regarding work from office two days from office two days from home, what is the
+policy of the company in this regard?
+I think we have a very flexible policy and a hybrid policy in terms of working from office and working
+from home to give people the flexibility. We encourage, of course, people to come to work a few days,
+and we believe that increases our social capital. And I think a big portion of this, of course depends
+upon our client requirements and our clients of course insist that employees come into work. So, this
+helps us maintaining a fair balance of giving client connectivity, and time for teams working together.
+Infosys margins may remain subdued in the next two, three years. What are the levers available to
+improve this? Reddappa.
+So as you know, we've given guidance for financial year 2024. And of course, we don't give a guidance
+beyond that. But like I explained earlier in one question, we have multiple levers for us to aspire to get
+higher margins and robust margins. We've talked about the Pyramid. We've talked about onsite
+offshore mix. Automation remains a big element, pricing, and there are the levers like subcon, etc.,
+which help us to continue to look at improving margins.
+Next question is whether the company is listed on any global ESG forum or platform. And this is from
+shareholder Celestine.
+Yes, as we already mentioned, we have of course got recognized, you know, rankings in India as well.
+But we are also recognized globally. We are part of the Dow Jones Sustainability Index, we have got a
+double A rating from MSCI ESG ratings, a global rating. We are under A-list of CDP in 2022. We are on
+the EcoVadis ratings as well. So, we are recognized as a leader in both our sector and even across
+sectors in many of these ratings globally.
+Cybersecurity and data privacy are big concerns these days. What steps are we taking in this direction?
+And this is a question from Shailesh.
+So, in cybersecurity, at Infosys, it's managed to multi-layered controls with defense in depth approach,
+starting from cybersecurity strategy, policies, processes. We got multiple certifications from ISO 27001.
+And also, we've been attested by SSAE, which is an independent audit firm. On data privacy, also
+- 44 -Infosys has seen significant growth of the DPO from 2010. And we've established an independent data
+privacy office and we are consistently working with our clients to improve both our securityand zero
+trust profiles and also on data privacy as well.
+Next question is can the company provide the initiatives just taken on sustainability and climate
+change?
+As you can see from our ESG book, which is on our website, we have an encompassing goal across all
+the three pillars of E, S and G. On Environment, we are looking holistically at climate change, at waste,
+and for water and we have aggressive goals, all of them. On the sustainability side, you know of
+Springboard program, which is giving free education across both India and across the world. We have
+digital skilling as another initiative, which we are taking up, women in workforce 39.4%, one of the
+highest in the sector across the world, across many of our peers as well. On the G side, we're working
+on improving governance, we've got the Ethisphere award for the most ethical company three years in
+a row. We're continuing to work on our supply chain ESG and auditing many of our supply chain
+partners to make sure that their ESG elements are also built into what we are consuming. And these
+are the initiatives we have taken, and we are laying out a goal every year and reporting against that in
+the ESG data book.
+Next question is how are we geared up to handle recession in the US and Western countries? And this
+is from Manoj.
+Yes, as you've heard, both from Salil, there has been across the macro environment slowdown, and
+this is reflected in our growth guidance for FY24. We have a very healthy pipeline, our pivot towards
+cost takeout for our clients in this environment becomes very critical. And therefore, some of the deals
+you have been seeing winning are based on these. This helps our clients reduce costs to automation to
+improve offshoring, digitization, and therefore makes us as, IT services company, a very important part
+of their overall business environment. And our end-to-end offerings during digital transformation help
+our clients to take out cost as well as help them in their longer-term transformation exercise.
+Next question is what is the reason for increase in travel expenses and software expenses?
+Travel, of course, came back last year as the COVID controls really have eased during the last year
+and therefore, if you can see pre-COVID as well, our travels are now going up at that level. Software
+expenses are going up, and because they are integrated to our overall delivery, whether it is Cloud,
+whether its overall infrastructure, these are becoming integral to the delivery model, which we have.
+Infosys is known for giving special dividends. What can we expect? When can we expect special
+dividend on completing 40 years? This was from a shareholder Srikantha.
+- 45 -Like I just mentioned, we have the Capital Allocation Policy which talks about special dividends,
+buybacks and regular dividends. And of course, over the last four years in line with our policy, we
+returned 86% back. The Board continuously looks at different elements into the decision of giving
+buybacks and of course, at this stage, we don’t have any special announcement on special dividend.
+The last question is when can we expect a bonus from the company?
+At this stage, we have no such announcement to make.
+A. G. S. Manikantha
+Thank you, Nilanjan. There were a few questions which came from video and audio questions.
+The first question is from Mr. Shrenik. The question is every time I cast my vote, I find my mobile and
+data is not registered with NSDL. KFin Tech is not picking up the data fully from NSDL. What can you
+do to help?
+The shareholders may note that the RTA system is fully automated, and it actually reflects the details
+which is uploaded on the depositories. There is no manual intervention there. So therefore, the
+information which is available at the depositories is the one which has been processed by an RTA.
+In case if you cannot retrieve your details, the way you have done it, you can request for resetting the
+login ID and password. You will receive the same.
+The next question was from Mr. Bharat Raj. Request to arrange for the Mangalore DC visit and there
+was also a suggestion for holding the physical AGM.
+We were privileged to hold the shareholders in our Mysore campus a few years back. As we returned to
+the normalcy, we will look into the request appropriately in the future. And with request to the physical
+meeting, I think as you know virtual meetings give shareholders access from across the globe. In fact, a
+few shareholders have suggested that the meeting should be conducted virtual.
+In this AGM, we have around 23 shareholders who are joining from different countries and from
+different time zones, which actually helps them to connect from everywhere.
+The next question was from Mr. Sadananda Sastry, about the details are mentioned in the tenure of
+director which is mentioned as not applicable.
+- 46 -The answer is, Nandan is appointed as a non-executive and non-independent director. He is liable to
+retire by rotation as required under the Companies Act, 2013. Accordingly, he is offering himself for
+shareholders’ approval, periodically.
+There was another question from buyback requesting the details of the regulations. I think these details
+were already provided by Mr. Nilanjan.
+Those were the questions which were directed at me. With that, I'll hand over back to Mr. Nandan.
+Nandan Nilekani
+Thank you, Mani.
+Members may note that e-voting on the NSDL platform will continue to be available for the next 30
+minutes. Therefore, I request members who have not cast their vote yet, do so within the next 30
+minutes. The Board of Directors appointed B. Hemanth, practicing Company Secretary as the
+scrutinizer to supervise the e-voting process.
+Further, I hereby, authorize Manikantha, the Company Secretary, to declare the results of the voting
+and place the results on the website of the company at the earliest.
+The resolutions, as set forth in the notice shall be deemed to be passed today, subject to the receipt of
+the requisite number of votes.
+We had 373 members participating in today's 42nd Annual General Meeting. Thank you for attending
+the meeting. I hereby declare the proceedings of Infosys limited 42nd Annual General Meeting closed.
+Thank you. Have a great day.
+- 47 -

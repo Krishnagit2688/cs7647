@@ -1,0 +1,158 @@
+
+Ladies and gentlemen, good day and welcome to the Infosys Limited Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-only mode.
+Should you need assistance during the conference call, please signal an operator by
+pressing star then zero on your touchtone phone.
+After today's presentation, there will be an opportunity to ask questions. To ask a
+question, you may press star then one on your telephone keypad. To withdraw your
+question, please press star then two. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Sandeep Mahindroo. Thank you and over to you,
+sir.
+Sandeep Mahindroo
+Thanks Inba. Hello, everyone, and welcome to Infosys financial results for Q4 and FY
+‘23. Joining us here on this call is CEO and MD, Mr. Salil Parekh, CFO, Mr. Nilanjan
+Roy, and other members of the senior management team. We will start the call with
+some remarks on the performance of the company for the recently concluded quarter
+end year by Salil and Nilanjan, subsequent to which the call will be opened up for
+questions.
+Please note that anything we say that refers to our outlook for the future is a forward-
+looking statement that must be read in conjunction with the risks that the company
+faces. A full statement explanation of these risks is available in our filing with the SEC,
+which can be found on www.sec.gov.
+I would now like to pass it on to Salil.
+Salil Parekh
+Thanks, Sandeep. Good evening and good morning to everyone on the call and thank
+you for joining us.
+For the full financial year 2023, we had a good performance with growth of 15.4% in
+constant currency. Our digital business grew 25.6%, now being 62.9% of our overall
+revenue and our core services grew as well at 1.9%.We saw broad based growth across our business segments, with most in double digits.
+We had 26% growth in Europe and 12% in the US.
+We had 95 large deals with a value of $9.8 bn for the year, with 40% net new. Our
+operating margin for the full year was at 21%. We generated free cash flow of $2.5 bn
+in the year. Our attrition has continued to decline in each of the quarters through the
+year.
+We are leveraging generative AI capabilities for our clients and within the company.
+We have active projects with clients working with generative AI platforms to address
+specific areas within their business. We have trained opensource generative AI
+platforms on our internal software development library. We anticipate generative AI to
+provide more opportunities for work with our clients and to enable us to improve our
+productivity.
+In Q4, we saw changes in the market environment. During the quarter, we saw
+unplanned project ramp downs in some of our clients and delays in decision making,
+which resulted in lower volumes. In addition, we had some one-time revenue impacts.
+While we saw some signs of stabilization in March, the environment remained
+uncertain. This led to a Q4 year-on-year growth of 8.8% in constant currency and
+quarter-on-quarter decline of 3.2%.
+Our operating margin was at 21% for the quarter and we had $2.1 bn in large deals in
+the quarter. We generated $713 mn of free cash flow in the quarter.
+Our pipeline of large deals is extremely strong. Several of these are mega deals and
+several of these opportunities are for cost and efficiency programs and for consolidation
+projects.
+Some industries such as financial services (in Mortgages, Asset Management,
+Investment Banking), Telecom, Hi-Tech and Retail are more impacted, leading to
+uncertainty in spend and delays in decision making. The US geography is more
+impacted than Europe.
+Keeping in mind the current environment, we have further expanded our internal
+efficiency and cost program to work on our pyramid, onsite ratio, automation, travel,subcontractor cost, office consolidation and on pricing. We anticipate this program will
+build a path to higher margins in the medium term.
+We are committed to investing in our people in this period. We are committed to
+working with our clients as we deal with changes in the economic environment.
+Based on our sustained momentum in financial year ‘23, a strong pipeline of
+opportunities, especially focused on cost, efficiency and consolidation, while also
+keeping in mind the uncertain environment, our revenue growth guidance for this
+financial year is 4% to 7% in constant currency. Operating margin guidance for this
+financial year is 20% to 22%. Thank you.
+With that, let me hand it over to Nilanjan.
+Nilanjan Roy
+Thanks, Salil. Good evening, everyone. And thank you for joining this call.
+FY ‘23 was a year of two halves, mirroring broader macroeconomic conditions. Growth
+was extremely strong in H1 with 20%, year-on-year constant currency which reduced
+to 11.2% in H2 due to the slowdown in verticals like telecom, high-tech, retail, and
+parts of financial services. Q4 came in slower than expected due to some specific client
+ramp-downs in discretionary spend and delayed client decision-making on new deals.
+In addition, we had some one-off revenue impacts, including project cancellations, etc.
+Despite the above, we closed FY ‘23 with a strong 15.4% growth in constant currency,
+leading to continued market share gains.
+Operating margins for Q4 and FY ‘23 were at 21% in line with our guidance. Free cash
+conversion to net profit for FY ‘23 was near 85%. FY ’23 EPS grew by 1.3% in dollar
+and 9.7% in rupee terms.
+Client metrics were strong with the number of $50 mn clients increasing to 75, $100
+mn client counts increasing to 40, and $200 mn client counts increasing to 15.
+LTM voluntary attrition declined to 20.9%. Quarterly annualized attrition reduced by
+over 4% sequentially and is the lowest in the last nine quarters. This is also well below
+pre-pandemic levels.Coming to Q4 performance, revenues grew by 8.8% year-on-year and declined by 3.2%
+sequentially in constant currency terms due to the reasons mentioned earlier.
+Utilization declined to 80% on the back of softness in demand. We expect the utilization
+to improve gradually in the coming quarters as freshers starts getting deployed.
+We will calibrate the hiring for FY’24 based on available pool of employees, growth
+expectations and attrition trends.
+Q4 margins were at 21%, which is a decline of 50 basis points sequentially. Major
+components of sequential margin movements are
+- tailwinds of 50 basis points on cost optimization, including reduction in sub-
+con.
+- 60 basis points benefit from reduction in PSCS, which is post sale customer
+support.
+Offset by a headwind of about
+- 70 basis points from a drop in utilization and
+- the balance 90 basis points with a combination of revenue one-timers as
+mentioned above, partly offset by other savings.
+Q4 EPS grew by 0.2% in dollar terms and 9% in rupee terms on a year-on-year basis.
+Our balance sheets remained strong and debt-free.
+Consolidated cash and equivalents stood at $3.8 bn at the end of the quarter. Free cash
+flow for the quarter was robust at $713 mn with a conversion of 95% to net profit.
+Yield on cash balance was 6.66% in Q4.
+The board has recommended a final dividend of ₹17.50 per share, which will result in
+a total dividend of ₹34 per share for FY ‘23 versus ₹31 per share for FY ‘22, an increase
+of 9.7% per share for the year. Including the final dividend and recently concluded
+buyback, we have returned 86% of FCF to shareholders over the last four years under
+our current capital allocation policy.
+In Q4, we completed the open market share buyback of ₹9,300 crores, buying back
+1.44% of shares at an average buyback price of ₹1539 versus a maximum buyback price
+of ₹1850.ROE increased to 31.2% in FY ‘23 from 29.1% in FY ’22 as a result of higher payout
+to investors.
+Coming to segment performance,
+Large deal momentum continued, and we signed 17 large deals in Q4. TCV was $2.1
+bn with 21% net new. Five large deals were in manufacturing, four in FS, three in CRL,
+two each in Life Sciences and Hi-Tech, and one in EURS.
+Region-wise, this was split by ten in America and seven in Europe.
+In FY ‘24, we signed 95 large deals with TCV of $9.8 bn with 40% net new.
+Coming to vertical segment performance,
+Financial services vertical was impacted by budgeting delays at the start of the year led
+by macroeconomic uncertainty coupled with softness in mortgages, asset management
+and investment banking. However, our strong pipeline and large deal-wins in areas like
+infra, production support, cybersecurity and business operations is helping in better
+visibility for FY ‘24. We have a very diverse portfolio of clients in the US and hence,
+exposure to multiple regional banks is less than 2% of our overall revenues. We do not
+anticipate any material impact on our operations as a result of recent news and regional
+banking segment.
+In Retail, there is heightened focus on accelerating digital transformation to enable top
+line growth with rigor in ensuring budgets get spent on right programs to maximize
+ROI. While there is some pressure on discretionary tech spending, companies are
+prioritizing investments in key areas such as e-commerce platforms, supply chain
+management systems and customer engagement tools.
+Manufacturing segment continues to see ramp-up of large deal wins and benefits of
+vendor consolidation. There is increased focus on digital spend, including opportunities
+on ER&D, 5G and industrial IoT. Increased energy prices and interest rates coupled
+with continuous supply chain disruptions is impacting spend on the run side of the
+business, especially in Europe.
+Communications segment is witnessing increased opex pressures, cost cutting ramp-
+downs and delayed decision-making. Demand for ideas and solutions are moving from
+cost takeout to revenue growth side with heavy focus on customer success. Cloud andmobility remain top driver for 5G adoption. Overall pipeline remains strong, which
+gives us the confidence of growth opportunities in the coming quarters.
+The positive momentum in energy utilities resources and services for FY '23 was
+supported by large deal wins. Our renewed strategy to re-pivot our offerings and
+developing integrated Energy as a Service solution and the focus on the journey to net-
+zero initiative has positioned us well ahead of competition. While we are seeing delays
+in kicking off discretionary spend projects, the cost takeout and vendor consolidation
+initiatives continue to pick momentum.
+We expect our revenues to grow by 4% to 7% in constant currency terms in FY '24.
+Our pipeline of large deals remains extremely strong with increased focus on cost
+takeout programs. Operating margin guidance stands at 20% to 22%. The margin
+guidance factors in growth assumptions for FY '24, impact of utilization, employee cost
+increases, further normalization of costs like travel, facilities, etc. We continue to focus
+on various cost optimization and efficiency improvement measures.
+As we look beyond FY '24, we believe we have various levers to generate more
+efficiencies like improving utilization, reducing subcons, improving pyramid apart
+from growth acceleration and potential pricing increases, which will enable us to aspire
+for higher margins over time.
+With that, we can open up the call for questions.
